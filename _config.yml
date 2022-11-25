@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "吴良顺"
   avatar           : "profile.jpg"
-  bio              : "低功耗类脑芯片，智能无线传感网络，密码学与隐私计算"
+  bio              : "研究方向：低功耗类脑芯片，智能无线传感网络，密码学与隐私计算\n Email:wuliangshun@sjtu.edu"
   location         : "上海"
   
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : wuliangshun@sjtu.edu
+  #email            : wuliangshun@sjtu.edu
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
