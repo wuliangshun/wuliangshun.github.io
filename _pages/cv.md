@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+职称	：	助理研究员
+联系电话	：	15927187447
+E-Mail	：	wuliangshun@sjtu.edu.cn
+通讯地址	：	上海市闵行区东川路800号微电子楼309
+
 
 教育背景
 ======
