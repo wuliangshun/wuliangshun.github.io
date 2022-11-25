@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "吴良顺"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "低功耗类脑芯片，智能无线传感网络，密码学与隐私计算"
   location         : "上海"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
