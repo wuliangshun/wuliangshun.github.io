@@ -35,11 +35,11 @@ redirect_from:
 发表论文
 ======
 * Liangshun Wu, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2022
-* Liangshun Wu, Peilin Liu*.Fast Vehicle Counting using Spiking-YOLO with Adaptive Dropout and DropConnect[J]. Computational Intelligence and Neuroscience. 2022
-* Liangshun Wu, Junsuo Qu*, Haonan Shi, Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. Entropy, 2022
+* Liangshun Wu, Peilin Liu*.Fast Vehicle Counting using Spiking-YOLO with Adaptive Dropout and DropConnect[J]. Journal of Electronic Imaging. 2022
 * Liangshun Wu, H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing, 2021.
-* Liangshun Wu, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
 * Liangshun Wu*, H. J. Cai, Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy, 2022, 16(1): 1-20.
+* Liangshun Wu, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
+* Liangshun Wu, Junsuo Qu*, Haonan Shi, Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. Entropy, 2022
 * Liangshun Wu, H. J. Cai*, Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. IEEE Access, 2019, 7.
 * Liangshun Wu, H. J. Cai*, Han Li. SGX-UAM: A Secure Unified Access Management Scheme with One Time Passwords via Intel SGX[J]. IEEE Access, 2021, 9.
 * Liangshun Wu*, H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// International Conference on Computer Science and Application Engineering, 2018.
@@ -48,8 +48,7 @@ redirect_from:
 * Quan Chen, Liangshun Wu, Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．Journal of Cloud Computing-Advances, Systems and Applications, 2022.
 * Yun Wu, Liangshun Wu, Hengjin Cai*, Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] Computer Communications. 2022.
 * Yun Wu, Liangshun Wu, Hengjin Cai*, A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks, 2022
-* Yun Wu, Liangshun Wu, Hengjin Cai*, A Deep Learning Approach to Secure
-* Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
+* Yun Wu, Liangshun Wu, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
 
 授权专利
 ======
@@ -72,7 +71,7 @@ redirect_from:
   
 奖项荣誉
 ======
-* 2022年中国●(广东)中山海外博士博士后创新赛	优胜奖	本人排名第6
+* 2022年中国(广东)中山海外博士博士后创新赛	优胜奖	本人排名第6
 * 第四届“互联网+”大学生创新创业大赛湖北省主赛道创意类	银奖/楚天创客奖	本人排名第1
 * 首届 Z-HACK 算法创新大赛区块链赛道	冠军	本人排名第1
   
