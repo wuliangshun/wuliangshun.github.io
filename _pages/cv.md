@@ -17,7 +17,7 @@ redirect_from:
 工作经历
 ======
 * 2022.12～至今	上海交通大学电子信息与电气工程学院	助理研究员
-* 2022.01～至今	上海交通大学电子信息与电气工程学院	博士后
+* 2022.01～至今	上海交通大学信息与通信工程流动站	博士后
 
 教育背景
 ======
@@ -30,12 +30,13 @@ redirect_from:
  
 科研项目
 ======
-* 参与，科技创新2030重大项目:支持在线学习的类脑芯片架构 (2022ZD0208700)，经费：5096万元.
+* 参与，纵向项目，科技创新2030重大项目:支持在线学习的类脑芯片架构 (2022ZD0208700)，科技部，经费：5096万元.
+* 参与，横向项目，嵌入式系统即插即用接口技术 (202212139HJ023)，航天三院8358所，经费：90万元.
 
 发表论文
 ======
 * Liangshun Wu, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2022
-* Liangshun Wu, Peilin Liu*.Fast Vehicle Counting using Spiking-YOLO with Adaptive Dropout and DropConnect[J]. Journal of Electronic Imaging. 2022
+* Liangshun Wu, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Journal of Electronic Imaging. 2022
 * Liangshun Wu, H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing, 2021.
 * Liangshun Wu*, H. J. Cai, Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy, 2022, 16(1): 1-20.
 * Liangshun Wu, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
