@@ -33,6 +33,11 @@ redirect_from:
 * 参与，纵向项目，支持在线学习的类脑芯片架构 (2022ZD0208700)，科技部科技创新2030”脑计划与类脑研究“重大项目，经费：5096万元.
 * 参与，横向项目，嵌入式系统即插即用接口技术 (202212139HJ023)，航天三院8358所，经费：90万元.
 
+学术兼职
+======
+* IEEE会员
+* International Journal of Information Security and Privacy, IEEE Internet of Things Journal等期刊审稿人
+
 发表论文
 ======
 * Liangshun Wu, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2022
