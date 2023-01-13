@@ -12,12 +12,11 @@ redirect_from:
 
 研究方向
 ======
-低功耗类脑芯片，智能无线传感网络，密码学与隐私计算
+类脑芯片与编译器，加密芯片
 
 工作经历
 ======
-* 2022.12～至今	上海交通大学电子信息与电气工程学院	助理研究员
-* 2022.01～至今	上海交通大学信息与通信工程流动站	博士后
+* 2022.01～至今	上海交通大学信息与通信工程流动站	助理研究员，博士后
 
 教育背景
 ======
@@ -51,10 +50,11 @@ redirect_from:
 * Liangshun Wu*, H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// International Conference on Computer Science and Application Engineering, 2018.
 * Liangshun Wu, H. J. Cai*, Jinbo Liu, Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//International Conference on Advanced Electronic Materials, Computers and Software Engineering, 2021.
 * 吴良顺,应忍冬*,刘佩林,张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022
-* Quan Chen, Liangshun Wu, Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．Journal of Cloud Computing-Advances, Systems and Applications, 2022.
+* Quan Chen, Liangshun Wu, Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．Journal of Cloud Computing, 2022.
 * Yun Wu, Liangshun Wu, Hengjin Cai*, Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] Computer Communications. 2022.
 * Yun Wu, Liangshun Wu, Hengjin Cai*, A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks, 2022
 * Yun Wu, Liangshun Wu, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
+* Yun Wu, Liangshun Wu, Hengjin Cai*, Cloud-Edge Data Encryption in  The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
 
 授权专利
 ======
