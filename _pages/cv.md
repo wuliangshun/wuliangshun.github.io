@@ -30,8 +30,9 @@ redirect_from:
  
 科研项目
 ======
-* 参与，纵向项目，支持在线学习的类脑芯片架构 (2022ZD0208700)，科技部科技创新2030”脑计划与类脑研究“重大项目，经费：5096万元.
-* 参与，横向项目，嵌入式系统即插即用接口技术 (202212139HJ023)，航天三院8358所，经费：90万元.
+* 参与，纵向项目，支持在线学习的类脑芯片架构 (2022ZD0208700)，科技部科技创新2030”脑计划与类脑研究“重大项目，经费：5096万元，2022.8~2027.8。
+* 参与，横向项目，基于操作系统的嵌入式软件系统设计与实现，中国航天科工集团第三研究院8358研究所，经费：90万元，2023.03-2024.05。
+* 参与，横向项目，基于类脑智能的遥感目标解译理论方法研究，“XXXX”军事科研重点实验室自主科研基金项目，经费：25万元，2023.02~2023.10。
 
 学术兼职
 ======
@@ -40,8 +41,8 @@ redirect_from:
 
 发表论文
 ======
-* Liangshun Wu, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2022
-* Liangshun Wu, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Journal of Electronic Imaging. 2022
+* Liangshun Wu, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2022.
+* Liangshun Wu, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Journal of Electronic Imaging. 2022.
 * Liangshun Wu, H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing, 2021.
 * Liangshun Wu*, H. J. Cai, Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy, 2022, 16(1): 1-20.
 * Liangshun Wu, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
@@ -52,7 +53,7 @@ redirect_from:
 * Liangshun Wu, H. J. Cai*, Jinbo Liu, Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//International Conference on Advanced Electronic Materials, Computers and Software Engineering, 2021.
 * 吴良顺,应忍冬*,刘佩林,张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022
 * Quan Chen, Liangshun Wu, Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．Journal of Cloud Computing, 2022.
-* Yun Wu, Liangshun Wu, Hengjin Cai*, Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] Computer Communications. 2022.
+* Yun Wu, Liangshun Wu, Hengjin Cai*, Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] Computer Communications. 2023.
 * Yun Wu, Liangshun Wu, Hengjin Cai*, A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks, 2022
 * Yun Wu, Liangshun Wu, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
 * Yun Wu, Liangshun Wu, Hengjin Cai*, Cloud-Edge Data Encryption in  The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
