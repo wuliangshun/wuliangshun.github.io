@@ -41,8 +41,8 @@ redirect_from:
 
 发表论文
 ======
-* Liangshun Wu, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2022.
-* Liangshun Wu, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Journal of Electronic Imaging. 2022.
+* Liangshun Wu, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2023.
+* Liangshun Wu, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
 * Liangshun Wu, H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing, 2021.
 * Liangshun Wu*, H. J. Cai, Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy, 2022, 16(1): 1-20.
 * Liangshun Wu, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
@@ -69,6 +69,7 @@ redirect_from:
 * 吴良顺,蔡恒进. 数据加密、解密方法、装置和加解密电路:ZL202011428776.5[P].2021-03-16.
 * 吴良顺. 数据传输方法、装置、计算机设备和存储介质:ZL202010236912.4[P].2021-03-16.
 * 吴良顺. 数据处理方法、装置、计算机设备和存储介质:ZL201911418869.7[P].2022-08-02.
+* 吴良顺. 一种缓存侧信道攻击的检测方法、装置和电子设备:ZL202110510694.3[P].2023-03-28.
 * 吴良顺. 一种可见光通信系统及光传感设备:ZL202020373317.0[P].2020-09-18.
 * 吴良顺. 通信数据校验方法、装置、计算机设备和存储介质:ZL202010357173.4[P].2021-06-15.
 * 吴良顺. 一种热迁移的方法、装置及电子设备:ZL202011185459.5[P].2022-10-25.
@@ -79,7 +80,8 @@ redirect_from:
 * 吴良顺. 基于隐私保护的联邦建模装置、方法及可读存储介质:ZL201910696340.5[P].2021-03-16.
 * 吴良顺. 基于隐私保护的数据泄露溯源装置、方法及可读存储介质:ZL201910913135.X[P].2021-07-13.
 * 吴良顺. 基于区块链的身份认证方法、系统、装置和计算机设备:ZL202010577112.9[P].2021-10-22.
-* 吴良顺, 蔡恒进.基于区块链的数据处理装置、方法及计算机可读存储介质:ZL201910538908.0[P].2020-03-27
+* 吴良顺, 蔡恒进.基于区块链的数据处理装置、方法及计算机可读存储介质:ZL201910538908.0[P].2020-03-27.
+* 吴良顺, 刘金波.一种主链和侧链的数据交换方法及装置:CN202010365404.6[P].2023-04-07
 * 吴良顺. 主节点的确定方法、装置和存储介质:ZL201910662799.3[P].2022-04-08.
 * 吴良顺. 交互式登录验证装置、方法及计算机可读存储介质:ZL201910477881.9[P].2020-02-11.
 * 蔡恒进,吴良顺. 电子邮件签名方法、装置及存储介质:ZL201910498033.6[P].2020-02-11.  
