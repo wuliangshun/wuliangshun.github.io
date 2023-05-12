@@ -12,7 +12,7 @@ redirect_from:
 
 研究方向
 ======
-类脑芯片与编译器，加密芯片，传感器网络
+类脑芯片与编译器，无线传感网络，密码学
 
 工作经历
 ======
@@ -41,56 +41,56 @@ redirect_from:
 
 发表论文
 ======
-* Liangshun Wu, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2023.
-* Liangshun Wu, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
-* Liangshun Wu, H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing, 2021.
-* Liangshun Wu*, H. J. Cai, Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy, 2022, 16(1): 1-20.
-* Liangshun Wu, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
-* Liangshun Wu, Junsuo Qu*, Haonan Shi, Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. Entropy, 2022
-* Liangshun Wu, H. J. Cai*, Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. IEEE Access, 2019, 7.
-* Liangshun Wu, H. J. Cai*, Han Li. SGX-UAM: A Secure Unified Access Management Scheme with One Time Passwords via Intel SGX[J]. IEEE Access, 2021, 9.
-* Liangshun Wu*, H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// International Conference on Computer Science and Application Engineering, 2018.
-* Liangshun Wu, H. J. Cai*, Jinbo Liu, Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//International Conference on Advanced Electronic Materials, Computers and Software Engineering, 2021.
-* 吴良顺,应忍冬*,刘佩林,张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022
-* Quan Chen, Liangshun Wu, Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．Journal of Cloud Computing, 2022.
-* Yun Wu, Liangshun Wu, Hengjin Cai*, Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] Computer Communications. 2023.
-* Yun Wu, Liangshun Wu, Hengjin Cai*, A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks, 2022
-* Yun Wu, Liangshun Wu, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
-* Yun Wu, Liangshun Wu, Hengjin Cai*, Cloud-Edge Data Encryption in  The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
+* **Liangshun Wu**, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2023.
+* **Liangshun Wu**, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
+* **Liangshun Wu**, H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing, 2021.
+* **Liangshun Wu** *, H. J. Cai, Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy, 2022, 16(1): 1-20.
+* **Liangshun Wu**, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
+* **Liangshun Wu**, Junsuo Qu*, Haonan Shi, Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. Entropy, 2022
+* **Liangshun Wu**, H. J. Cai*, Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. IEEE Access, 2019, 7.
+* **Liangshun Wu**, H. J. Cai*, Han Li. SGX-UAM: A Secure Unified Access Management Scheme with One Time Passwords via Intel SGX[J]. IEEE Access, 2021, 9.
+* **Liangshun Wu** *, H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// International Conference on Computer Science and Application Engineering, 2018.
+* **Liangshun Wu**, H. J. Cai*, Jinbo Liu, Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//International Conference on Advanced Electronic Materials, Computers and Software Engineering, 2021.
+* **吴良顺**,应忍冬*,刘佩林,张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022
+* Quan Chen, **Liangshun Wu**, Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．Journal of Cloud Computing, 2022.
+* Yun Wu, **Liangshun Wu**, Hengjin Cai*, Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] Computer Communications. 2023.
+* Yun Wu, **Liangshun Wu**, Hengjin Cai*, A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks, 2022
+* Yun Wu, **Liangshun Wu**, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
+* Yun Wu, **Liangshun Wu**, Hengjin Cai*, Cloud-Edge Data Encryption in  The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
 * Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Preprint, 2023. Available at: SSRN:4439523 or http://dx.doi.org/10.2139/ssrn.4439523.
 
 授权专利
 ======
-* 吴良顺. 信号放大电路及电子装置:ZL201920821881.1[P].2019-12-24.
-* 吴良顺. 芯片激活装置、方法及计算机可读存储介质:ZL201910776735.6[P].2020-10-30.
-* 吴良顺. 基于斐波那契进制的逻辑运算电路:ZL202011640617.1[P].2022-12-13.
-* 吴良顺. 密钥分配方法、装置、计算机设备和存储介质:ZL202011464095.4[P].2022-08-02.
-* 吴良顺. 序列密码生成方法、数据加密方法和数据解密方法:ZL202010236237.5[P].2020-12-25.
-* 吴良顺,蔡恒进. 数据加密方法、数据解密方法、装置、计算机设备和介质:ZL202011433357.0[P].2021-03-16.
-* 吴良顺,蔡恒进. 数据加密、解密方法、装置和加解密电路:ZL202011428776.5[P].2021-03-16.
-* 吴良顺. 数据传输方法、装置、计算机设备和存储介质:ZL202010236912.4[P].2021-03-16.
-* 吴良顺. 数据处理方法、装置、计算机设备和存储介质:ZL201911418869.7[P].2022-08-02.
-* 吴良顺. 一种缓存侧信道攻击的检测方法、装置和电子设备:ZL202110510694.3[P].2023-03-28.
-* 吴良顺. 一种可见光通信系统及光传感设备:ZL202020373317.0[P].2020-09-18.
-* 吴良顺. 通信数据校验方法、装置、计算机设备和存储介质:ZL202010357173.4[P].2021-06-15.
-* 吴良顺. 一种热迁移的方法、装置及电子设备:ZL202011185459.5[P].2022-10-25.
-* 吴良顺. 基于SGX的可信输入输出控制方法、装置、设备和存储介质:ZL202011506823.3[P].2022-08-02.
-* 吴良顺. 基于SGX的云端飞地资源管理方法、装置、计算机设备和介质:ZL202011518608.5[P].2022-12-09.
-* 吴良顺. 数字证书处理方法及系统、电子设备及存储介质:ZL202110220544.9[P].2023-01-10.
-* 吴良顺. 基于中间件的数据传输方法、装置和计算机设备:ZL202010380835.X[P].2022-07-29.
-* 吴良顺. 基于隐私保护的联邦建模装置、方法及可读存储介质:ZL201910696340.5[P].2021-03-16.
-* 吴良顺. 基于隐私保护的数据泄露溯源装置、方法及可读存储介质:ZL201910913135.X[P].2021-07-13.
-* 吴良顺. 基于区块链的身份认证方法、系统、装置和计算机设备:ZL202010577112.9[P].2021-10-22.
-* 吴良顺, 蔡恒进.基于区块链的数据处理装置、方法及计算机可读存储介质:ZL201910538908.0[P].2020-03-27.
-* 吴良顺, 刘金波.一种主链和侧链的数据交换方法及装置:CN202010365404.6[P].2023-04-07
-* 吴良顺. 主节点的确定方法、装置和存储介质:ZL201910662799.3[P].2022-04-08.
-* 吴良顺. 交互式登录验证装置、方法及计算机可读存储介质:ZL201910477881.9[P].2020-02-11.
-* 蔡恒进,吴良顺. 电子邮件签名方法、装置及存储介质:ZL201910498033.6[P].2020-02-11.  
-* 吴良顺. 姓名数据脱敏装置、方法及可读存储介质:ZL201911199828.3[P].2021-04-13.
-* 吴良顺. 风控计算的处理设备、处理方法、处理装置和存储介质:ZL202010396220.6[P].2022-11-04.
-* 吴良顺. 页面类型甄别装置、方法及可读存储介质:ZL201911121395.X[P].2022-06-10.
-* 吴良顺. 农业知识图谱构建装置、方法及计算机可读存储介质:ZL201910528268.5[P].2021-07-27.
-* 叶宁,乐仁龙,徐智军,徐旭辉,吴良顺. 估算体积和重量的方法、电子设备及计算机可读存储介质:ZL201910804159.1[P].2021-03-16.
+* **吴良顺**. 信号放大电路及电子装置:ZL201920821881.1[P].2019-12-24.
+* **吴良顺**. 芯片激活装置、方法及计算机可读存储介质:ZL201910776735.6[P].2020-10-30.
+* **吴良顺**. 基于斐波那契进制的逻辑运算电路:ZL202011640617.1[P].2022-12-13.
+* **吴良顺**. 密钥分配方法、装置、计算机设备和存储介质:ZL202011464095.4[P].2022-08-02.
+* **吴良顺**. 序列密码生成方法、数据加密方法和数据解密方法:ZL202010236237.5[P].2020-12-25.
+* **吴良顺**,蔡恒进. 数据加密方法、数据解密方法、装置、计算机设备和介质:ZL202011433357.0[P].2021-03-16.
+* **吴良顺**,蔡恒进. 数据加密、解密方法、装置和加解密电路:ZL202011428776.5[P].2021-03-16.
+* **吴良顺**. 数据传输方法、装置、计算机设备和存储介质:ZL202010236912.4[P].2021-03-16.
+* **吴良顺**. 数据处理方法、装置、计算机设备和存储介质:ZL201911418869.7[P].2022-08-02.
+* **吴良顺**. 一种缓存侧信道攻击的检测方法、装置和电子设备:ZL202110510694.3[P].2023-03-28.
+* **吴良顺**. 一种可见光通信系统及光传感设备:ZL202020373317.0[P].2020-09-18.
+* **吴良顺**. 通信数据校验方法、装置、计算机设备和存储介质:ZL202010357173.4[P].2021-06-15.
+* **吴良顺**. 一种热迁移的方法、装置及电子设备:ZL202011185459.5[P].2022-10-25.
+* **吴良顺**. 基于SGX的可信输入输出控制方法、装置、设备和存储介质:ZL202011506823.3[P].2022-08-02.
+* **吴良顺**. 基于SGX的云端飞地资源管理方法、装置、计算机设备和介质:ZL202011518608.5[P].2022-12-09.
+* **吴良顺**. 数字证书处理方法及系统、电子设备及存储介质:ZL202110220544.9[P].2023-01-10.
+* **吴良顺**. 基于中间件的数据传输方法、装置和计算机设备:ZL202010380835.X[P].2022-07-29.
+* **吴良顺**. 基于隐私保护的联邦建模装置、方法及可读存储介质:ZL201910696340.5[P].2021-03-16.
+* **吴良顺**. 基于隐私保护的数据泄露溯源装置、方法及可读存储介质:ZL201910913135.X[P].2021-07-13.
+* **吴良顺**. 基于区块链的身份认证方法、系统、装置和计算机设备:ZL202010577112.9[P].2021-10-22.
+* **吴良顺**, 蔡恒进.基于区块链的数据处理装置、方法及计算机可读存储介质:ZL201910538908.0[P].2020-03-27.
+* **吴良顺**, 刘金波.一种主链和侧链的数据交换方法及装置:CN202010365404.6[P].2023-04-07
+* **吴良顺**. 主节点的确定方法、装置和存储介质:ZL201910662799.3[P].2022-04-08.
+* **吴良顺**. 交互式登录验证装置、方法及计算机可读存储介质:ZL201910477881.9[P].2020-02-11.
+* 蔡恒进,**吴良顺**. 电子邮件签名方法、装置及存储介质:ZL201910498033.6[P].2020-02-11.  
+* **吴良顺**. 姓名数据脱敏装置、方法及可读存储介质:ZL201911199828.3[P].2021-04-13.
+* **吴良顺**. 风控计算的处理设备、处理方法、处理装置和存储介质:ZL202010396220.6[P].2022-11-04.
+* **吴良顺**. 页面类型甄别装置、方法及可读存储介质:ZL201911121395.X[P].2022-06-10.
+* **吴良顺**. 农业知识图谱构建装置、方法及计算机可读存储介质:ZL201910528268.5[P].2021-07-27.
+* 叶宁,乐仁龙,徐智军,徐旭辉,**吴良顺**. 估算体积和重量的方法、电子设备及计算机可读存储介质:ZL201910804159.1[P].2021-03-16.
 
 奖项荣誉
 ======
