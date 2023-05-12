@@ -57,7 +57,7 @@ redirect_from:
 * Yun Wu, Liangshun Wu, Hengjin Cai*, A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks, 2022
 * Yun Wu, Liangshun Wu, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
 * Yun Wu, Liangshun Wu, Hengjin Cai*, Cloud-Edge Data Encryption in  The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
-* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, Liangshun Wu, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Preprint, 2023. Available at: SSRN:4439523 or http://dx.doi.org/10.2139/ssrn.4439523.
+* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Preprint, 2023. Available at: SSRN:4439523 or http://dx.doi.org/10.2139/ssrn.4439523.
 
 授权专利
 ======
