@@ -51,13 +51,16 @@ redirect_from:
 * **Liangshun Wu**, H. J. Cai*, Han Li. SGX-UAM: A Secure Unified Access Management Scheme with One Time Passwords via Intel SGX[J]. IEEE Access, 2021, 9.
 * **Liangshun Wu** *, H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// International Conference on Computer Science and Application Engineering, 2018.
 * **Liangshun Wu**, H. J. Cai*, Jinbo Liu, Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//International Conference on Advanced Electronic Materials, Computers and Software Engineering, 2021.
-* **吴良顺**,应忍冬*,刘佩林,张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022
+* **吴良顺**,应忍冬*,刘佩林,张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022.
+* **吴良顺**,张斌*，应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]自动化与仪器仪表. 2023.
 * Quan Chen, **Liangshun Wu**, Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．Journal of Cloud Computing, 2022.
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] Computer Communications. 2023.
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks, 2022
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, Cloud-Edge Data Encryption in  The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
-* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Preprint, 2023. Available at: SSRN:4439523 or http://dx.doi.org/10.2139/ssrn.4439523.
+* Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J].Journal of Systems Architecture, 2023. (投稿中)
+* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering, 2023. Available at: SSRN:4439523 or http://dx.doi.org/10.2139/ssrn.4439523. (投稿中)
+* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing, 2023. (投稿中)
 
 授权专利
 ======
