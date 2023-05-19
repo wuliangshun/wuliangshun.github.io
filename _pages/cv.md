@@ -21,12 +21,12 @@ redirect_from:
 
 教育背景
 ======
-| 2022.06 ~ 2022.12, |美国北亚利桑那大学,	|计算机信息技术,	      |硕士,	|在线硕士|
-| 2020.09 ~ 2023.06, |西安邮电大学,	        |信息与通信工程,	      |硕士,	|同等学力|
-| 2021.09 ~ 2023.12, |西安电子科技大学,	|电气工程及其自动化,	  |本科,	|网络教育|
-| 2017.09 ~ 2021.12, |武汉大学,	        |软件工程,	              |博士,	|全日制|
-| 2014.09 ~ 2017.06, |武汉大学,	        |金融学,	              |硕士,	|全日制|
-| 2010.09 ~ 2014.06, |中南大学,	        |信息管理与信息系统,	  |本科,	|全日制|
+* 2022.06 ~ 2022.12, 美国北亚利桑那大学,	计算机信息技术,	      硕士,	在线硕士
+* 2020.09 ~ 2023.06,	西安邮电大学,	    信息与通信工程,	      硕士,	同等学力
+* 2021.09 ~ 2023.12,	西安电子科技大学,	电气工程及其自动化,	  本科,	网络教育
+* 2017.09 ~ 2021.12,	武汉大学,	        软件工程,	          博士,	全日制
+* 2014.09 ~ 2017.06,	武汉大学,	        金融学,	              硕士,	全日制
+* 2010.09 ~ 2014.06,	中南大学,	        信息管理与信息系统,	  本科,	全日制
  
 科研项目
 ======
@@ -43,7 +43,7 @@ redirect_from:
 ======
 * **Liangshun Wu**, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2023.
 * **Liangshun Wu**, Yun Wu, Bin Zhang, Peilin Liu*. Privacy Computing Techniques for Securing Roadside Access Networks in Intelligent Connected Vehicles based on Shamir's Secret Sharing Theory [J]. ACM Transactions on Privacy and Security, 2023. (投稿中)
-* **Liangshun Wu**, Peilin Liu*, Yun Wu, Bin Zhang. Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
+* **Liangshun Wu**, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
 * **Liangshun Wu**, H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing, 2021.
 * **Liangshun Wu** *, H. J. Cai, Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy, 2022, 16(1): 1-20.
 * **Liangshun Wu**, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
