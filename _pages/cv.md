@@ -36,8 +36,7 @@ redirect_from:
 
 学术兼职
 ======
-* IEEE会员
-* International Journal of Information Security and Privacy, IEEE Internet of Things Journal等期刊审稿人
+* IEEE会员, International Journal of Information Security and Privacy, IEEE Internet of Things Journal等期刊审稿人
 
 发表论文
 ======
