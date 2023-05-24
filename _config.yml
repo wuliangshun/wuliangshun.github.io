@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "吴良顺\r\n职称	：	助理研究员"
+name                     : &name "吴良顺  助理研究员"
 description              : &description "职称	：	助理研究员"
 url                      : https://wuliangshun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : "Email:wuliangshun@sjtu.edu\n Tel:15927187447"
   location         : "上海"
   
-  employer         : "上海交通大学电子信息与电气工程学院"
+  #employer         : "上海交通大学电子信息与电气工程学院"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   #email            : wuliangshun@sjtu.edu
