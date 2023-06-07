@@ -36,15 +36,15 @@ redirect_from:
 
 学术兼职
 ======
-* IEEE会员, International Journal of Information Security and Privacy, IEEE Internet of Things Journal等期刊审稿人
+* IEEE会员, IJISP, IEEE IoT, ACAIT等期刊和会议审稿人
 
 发表论文
 ======
 类脑芯片和神经形态计算
 * **Liangshun Wu**, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
-* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [J]. IEEE Transactions on Emerging Topics in Computational Intelligence, 2023. (投稿中)
-* Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J].Journal of Systems Architecture, 2023. (投稿中)
-* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering, 2023. Available at: SSRN:4439523 or http://dx.doi.org/10.2139/ssrn.4439523. (投稿中)
+* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [J]. IEEE Transactions on Very Large Scale Integration Circuit Systems, 2023. (投稿中)
+* Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Electronics, 2023. (投稿中)
+* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering, 2023. Available at: http://dx.doi.org/10.2139/ssrn.4439523. (投稿中)
 * Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing, 2023. (投稿中)
 
 
