@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Room 309, Microelectronics Building, No. 800, Dongchuan Road, Minhang District, Shanghai
+
 
 研究方向
 ======
@@ -113,6 +113,7 @@ Room 309, Microelectronics Building, No. 800, Dongchuan Road, Minhang District, 
 *  2012-2013学年中南大学本科生二等奖学金
 *  2012年中南大学世纪海翔酬勤奖励金
 *  2014年武汉大学优秀学业奖学金
+
 资格证书
 ======
 * NCRE三级, 	嵌入式系统开发技术
