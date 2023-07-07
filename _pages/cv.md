@@ -31,7 +31,17 @@ redirect_from:
 科研项目
 ======
 * 参与，纵向项目，支持在线学习的类脑芯片架构 (2022ZD0208700)，科技部科技创新2030”脑计划与类脑研究“重大项目，经费：5096万元，2022.8~2027.8。
+
+主要职责：（1）负责类脑编译器开发，包括前端编译（SNN模型到中间表示（IR）的转换和硬件无关优化）、映射部署（计算图的分块和到众核NoC的映射：基于NSGA-II算法的多目标优化）。
+          （2）负责片上网络（NoC）的部分设计（功率门控、自适应仲裁、Torus-Tree混合架构）
+产出：     1篇论文《Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting》已录用《Soft Computing》
+           1篇论文《A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running》已投稿《IEEE Transactions on Very Large Scale Integration Circuit Systems》
+           1项专利《面向深度学习编译器的脉冲神经网络算子处理方法、系统及介质》已提交申请
 * 参与，横向项目，基于RT-Thread操作系统的松耦合嵌入式软件系统设计与实现，中国航天科工集团第三研究院8358研究所，经费：90万元，2023.03-2024.05。
+主要职责： 负责在Zynq FPGA-ARM异构开发板AXU4EV-P上，搭建RT-Thread操作系统，并完成硬件即插即用（硬件自动发现和统一的设备驱动管理框架）、软件模块化松耦合设计、自动安全升级三项内容的研究。
+产出：     自动升级部分的代码开源https://github.com/wuliangshun/RT-Thread_App_OTA.git
+           发表 2篇科技核心论文：吴良顺,应忍冬*,刘佩林,张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022.
+                                                 吴良顺,张斌,应忍冬*.实时响应的嵌入式系统虚拟化微内核架构[J]自动化与仪器仪表. 2023.
 
 学术兼职
 ======
