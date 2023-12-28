@@ -22,8 +22,8 @@ redirect_from:
 教育背景
 ======
 * 2022.06 ~ 2022.12, 美国北亚利桑那大学,	计算机信息技术,	      硕士,	在线硕士,  导师：MENG DEWEI 
-* 2019.09 ~ 2021.06,	西安邮电大学,	    信息与通信工程,	      硕士,	同等学力,  导师：屈军锁
-* 2017.09 ~ 2019.12,	西安电子科技大学,	电气工程及其自动化,	  本科,	网络教育,  导师：张凤          
+* 2020.09 ~ 2023.12,	西安邮电大学,	    信息与通信工程,	      硕士,	同等学力,  导师：屈军锁
+* 2021.09 ~ 2023.12,	西安电子科技大学,	电气工程及其自动化,	  本科,	网络教育,  导师：张凤          
 * 2017.09 ~ 2021.12,	武汉大学,	        软件工程,	          博士,	全日制,    导师：蔡恒进
 * 2014.09 ~ 2017.06,	武汉大学,	        金融学,	              硕士,	全日制,    导师：叶永刚
 * 2010.09 ~ 2014.06,	中南大学,	        信息管理与信息系统,	  本科,	全日制   
@@ -40,22 +40,31 @@ redirect_from:
 
 主要职责： 负责在Zynq FPGA-ARM异构开发板AXU4EV-P上，搭建RT-Thread操作系统，并完成硬件即插即用（硬件自动发现和统一的设备驱动管理框架）、软件模块化松耦合设计、自动安全升级三项内容的研究。完成基于YOLOv5s的军事目标检测功能。
 
+个人网站
+======
+* https://faculty.sjtu.edu.cn/wuliangshun/zh_CN/index.htm/
+* https://bat.sjtu.edu.cn/zh/batppl/
+
 
 学术兼职
 ======
-* IEEE会员, IJISP, IEEE IoT, ACAIT等期刊和会议审稿人
+* International Journal of Sensors and Sensor Networks 编委
+* IEEE会员
+* IJISP, IEEE IoT, ACAIT等期刊和会议审稿人
 
 发表论文
 ======
 类脑芯片和神经形态计算
 * **Liangshun Wu**, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
-* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [J]. IEEE Transactions on Very Large Scale Integration Circuit Systems, 2023. (投稿中)
-* Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Electronics, 2023. (投稿中)
+* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// ISCAS, 2024. (投稿中)
+* Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Sensors, 2023. 
+* Lisheng Xie, Jianwei Xue, **Liangshun Wu**, Faquan Chen, Qingyang Tian, Yifan Zhou, Ying, Rendong Ying, and Peilin Liu*, SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. HiPC, 2023.
 * Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering, 2023. Available at: http://dx.doi.org/10.2139/ssrn.4439523. (投稿中)
 * Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing, 2023. (投稿中)
 
 
 嵌入式系统和无线传感网络
+* **Liangshun Wu**, Junsuo Qu*, Shilin Li, Cong Zhang, Jianbo Du, Xiang Sun, and Jiehan ZhouAttention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. IEEE Internet of Things Journal, 2024. (投稿中)
 * **Liangshun Wu**, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2023.
 * **Liangshun Wu**, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
 * **Liangshun Wu**, Junsuo Qu*, Haonan Shi, Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. Entropy, 2022.
@@ -75,7 +84,7 @@ redirect_from:
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] Computer Communications. 2023.
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks, 2022
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
-* Yun Wu, **Liangshun Wu**, Hengjin Cai*, Cloud-Edge Data Encryption in  The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
+* Yun Wu, **Liangshun Wu**, Hengjin Cai*, Cloud-Edge Data Encryption in The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
 
 
 
