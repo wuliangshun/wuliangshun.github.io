@@ -55,8 +55,8 @@ redirect_from:
 发表论文
 ======
 类脑芯片和神经形态计算
+* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// ISCAS, 2024. 
 * **Liangshun Wu**, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
-* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// ISCAS, 2024. (投稿中)
 * Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Sensors, 2023. 
 * Lisheng Xie, Jianwei Xue, **Liangshun Wu**, Faquan Chen, Qingyang Tian, Yifan Zhou, Ying, Rendong Ying, and Peilin Liu*, SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. HiPC, 2023.
 * Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering, 2023. Available at: http://dx.doi.org/10.2139/ssrn.4439523. (投稿中)
