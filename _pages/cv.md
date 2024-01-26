@@ -12,7 +12,7 @@ redirect_from:
 
 研究方向
 ======
-类脑芯片和神经形态计算，嵌入式系统和无线传感网络，信息安全和密码学
+类脑智能技术与应用，FPGA神经形态硬件设计，嵌入式系统设计与优化，智能传感，信息安全和密码学
 
 工作经历
 ======
@@ -35,18 +35,16 @@ redirect_from:
 * 参与，中国航天科工集团第三研究院8358研究所，“信息处理传递模型的松耦合软件架构”，经费：90万元，2023.03-2024.05。
 
 
-
-
 学术兼职
 ======
-* International Journal of Sensors and Sensor Networks 编委
+* IJSSN期刊编委
 * IEEE会员
 * IJISP, IEEE IoT, ACAIT等期刊和会议审稿人
 
 发表论文
 ======
 类脑芯片和神经形态计算
-* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// ISCAS, 2024. 
+* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// IEEE International Symposium on Circuits & Systems (ISCAS), 2024. 
 * **Liangshun Wu**, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
 * Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Sensors, 2023. 
 * Lisheng Xie, Jianwei Xue, **Liangshun Wu**, Faquan Chen, Qingyang Tian, Yifan Zhou, Ying, Rendong Ying, and Peilin Liu*, SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. HiPC, 2023.
@@ -57,6 +55,7 @@ redirect_from:
 嵌入式系统和无线传感网络
 * **Liangshun Wu**, Junsuo Qu*, Shilin Li, Cong Zhang, Jianbo Du, Xiang Sun, and Jiehan ZhouAttention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. IEEE Internet of Things Journal, 2024. (投稿中)
 * **Liangshun Wu**, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2023.
+* **Liangshun Wu**, Peilin Liu, Junsuo Qu, Cong Zhang, Bin Zhang. Duty Cycle Scheduling in Wireless Sensor Networks using an Exploratory Strategy-Directed MADDPG Algorithm [J] International Journal of Sensors and Sensor Networks, 2024.
 * **Liangshun Wu**, H. J. Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors, 2021, 21(15):5002-5026.
 * **Liangshun Wu**, Junsuo Qu*, Haonan Shi, Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. Entropy, 2022.
 * **吴良顺**,应忍冬*,刘佩林,张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022.
