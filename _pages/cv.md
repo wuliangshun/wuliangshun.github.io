@@ -57,12 +57,12 @@ redirect_from:
 
 类脑芯片和神经形态计算
 * **Liangshun Wu**, Jianwei Xue, and Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), Tangier, Morocco, Oct 6-9, 2024. (Under Review)
-* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// IEEE International Symposium on Circuits & Systems (ISCAS), 2024. 
+* **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// IEEE International Symposium on Circuits & Systems (ISCAS), Sentosa, Singapore, May 19-22, 2024. 
 * Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Sensors, 2023. 
-* Lisheng Xie, Jianwei Xue, **Liangshun Wu**, Faquan Chen, Qingyang Tian, Yifan Zhou, Ying, Rendong Ying, and Peilin Liu*, SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. HiPC, 2023.
+* Lisheng Xie, Jianwei Xue, **Liangshun Wu**, Faquan Chen, Qingyang Tian, Yifan Zhou, Ying, Rendong Ying, and Peilin Liu*, SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. The 30th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC 2023), Goa, India, December 18-21, 2023.
 * Bin Zhang, **Liangshun Wu**, Peilin Liu, Hu Juan, Meizhen Luo, Ling Peng. Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2024. (Under Review)
 * Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering, 2023. Available at: http://dx.doi.org/10.2139/ssrn.4439523. (Preprint)
-* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing, 2023. (Preprint)
+* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing, 2023. (Under Review)
 
 
 信息安全和密码学
