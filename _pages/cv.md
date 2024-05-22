@@ -37,8 +37,8 @@ redirect_from:
 
 学术兼职
 ======
-* International Journal of Sensors and Sensor Networks期刊编委
-* Journal of Artificial Intelligence and Robotics期刊编委
+* International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）
+* Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）
 * IEEE会员
 * IJISP, IEEE IoT, ACAIT等期刊和会议审稿人
 
