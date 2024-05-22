@@ -37,13 +37,15 @@ redirect_from:
 
 学术兼职
 ======
-* IJSSN期刊编委
+* International Journal of Sensors and Sensor Networks期刊编委
+* Journal of Artificial Intelligence and Robotics期刊编委
 * IEEE会员
 * IJISP, IEEE IoT, ACAIT等期刊和会议审稿人
 
 发表论文
 ======
 嵌入式系统和无线传感网络
+* **Liangshun Wu**, Peilin Liu, Bin Zhang*, and Junsuo Qu. Reinforcement Learning-Controlled Servo System for Precision Dosing Cylinder Gluing Operations[J] IEEE Transactions on Industrial Electronics, 2024. (Under Review) 
 * **Liangshun Wu**, Junsuo Qu*, Shilin Li, Cong Zhang, Jianbo Du, Xiang Sun, and Jiehan ZhouAttention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. IEEE Internet of Things Journal, 2024. 
 * **Liangshun Wu**, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2023.
 * **Liangshun Wu**, Peilin Liu, Junsuo Qu, Cong Zhang, Bin Zhang. Duty Cycle Scheduling in Wireless Sensor Networks using an Exploratory Strategy-Directed MADDPG Algorithm [J] International Journal of Sensors and Sensor Networks, 2024.
@@ -54,16 +56,17 @@ redirect_from:
 
 
 类脑芯片和神经形态计算
+* **Liangshun Wu**, Jianwei Xue, and Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), Tangier, Morocco, Oct 6-9, 2024. (Under Review)
 * **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, and Peilin Liu*, SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// IEEE International Symposium on Circuits & Systems (ISCAS), 2024. 
-* **Liangshun Wu**, Peilin Liu*, Yun Wu, Bin Zhang.Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2023.
 * Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Sensors, 2023. 
 * Lisheng Xie, Jianwei Xue, **Liangshun Wu**, Faquan Chen, Qingyang Tian, Yifan Zhou, Ying, Rendong Ying, and Peilin Liu*, SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. HiPC, 2023.
-* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering, 2023. Available at: http://dx.doi.org/10.2139/ssrn.4439523. (投稿中)
-* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing, 2023. (投稿中)
+* Bin Zhang, **Liangshun Wu**, Peilin Liu, Hu Juan, Meizhen Luo, Ling Peng. Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2024. (Under Review)
+* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering, 2023. Available at: http://dx.doi.org/10.2139/ssrn.4439523. (Preprint)
+* Bin Zhang, Wenyong Dong, Shankai Yan, Meizhen Luo, Chao Zhao, **Liangshun Wu**, A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing, 2023. (Preprint)
 
 
 信息安全和密码学
-* **Liangshun Wu**, Yun Wu, Bin Zhang, Peilin Liu*. Privacy Computing Techniques for Securing Roadside Access Networks in Intelligent Connected Vehicles based on Shamir's Secret Sharing Theory [J]. ACM Transactions on Privacy and Security, 2023. (投稿中)
+* **Liangshun Wu**, Yun Wu, Bin Zhang, Peilin Liu*. Privacy Computing Techniques for Securing Roadside Access Networks in Intelligent Connected Vehicles based on Shamir's Secret Sharing Theory [J]. ACM Transactions on Privacy and Security, 2023. (Under Review)
 * **Liangshun Wu**, H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing, 2021.
 * **Liangshun Wu** *, H. J. Cai, Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy, 2022, 16(1): 1-20.
 * **Liangshun Wu**, H. J. Cai*, Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. IEEE Access, 2019, 7.
@@ -76,6 +79,9 @@ redirect_from:
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, Cloud-Edge Data Encryption in The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
 
+专著
+======
+* **Liangshun Wu**. Data security and privacy considerations in mental health settings [M]. Chatbots and Mental Healthcare in Psychology and Psychiatry. IGI, 2024. 
 
 
 授权专利
@@ -130,5 +136,4 @@ redirect_from:
 个人网站
 ======
 * https://faculty.sjtu.edu.cn/wuliangshun/zh_CN/index.htm/
-* https://bat.sjtu.edu.cn/zh/batppl/
 
