@@ -87,10 +87,9 @@ redirect_from:
 ======
 Brain-Inspired Chips for Future Robots, 2nd Global summit on Artificial Intelligence webinar, August 21-22, 2024.
 
-
 专著
 ======
-* **Liangshun Wu**. Data security and privacy considerations in mental health settings [M]. Chatbots and Mental Healthcare in Psychology and Psychiatry. IGI, 2024. 
+* **Liangshun Wu**. Data security and privacy considerations in mental health settings [M]. Chatbots and Mental Healthcare in Psychology and Psychiatry. IGI Global, USA, 2024. 
 
 
 授权专利
