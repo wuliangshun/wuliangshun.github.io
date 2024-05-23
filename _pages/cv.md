@@ -37,10 +37,14 @@ redirect_from:
 
 学术兼职
 ======
-* International Journal of Sensors and Sensor Networks期刊编委（Editorial Board Member）
-* Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）
 * IEEE会员
-* IJISP, IEEE IoT, ACAIT等期刊和会议审稿人
+* International Journal of Sensors and Sensor Networks期刊，编委（Editorial Board Member）
+* Journal of Artificial Intelligence and Robotics期刊，编委（Associate Editor）
+* 第八届亚洲人工智能技术大会（ACAIT2024），组委会成员（PC Member）
+* 第七届亚洲人工智能技术大会（ACAIT2023），审稿人（reviewer）
+* International Journal of Information Security & Privacy, 审稿人（reviewer）
+* IEEE Internet of Things Journal, 审稿人（reviewer）
+
 
 发表论文
 ======
@@ -78,6 +82,11 @@ redirect_from:
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks, 2022
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering, 2022.
 * Yun Wu, **Liangshun Wu**, Hengjin Cai*, Cloud-Edge Data Encryption in The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing, 2023.
+
+学术汇报
+======
+Brain-Inspired Chips for Future Robots, 2nd Global summit on Artificial Intelligence webinar, August 21-22, 2024.
+
 
 专著
 ======
