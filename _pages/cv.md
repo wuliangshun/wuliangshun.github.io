@@ -38,8 +38,11 @@ redirect_from:
 学术兼职
 ======
 * IEEE会员
+* 中国人工智能学会青年工作委员会，会员
+* Blockchain期刊，青年编委
 * International Journal of Sensors and Sensor Networks期刊，编委（Editorial Board Member）
-* Journal of Artificial Intelligence and Robotics期刊，编委（Associate Editor）
+* Journal of Artificial Intelligence and Robotics期刊，编委（Editorial Board Member）
+* Computer Science and Technology 期刊，编委（Editorial Board Member）
 * 第八届亚洲人工智能技术大会（ACAIT2024），组委会成员（PC Member）
 * 第七届亚洲人工智能技术大会（ACAIT2023），审稿人（reviewer）
 * International Journal of Information Security & Privacy, 审稿人（reviewer）
@@ -85,7 +88,7 @@ redirect_from:
 
 学术汇报
 ======
-Brain-Inspired Chips for Future Robots, 2nd Global summit on Artificial Intelligence webinar, August 21-22, 2024.
+* Brain-Inspired Chips for Future Robots, 2nd Global summit on Artificial Intelligence webinar, August 21-22, 2024.
 
 专著
 ======
@@ -133,6 +136,7 @@ Brain-Inspired Chips for Future Robots, 2nd Global summit on Artificial Intellig
 
 奖项荣誉
 ======
+* “大走廊杯”2024中国·杭州博士后科创精英赛， 优胜奖， 本人排名第1
 * 2022年中国(广东)中山海外博士博士后创新赛,	优胜奖,	本人排名第6
 * 第四届“互联网+”大学生创新创业大赛湖北省主赛道创意类,	银奖/楚天创客奖,	本人排名第1
 * 首届 Z-HACK 算法创新大赛区块链赛道,	冠军,	本人排名第1
