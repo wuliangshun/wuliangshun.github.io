@@ -52,7 +52,7 @@ redirect_from:
 发表论文
 ======
 嵌入式系统和无线传感网络
-* **Liangshun Wu**, Peilin Liu, Bin Zhang*, and Junsuo Qu. Reinforcement Learning-Controlled Servo System for Precision Dosing Cylinder Gluing Operations[J] IEEE Transactions on Industrial Electronics, 2024. (Under Review) 
+* **Liangshun Wu**, Peilin Liu, Bin Zhang*, and Junsuo Qu. Reinforcement Learning-Controlled Servo System for Precision Dosing Cylinder Gluing Operations[J] IEEE Transactions on Automation Science and Engineering, 2024. (Under Review) 
 * **Liangshun Wu**, Junsuo Qu*, Shilin Li, Cong Zhang, Jianbo Du, Xiang Sun, and Jiehan ZhouAttention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. IEEE Internet of Things Journal, 2024. 
 * **Liangshun Wu**, Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal, 2023.
 * **Liangshun Wu**, Peilin Liu, Junsuo Qu, Cong Zhang, Bin Zhang. Duty Cycle Scheduling in Wireless Sensor Networks using an Exploratory Strategy-Directed MADDPG Algorithm [J] International Journal of Sensors and Sensor Networks, 2024.
