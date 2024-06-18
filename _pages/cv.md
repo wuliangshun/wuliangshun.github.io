@@ -96,6 +96,7 @@ redirect_from:
 专著
 ======
 * **Liangshun Wu**. Data security and privacy considerations in mental health settings [M]. Chatbots and Mental Healthcare in Psychology and Psychiatry. IGI Global,  USA,  2024. 
+* **Liangshun Wu**. Recent advances in approaches for mapping Spiking Neural Networks (SNNs) to neuromorphic hardware [M]. Recent Advances in Neuromorphic Computing. IntechOpen, London, UK, 2024.
 
 
 授权专利
