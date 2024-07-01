@@ -12,13 +12,13 @@ redirect_from:
 
 研究方向
 ======
-智能可穿戴设备，移动边缘计算，物联网安全与隐私保护，神经形态硬件设计
+移动边缘计算与智能传感装备，神经形态硬件设计，物联网安全与隐私保护
 
 
 工作经历
 ======
 * 2022.12 ~ 至今,    上海交通大学,  电子信息与电气工程学院,  助理研究员
-* 2025.01 ~ 2025.12,  美国密歇根大学安娜堡分校, 电气与计算机工程系, 博士后
+* 2024.10 ~ 2025.01，日本电气通信大学，访问学者，合作导师：策力木格
 * 2022.01 ~ 2024.12, 上海交通大学,  电子工程系, 博士后,   合作导师：刘佩林
 
 教育背景
@@ -53,7 +53,7 @@ redirect_from:
 
 发表论文
 ======
-嵌入式系统和无线传感网络
+移动边缘计算与智能传感装备
 * **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Reinforcement Learning-Controlled Servo System for Precision Dosing Cylinder Gluing Operations[J] IEEE Transactions on Automation Science and Engineering,  2024. (Under Review) 
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. IEEE Internet of Things Journal,  2024. 
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal,  2023.
@@ -64,8 +64,8 @@ redirect_from:
 * **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]自动化与仪器仪表. 2023.
 
 
-类脑芯片和神经形态计算
-* **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC),  Tangier,  Morocco,  Oct 6-9,  2024. (Under Review)
+神经形态硬件设计
+* **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC),  Tangier,  Morocco,  Oct 6-9,  2024. 
 * **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// IEEE International Symposium on Circuits & Systems (ISCAS),  Sentosa,  Singapore,  May 19-22,  2024. 
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] IEEE Transactions on Biomedical Circuits and Systems. 2024. (Under Review)
 * Lisheng Xie,  Jianwei Xue,  **Liangshun Wu**,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Ying,  Rendong Ying,  Peilin Liu*,  SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. The 30th IEEE International Conference on High Performance Computing,  Data,  and Analytics (HiPC 2023),  Goa,  India,  December 18-21,  2023.
@@ -76,7 +76,7 @@ redirect_from:
 * Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing,  2023. (Under Review)
 
 
-信息安全和密码学
+物联网安全与隐私保护
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Privacy Computing Techniques for Securing Roadside Access Networks in Intelligent Connected Vehicles based on Shamir's Secret Sharing Theory [J]. ACM Transactions on Privacy and Security,  2023. (Under Review)
 * **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing,  2021.
 * **Liangshun Wu** *,  H. J. Cai,  Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy,  2022,  16(1): 1-20.
