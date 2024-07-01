@@ -12,7 +12,7 @@ redirect_from:
 
 研究方向
 ======
-移动边缘计算与智能传感装备，神经形态硬件设计，物联网安全与隐私保护
+移动边缘计算与智能传感装备，神经形态硬件设计与嵌入式部署，物联网安全与隐私保护
 
 
 工作经历
@@ -64,7 +64,7 @@ redirect_from:
 * **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]自动化与仪器仪表. 2023.
 
 
-神经形态硬件设计
+神经形态硬件设计与嵌入式部署
 * **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC),  Tangier,  Morocco,  Oct 6-9,  2024. 
 * **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// IEEE International Symposium on Circuits & Systems (ISCAS),  Sentosa,  Singapore,  May 19-22,  2024. 
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] IEEE Transactions on Biomedical Circuits and Systems. 2024. (Under Review)
