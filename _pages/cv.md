@@ -25,6 +25,8 @@ redirect_from:
 教育背景
 ======
 
+### 全日制
+
 | 时间                | 学校               | 专业                     | 学位   | 学习方式 | 导师      |
 |---------------|--------------------|--------------------------|--------|-------|-----------|
 | 2017.09 ~ 2021.12| 武汉大学  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | 软件工程          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | 博士   | 全日制 | 蔡恒进   |
