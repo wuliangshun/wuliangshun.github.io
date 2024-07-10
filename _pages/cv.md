@@ -14,30 +14,22 @@ redirect_from:
 
 工作经历
 ======
-
-| 时间                | 单位                               | 职位       | 合作导师   |
-|----------------|------------------------------------|------------|------------|
-| 2024.10 ~ 2024.12 (拟) | 日本国立电气通信大学    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | 访问学者   | 策力木格   |
-| 2022.01 ~ 2024.07   | 上海交通大学, 电子工程系           | 博士后     | 刘佩林     |
+* 2024.10 ~ 2024.12(拟)，日本国立电气通信大学，访问学者，合作导师：策力木格
+* 2022.01 ~ 2024.07，上海交通大学，电子工程系，博士后，合作导师：刘佩林
 
 教育背景
 ======
 
 ### 全日制统招
 
-| 时间                | 学校               | 专业                     | 学位   | 学习方式 | 导师      |
-|---------------|--------------------|--------------------------|--------|-------|-----------|
-| 2017.09 ~ 2021.12| 武汉大学  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | 软件工程          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | 博士   | 全日制 | 蔡恒进   |
-| 2014.09 ~ 2017.06| 武汉大学    | 金融学                   | 硕士   | 全日制 | 叶永刚   |
-| 2010.09 ~ 2014.06| 中南大学           | 信息管理与信息系统       | 学士   | 全日制 |     |
+* 2017.09 ~ 2021.12, 	武汉大学, 	        软件工程, 	          博士, 	全日制,     导师：蔡恒进
+* 2014.09 ~ 2017.06, 	武汉大学, 	        金融学, 	              硕士, 	全日制,     导师：叶永刚
+* 2010.09 ~ 2014.06, 	中南大学, 	        信息管理与信息系统, 	  本科, 	全日制   
 
 ### 其他形式
-
-| 时间                | 学校               | 专业                     | 学位       | 学习方式     | 导师      |
-|---------------------|--------------------|--------------------------|------------|-----------|-----------|
-| 2022.06 ~ 2022.12   | 美国北亚利桑那大学 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 计算机信息技术           | 硕士       | 在线硕士  | 孟德巍 |
-| 2020.09 ~ 2023.12   | 西安邮电大学       | 信息与通信工程           | 硕士       | 同等学力  | 屈军锁|
-| 2021.09 ~ 2023.12   | 西安电子科技大学   | 电气工程及其自动化       | 学士       | 网络教育  | 张凤     |
+* 2022.06 ~ 2022.12,  美国北亚利桑那大学, 	计算机信息技术, 		      硕士, 		在线硕士,   导师：MENG DEWEI 
+* 2020.09 ~ 2023.12, 	西安邮电大学, 		    信息与通信工程, 		      硕士, 		同等学力, 	  导师：屈军锁
+* 2021.09 ~ 2023.12, 	西安电子科技大学, 	电气工程及其自动化, 	  本科, 	网络教育,   导师：张凤          
 
 
 
@@ -96,7 +88,7 @@ redirect_from:
 * **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// IEEE International Symposium on Circuits & Systems (ISCAS),  Sentosa,  Singapore,  May 19-22,  2024. 
 * Lisheng Xie,  Jianwei Xue,  **Liangshun Wu**,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Ying,  Rendong Ying,  Peilin Liu*,  SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. The 30th IEEE International Conference on High Performance Computing,  Data,  and Analytics (HiPC 2023),  Goa,  India,  December 18-21,  2023.
 * Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// Proc. SPIE 13170, International Conference on Remote Sensing, Surveying, and Mapping (RSSM 2024), 131701O (3 June 2024); https://doi.org/10.1117/12.3032279
-* Bin Zhang,  **Liangshun Wu**,  Peilin Liu,  Hu Juan,  Meizhen Luo,  Ling Peng. Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[J]. Soft Computing. 2024. (Under Review)
+* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*. Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[C]//ACAIT,  2024. 
 * **Liangshun Wu**,  H. J. Cai*,  Jinbo Liu,  Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//International Conference on Advanced Electronic Materials,  Computers and Software Engineering (AEMCS),  2021.
 * **Liangshun Wu** *,  H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// International Conference on Computer Science and Application Engineering (CSAE),  2018.
 
