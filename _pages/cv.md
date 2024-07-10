@@ -27,7 +27,7 @@ redirect_from:
 * 2010.09 ~ 2014.06, 	中南大学, 	        信息管理与信息系统, 	  本科, 	全日制   
 
 ### 其他形式
-* 2022.06 ~ 2022.12,  美国北亚利桑那大学, 	计算机信息技术, 		      硕士, 		在线硕士,   导师：MENG DEWEI 
+* 2022.06 ~ 2022.12,  美国北亚利桑那大学, 	计算机信息技术, 		      硕士, 		在线硕士,   导师：孟德巍 
 * 2020.09 ~ 2023.12, 	西安邮电大学, 		    信息与通信工程, 		      硕士, 		同等学力, 	  导师：屈军锁
 * 2021.09 ~ 2023.12, 	西安电子科技大学, 	电气工程及其自动化, 	  本科, 	网络教育,   导师：张凤          
 
@@ -42,8 +42,8 @@ redirect_from:
 * Computer Science and Technology 期刊, 编委（Associate Editor）
 * 第八届亚洲人工智能技术大会（ACAIT2024）, 组委会成员（PC Member）
 * 第七届亚洲人工智能技术大会（ACAIT2023）, 审稿人（reviewer）
-* International Journal of Information Security & Privacy,  审稿人（reviewer）
 * IEEE Internet of Things Journal,  审稿人（reviewer）
+* International Journal of Information Security & Privacy,  审稿人（reviewer）
 
 
 科研项目
