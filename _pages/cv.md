@@ -90,7 +90,7 @@ redirect_from:
 * Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// International Conference on Remote Sensing, Surveying, and Mapping (RSSM), Wuhan, China, Jan 12-14,  2024.
 * **Liangshun Wu**,  Peilin Liu,  Bin Zhang*. Adaptive Drop Approaches to Train Spiking-YOLO Network for Traffic Flow Counting[C]//8th Asian Conference on Artificial Intelligence Technology (ACAIT), Fuzhou, China, Nov 8-10, 2024. 
 * **Liangshun Wu**,  H. J. Cai*,  Jinbo Liu,  Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//4th International Conference on Advanced Electronic Materials, Computers and Software Engineering (AEMCSE), Changsha, China, March 26-28, 2021.
-* **Liangshun Wu** *,  H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// International Conference on Computer Science and Application Engineering (CSAE), Oct 22-24, Hohhot, Inner Mongolia, China, 2018.
+* **Liangshun Wu** *,  H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// International Conference on Computer Science and Application Engineering (CSAE), Hohhot, Inner Mongolia, China, Oct 22-24, 2018.
 
 
 
