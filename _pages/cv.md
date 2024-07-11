@@ -96,23 +96,6 @@ redirect_from:
 
 
 
-@inproceedings{10.1145/3651671.3651769,
-author = {Zhang, Bin and Luo, Meizhen and Yan, Shankai and Hu, Juan and Peng, Ling and Wu, Liangshun and Wang, Yujuan},
-title = {Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection},
-year = {2024},
-isbn = {9798400709234},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3651671.3651769},
-doi = {10.1145/3651671.3651769},
-abstract = {Object detection techniques are used to determine object categories and localization in images. Different tasks have different requirements for detection efficiency and accuracy, which leads to high efficiency one-stage object detection methods and high-precision two-stage object detection methods. As the main category of difficult detection objects, small objects have the characteristics of few pixels, wide distribution, and complex background. Many serious tasks in special environments, such as industrial defect detection, large-scale pedestrian statistics, remote sensing image recognition, etc. require the model to have high accuracy for the detection of difficult objects. Aiming at the problem of information loss of small objects in deep network features, this paper proposes a feature levels selection method for backbone network based on effective receptive fields. By moving down the feature level of the backbone network, the size of the effective receptive field corresponding to the selected hierarchical features is matched with the scale distribution of the small objects to be detected to obtain the best small object detection performance. According to the effective receptive field size (ERF), the appropriate Shallow Feature Selection (SFS) is selected to participate in the subsequent detection process to ensure that accurate and sufficient small target information is extracted from the backbone network.Based on one-stage and two-stage object detection methods, this paper proposes improvement measures for small object detection from the data level, network level and training level, and designs experiments and validates them.},
-booktitle = {Proceedings of the 2024 16th International Conference on Machine Learning and Computing},
-pages = {304–310},
-numpages = {7},
-keywords = {ERF, Small Object Detection, Target Detector, Yolo V4},
-location = {Shenzhen, China},
-series = {ICMLC '24}
-}
 
 学术汇报
 ======
