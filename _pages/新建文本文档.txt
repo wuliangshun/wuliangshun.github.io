@@ -39,7 +39,7 @@
 
 
 
-
+* **Liangshun Wu**. Recent advances in approaches for mapping Spiking Neural Networks (SNNs) to neuromorphic hardware [M]. Recent Advances in Neuromorphic Computing. IntechOpen, London, UK, 2024.
 
 
 
