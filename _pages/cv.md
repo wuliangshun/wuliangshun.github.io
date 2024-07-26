@@ -35,7 +35,7 @@ redirect_from:
 
 
 
-学术兼职
+学术服务
 ======
 * IEEE会员
 * 中国人工智能学会青年工作委员会, 会员
@@ -63,7 +63,7 @@ redirect_from:
 
 ### 期刊论文
 
-* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Reinforcement Learning-Controlled Servo System for Precision Dosing Cylinder Gluing Operations[J] IEEE Transactions on Automation Science and Engineering,  2024. (Under Review) 
+* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Reinforcement Learning-Controlled Servo System for Precision Dosing Cylinder Gluing Operations[J] ACM Transactions on Autonomous and Adaptive Systems,  2024. (Under Review) 
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] IEEE Transactions on Biomedical Circuits and Systems. 2024. (Under Review)
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Privacy Computing Techniques for Securing Roadside Access Networks in Intelligent Connected Vehicles based on Shamir's Secret Sharing Theory [J]. ACM Transactions on Privacy and Security,  2023. (Under Review)
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. IEEE Internet of Things Journal,  2024. 
