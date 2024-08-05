@@ -63,6 +63,7 @@ redirect_from:
 ### 期刊论文
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] IEEE Transactions on Biomedical Circuits and Systems. 2024. (Under Review)
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. IEEE Internet of Things Journal,  2024. 
+* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. IEEE Internet of Things Journal,  2024. 
 * **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Reinforcement Learning-Controlled Servo System for Precision Dosing Cylinder Gluing Operations[J] ACM Transactions on Autonomous and Adaptive Systems,  2024. (Under Review) 
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Privacy Computing Techniques for Securing Roadside Access Networks in Intelligent Connected Vehicles based on Shamir's Secret Sharing Theory [J]. ACM Transactions on Privacy and Security,  2023. (Under Review)
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal,  2023.
