@@ -61,8 +61,8 @@ redirect_from:
 ======
 
 ### 期刊论文
-* **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan~Zhou, Rendong Ying, Peilin Liu,  Bin Zhang, Qinyuan Liu, Huibiao Zhu*. Design and Implementation of a Highly Configurable Architecture-Agnostic Assembler for Configurable Processors[J]. IEEE Transactions on Software Engineering, 2024. (Under Review, CCF A类期刊，中科院1区，TOP期刊，IF：6.9)
-* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. IEEE Internet of Things Journal,  2024. （Under Review,  中科院1区，TOP期刊，IF：9.0）
+* **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan~Zhou, Rendong Ying, Peilin Liu,  Bin Zhang, Qinyuan Liu, Huibiao Zhu*. Design and Implementation of a Highly Configurable Architecture-Agnostic Assembler for Configurable Processors[J]. IEEE Transactions on Software Engineering, 2024. (Under Review，CCF A类期刊，中科院1区，TOP期刊，IF：6.9)
+* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. IEEE Internet of Things Journal,  2024. （Under Review，中科院1区，TOP期刊，IF：9.0）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. IEEE Internet of Things Journal,  2024. （中科院1区，TOP期刊，IF：9.0）
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] IEEE Transactions on Biomedical Circuits and Systems. 2024. (Under Review，中科院2区，IF：4.8)
 * Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks,  2022. （CCF B类期刊，中科院2区）
