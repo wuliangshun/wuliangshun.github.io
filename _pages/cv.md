@@ -78,11 +78,11 @@ redirect_from:
 * **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Precision Dosing Cylinder Gluing Operations Using Model Predictive Control-Enhanced Reinforcement Learning[J] Journal of Control, Automation and Electrical Systems,  2024. (Under Review，中科院4区，IF：1.4) 
 * **Liangshun Wu**,  Junsuo Qu*,  Haonan Shi,  Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. Entropy,  2022.（中科院4区，IF：2.2）
 * **Liangshun Wu**,  Peilin Liu,  Junsuo Qu,  Cong Zhang,  Bin Zhang*. Duty Cycle Scheduling in Wireless Sensor Networks using an Exploratory Strategy-Directed MADDPG Algorithm [J] International Journal of Sensors and Sensor Networks,  2024.
-* **Lianghsun Wu** *, Peilin Liu, Rendong Ying. Brain-inspired chips for future robots [J].Journal of Artificial Intelligence & Robotics, 2024. （封面文章）
-* Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Sensors,  2023. 
-* **Liangshun Wu**,  Hengjin Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors,  2021,  21(15):5002-5026.
-* **Liangshun Wu**,  H. J. Cai*,  Han Li. SGX-UAM: A Secure Unified Access Management Scheme with One Time Passwords via Intel SGX[J]. IEEE Access,  2021,  9.
-* **Liangshun Wu**,  H. J. Cai*,  Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. IEEE Access,  2019,  7.
+* **Lianghsun Wu** *, Peilin Liu, Rendong Ying. Brain-inspired chips for future robots [J].Journal of Artificial Intelligence & Robotics, 2024. 
+* Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Sensors,  2023. （中科院三区，IF：3.7）
+* **Liangshun Wu**,  Hengjin Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors,  2021,  21(15):5002-5026.（中科院三区，IF：3.7）
+* **Liangshun Wu**,  H. J. Cai*,  Han Li. SGX-UAM: A Secure Unified Access Management Scheme with One Time Passwords via Intel SGX[J]. IEEE Access,  2021,  9.（中科院三区，IF：3.4）
+* **Liangshun Wu**,  H. J. Cai*,  Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. IEEE Access,  2019,  7.（中科院三区，IF：3.4）
 * Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering,  2023. (Under Review)
 * Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing,  2023. (Under Review)
 * **吴良顺**, 应忍冬*, 刘佩林, 张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022.（科技核心）
