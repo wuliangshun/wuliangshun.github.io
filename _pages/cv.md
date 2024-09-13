@@ -63,30 +63,30 @@ redirect_from:
 
 ### 期刊论文
 * **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan~Zhou, Rendong Ying, Peilin Liu,  Bin Zhang, Qinyuan Liu, Huibiao Zhu*. Design and Implementation of a Highly Configurable Architecture-Agnostic Assembler for Configurable Processors[J]. _IEEE Transactions on Software Engineering_, 2024. (Under Review，CCF A类期刊，中科院1区，Top期刊，IF：6.9)
-* **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. IEEE Transactions on Dependable and Secure Computing,  2023. (Under Review，CCF A类期刊，中科院1区，IF：6.8)
-* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. IEEE Internet of Things Journal,  2024. （Under Review，中科院1区，Top期刊，IF：9.0）
-* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. IEEE Internet of Things Journal,  2024. （中科院1区，Top期刊，IF：9.0）
-* Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] IEEE Transactions on Biomedical Circuits and Systems. 2024. (中科院2区，IF：4.8)
-* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. ACM Transactions on Sensor Networks,  2022. （CCF B类期刊，中科院2区）
-* **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. IEEE Sensors Journal,  2023. （中科院2区，IF：4.2）
-* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] Computer Communications. 2023. （CCF C类期刊，中科院3区，IF：4.2）
-* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. Computers and Electrical Engineering,  2022. （中科院3区，IF：3.8）
-* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Cloud-Edge Data Encryption in The Internet of Vehicles Using Zeckendorf Representation[J]．Journal of Cloud Computing,  2023.（中科院3区，IF：3.8）
-* Quan Chen,  **Liangshun Wu**,  Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．Journal of Cloud Computing,  2022.（中科院3区，IF：3.8）
-* **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. Wireless Communications & Mobile Computing,  2021.（CCF C类期刊，中科院4区，IF：2.0）
-* **Liangshun Wu** *,  H. J. Cai,  Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. International Journal of Information Security and Privacy,  2022,  16(1): 1-20. （CCF C类期刊）
-* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Precision Dosing Cylinder Gluing Operations Using Model Predictive Control-Enhanced Reinforcement Learning[J] Journal of Control, Automation and Electrical Systems,  2024. (Under Review，中科院4区，IF：1.4) 
-* **Liangshun Wu**,  Junsuo Qu*,  Haonan Shi,  Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. Entropy,  2022.（中科院4区，IF：2.2）
-* **Liangshun Wu**,  Peilin Liu,  Junsuo Qu,  Cong Zhang,  Bin Zhang*. Duty Cycle Scheduling in Wireless Sensor Networks using an Exploratory Strategy-Directed MADDPG Algorithm [J] International Journal of Sensors and Sensor Networks,  2024.
-* **Lianghsun Wu** *, Peilin Liu, Rendong Ying. Brain-inspired chips for future robots [J].Journal of Artificial Intelligence & Robotics, 2024. 
-* Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. Sensors,  2023. （中科院三区，IF：3.7）
-* **Liangshun Wu**,  Hengjin Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. Sensors,  2021,  21(15):5002-5026.（中科院三区，IF：3.7）
-* **Liangshun Wu**,  H. J. Cai*,  Han Li. SGX-UAM: A Secure Unified Access Management Scheme with One Time Passwords via Intel SGX[J]. IEEE Access,  2021,  9.（中科院三区，IF：3.4）
-* **Liangshun Wu**,  H. J. Cai*,  Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. IEEE Access,  2019,  7.（中科院三区，IF：3.4）
-* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. Ocean Engineering,  2023. (Under Review)
-* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. The Journal of Supercomputing,  2023. (Under Review)
-* **吴良顺**, 应忍冬*, 刘佩林, 张斌.嵌入式软件故障自动安全升级技术研究[J]单片机与嵌入式系统应用. 2022.（科技核心）
-* **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]自动化与仪器仪表. 2023. （科技核心）
+* **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (Under Review，CCF A类期刊，中科院1区，IF：6.8)
+* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2024. （Under Review，中科院1区，Top期刊，IF：9.0）
+* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （中科院1区，Top期刊，IF：9.0）
+* Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (中科院2区，IF：4.8)
+* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. _ACM Transactions on Sensor Networks_,  2022. （CCF B类期刊，中科院2区）
+* **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （中科院2区，IF：4.2）
+* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] _Computer Communications_. 2023. （CCF C类期刊，中科院3区，IF：4.2）
+* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. _Computers and Electrical Engineering_,  2022. （中科院3区，IF：3.8）
+* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Cloud-Edge Data Encryption in The Internet of Vehicles Using Zeckendorf Representation[J]．_Journal of Cloud Computing_,  2023.（中科院3区，IF：3.8）
+* Quan Chen,  **Liangshun Wu**,  Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．_Journal of Cloud Computing_,  2022.（中科院3区，IF：3.8）
+* **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（CCF C类期刊，中科院4区，IF：2.0）
+* **Liangshun Wu** *,  H. J. Cai,  Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. _International Journal of Information Security and Privacy_,  2022,  16(1): 1-20. （CCF C类期刊）
+* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Precision Dosing Cylinder Gluing Operations Using Model Predictive Control-Enhanced Reinforcement Learning[J] _Journal of Control, Automation and Electrical Systems_,  2024. (Under Review，中科院4区，IF：1.4) 
+* **Liangshun Wu**,  Junsuo Qu*,  Haonan Shi,  Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. _Entropy_,  2022.（中科院4区，IF：2.2）
+* **Liangshun Wu**,  Peilin Liu,  Junsuo Qu,  Cong Zhang,  Bin Zhang*. Duty Cycle Scheduling in Wireless Sensor Networks using an Exploratory Strategy-Directed MADDPG Algorithm [J] _International Journal of Sensors and Sensor Networks_,  2024.
+* **Lianghsun Wu** *, Peilin Liu, Rendong Ying. Brain-inspired chips for future robots [J]._Journal of Artificial Intelligence & Robotics_, 2024. 
+* Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. _Sensors_,  2023. （中科院三区，IF：3.7）
+* **Liangshun Wu**,  Hengjin Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. _Sensors_,  2021,  21(15):5002-5026.（中科院三区，IF：3.7）
+* **Liangshun Wu**,  H. J. Cai*,  Han Li. SGX-UAM: A Secure Unified Access Management Scheme with One Time Passwords via Intel SGX[J]. _IEEE Access_,  2021,  9.（中科院三区，IF：3.4）
+* **Liangshun Wu**,  H. J. Cai*,  Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. _IEEE Access_,  2019,  7.（中科院三区，IF：3.4）
+* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. _Ocean Engineering_,  2023. (Under Review)
+* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. _The Journal of Supercomputing_,  2023. (Under Review)
+* **吴良顺**, 应忍冬*, 刘佩林, 张斌.嵌入式软件故障自动安全升级技术研究[J]_单片机与嵌入式系统应用_. 2022.（科技核心）
+* **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]_自动化与仪器仪表_. 2023. （科技核心）
 
 
 ### 会议论文
