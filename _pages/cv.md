@@ -9,13 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-研究方向
-======
-基于异构众核芯片的类脑智能计算架构
 
-智能传感系统的多模态感知与信息融合
-
-边缘计算环境下的安全通信与泛在计算
 
 
 工作经历
@@ -56,11 +50,12 @@ redirect_from:
 ======
 * 主持，嵌入式系统与服务计算教育部重点实验室开放课题，“具备现场升级和快速响应能力的新型军用机载嵌入式软硬件架构”，项目编号：ESSCKF2024-10，经费：4万元，2024.9~2026.8。（在研）
 * 主持，上海市高可信计算重点实验室开放课题，“嵌入式软件高可信建模与验证技术研究”，经费：2万元，2024.08-2025.08。（在研）
-* 主持，陕西省信息通信网络及安全重点实验室开放课题，“大规模与高动态环境下无人机中继通信的自主优化和轨迹控制研究”，经费：3万元，2024.11.1-2026.11.1。（在研）
 * 参与，中国航天科工集团第三研究院第8358研究所、天津津航技术物理研究所，“信息处理传递通用模型的松耦合嵌入式软硬件架构”，经费：96万元，2024.02-2024.10。
 * 参与，科技部科技创新2030“脑计划与类脑研究”重大项目，“支持在线学习的类脑芯片架构”，项目编号：2022ZD0208700，经费：5096万元，2022.8~2027.8。	   
 
-
+研究方向
+======
+基于异构众核芯片的类脑智能计算架构、边缘计算环境下的安全通信与泛在计算、智能传感系统的多模态感知与信息融合
 
 学术成果
 ======
@@ -68,10 +63,10 @@ redirect_from:
 ### 期刊论文
 * **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan~Zhou, Rendong Ying, Peilin Liu,  Bin Zhang, Qinyuan Liu, Huibiao Zhu*. Design and Implementation of a Highly Configurable Architecture-Agnostic Assembler for Configurable Processors[J]. _IEEE Transactions on Computers_, 2024. (Under Review，CCF A类期刊，中科院1区，Top期刊，IF：6.9)
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (Under Review，CCF A类期刊，中科院1区，IF：6.8)
+* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Servo System for Precision Dosing Cylinder Gluing Operations Using Model Predictive Control-Enhanced Reinforcement Learning[J] _IEEE Transactions on Systems, Man, and Cybernetics Systems_,  2024. (Under Review，中科院1区) 
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2024. （Under Review，中科院1区，Top期刊，IF：9.0）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （中科院1区，Top期刊，IF：9.0）
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (中科院2区，IF：4.8)
-* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Servo System for Precision Dosing Cylinder Gluing Operations Using Model Predictive Control-Enhanced Reinforcement Learning[J] _IEEE Systems Journal_,  2024. (Under Review，中科院2区，IF：4.4) 
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （中科院2区，IF：4.2）
 * Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. _ACM Transactions on Sensor Networks_,  2022. （CCF B类期刊，中科院2区）
 * Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] _Computer Communications_. 2023. （CCF C类期刊，中科院3区，IF：4.2）
