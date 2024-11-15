@@ -14,7 +14,7 @@ redirect_from:
 
 工作经历
 ======
-* 2024.10 ~ 至今，日本国立电气通信大学，访问学者，合作导师：策力木格
+* 2024.10 ~ 至今，日本电气通信大学，访问学者，合作导师：策力木格
 * 2022.01 ~ 2024.07，上海交通大学，电子工程系，博士后，合作导师：刘佩林
 
 教育背景
@@ -37,13 +37,8 @@ redirect_from:
 ======
 * IEEE会员
 * 中国人工智能学会青年工作委员会, 会员
-* International Journal of Sensors and Sensor Networks期刊, 编委（Associate Editor）
-* Journal of Artificial Intelligence and Robotics期刊, 编委（Associate Editor）
-* Computer Science and Technology 期刊, 编委（Associate Editor）
+* International Journal of Sensors and Sensor Networks、Journal of Artificial Intelligence and Robotics、Computer Science and Technology期刊编委（Associate Editor）
 * 第八届亚洲人工智能技术大会（ACAIT2024）, 组委会成员（PC Member）
-* 第七届亚洲人工智能技术大会（ACAIT2023）, 审稿人（reviewer）
-* IEEE Internet of Things Journal,  审稿人（reviewer）
-* International Journal of Information Security & Privacy,  审稿人（reviewer）
 
 
 科研项目
