@@ -36,8 +36,8 @@ redirect_from:
 ======
 * IEEE会员
 * 中国人工智能学会青年工作委员会, 会员
-* International Journal of Sensors and Sensor Networks、Journal of Artificial Intelligence and Robotics、Computer Science and Technology期刊编委（Associate Editor）
-* 第八届亚洲人工智能技术大会（ACAIT2024）, 组委会成员（PC Member）
+* International Journal of Sensors and Sensor Networks、Journal of Artificial Intelligence and Robotics、Computer Science and Technology、Blockchain期刊编委（Associate Editor）
+* 第八届亚洲人工智能技术大会（ACAIT2024）组委会成员（PC Member）
 
 
 科研项目
@@ -49,7 +49,7 @@ redirect_from:
 
 研究方向
 ======
-基于异构众核芯片的类脑智能计算架构、实时嵌入式系统低功耗加速及自动化部署验证、边缘计算环境下的安全通信与泛在计算
+基于异构众核芯片的类脑智能计算架构、实时AI嵌入式系统编译优化及自动化部署验证、边缘计算环境下的安全通信与泛在计算
 
 学术成果
 ======
@@ -57,7 +57,7 @@ redirect_from:
 ### 期刊论文
 * **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan~Zhou, Rendong Ying, Peilin Liu,  Bin Zhang, Qinyuan Liu, Huibiao Zhu*. Design and Implementation of a Highly Configurable Architecture-Agnostic Assembler for Configurable Processors[J]. _IEEE Transactions on Computers_, 2024. (Under Review，CCF A类期刊，中科院1区，Top期刊，IF：6.9)
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (Under Review，CCF A类期刊，中科院1区，IF：6.8)
-* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Servo System for Precision Dosing Cylinder Gluing Operations Using Model Predictive Control-Enhanced Reinforcement Learning[J] _IEEE Transactions on Systems, Man, and Cybernetics Systems_,  2024. (Under Review，中科院1区) 
+* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Servo System for Precision Dosing Cylinder Gluing Operations Using Model Predictive Control-Enhanced Reinforcement Learning[J] _IEEE Transactions on Automation Science and Engineering_,  2024. (Under Review，中科院1区) 
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2024. （Under Review，中科院1区，Top期刊，IF：9.0）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （中科院1区，Top期刊，IF：9.0）
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (中科院2区，IF：4.8)
