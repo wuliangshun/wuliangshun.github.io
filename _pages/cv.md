@@ -35,7 +35,7 @@ redirect_from:
 学术服务
 ======
 * IEEE会员
-* 中国人工智能学会脑机融合与生物机器智能专业委员会会员
+* 中国人工智能学会（CAAI）脑机融合与生物机器智能专业委员会会员
 * International Journal of Sensors and Sensor Networks、Journal of Artificial Intelligence and Robotics、Computer Science and Technology、Blockchain期刊编委（Associate Editor）
 * 第八届亚洲人工智能技术大会（ACAIT2024）组委会成员（PC Member）
 
