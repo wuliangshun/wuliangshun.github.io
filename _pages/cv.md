@@ -35,7 +35,7 @@ redirect_from:
 学术服务
 ======
 * IEEE会员
-* 中国人工智能学会青年工作委员会, 会员
+* 中国人工智能学会-脑机融合与生物机器智能专业委员会, 会员
 * International Journal of Sensors and Sensor Networks、Journal of Artificial Intelligence and Robotics、Computer Science and Technology、Blockchain期刊编委（Associate Editor）
 * 第八届亚洲人工智能技术大会（ACAIT2024）组委会成员（PC Member）
 
@@ -98,7 +98,7 @@ redirect_from:
 
 
 ### 学术汇报
-* Brain-Inspired Chips for Future Robots,  2nd Global summit on Artificial Intelligence webinar,  August 21-22,  2024. <u>https://www.youtube.com/watch?v=97kBhg6euTc</u>
+* Brain-Inspired Chips for Future Robots,  2nd Global summit on Artificial Intelligence webinar,  August 21-22,  2024. Available at:<u>https://www.youtube.com/watch?v=97kBhg6euTc</u>
 
 ### 专著
 * **Liangshun Wu**. Data security and privacy considerations in mental health settings [M]. Chatbots and Mental Healthcare in Psychology and Psychiatry. IGI Global,  USA,  2024. 
