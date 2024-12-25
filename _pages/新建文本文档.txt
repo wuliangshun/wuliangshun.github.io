@@ -1,1 +1,6 @@
 * **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan Zhou, Bin Zhang, Rendong Ying, Peilin Liu. Efficient Code Generation for AMBA3-AXI Interconnects in SoC Design[J]. _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_, 2024. (Under Review，中科院3区，IF：1.942)
+
+*  2011-2012学年中南大学本科生二等奖学金
+*  2012-2013学年中南大学本科生二等奖学金
+*  2012年中南大学世纪海翔酬勤奖励金
+*  2014年武汉大学优秀学业奖学金

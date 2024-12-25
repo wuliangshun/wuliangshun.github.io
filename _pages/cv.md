@@ -35,9 +35,11 @@ redirect_from:
 学术服务
 ======
 * IEEE会员
+* 中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家
 * 中国人工智能学会（CAAI）脑机融合与生物机器智能专业委员会会员
-* International Journal of Sensors and Sensor Networks、Journal of Artificial Intelligence and Robotics、Computer Science and Technology、Blockchain期刊编委（Associate Editor）
 * 第八届亚洲人工智能技术大会（ACAIT2024）组委会成员（PC Member）
+* International Journal of Sensors and Sensor Networks、Journal of Artificial Intelligence and Robotics、Computer Science and Technology、Blockchain期刊编委（Associate Editor），IEEE TGCN、IEEE TIFS、IEEE IoTJ等期刊审稿人
+
 
 
 科研项目
@@ -159,13 +161,11 @@ redirect_from:
 
 奖项荣誉
 ======
+* 2024中俄工业创新大赛青少年机器人专项赛创赛单元，优秀奖，本人排名第4
 * 2022年中国(广东)中山海外博士博士后创新赛, 	优胜奖, 	本人排名第6
 * 第四届“互联网+”大学生创新创业大赛湖北省主赛道创意类, 	银奖/楚天创客奖, 	本人排名第1
 * 首届 Z-HACK 算法创新大赛区块链赛道, 	冠军, 	本人排名第1
-*  2011-2012学年中南大学本科生二等奖学金
-*  2012-2013学年中南大学本科生二等奖学金
-*  2012年中南大学世纪海翔酬勤奖励金
-*  2014年武汉大学优秀学业奖学金
+
 
 个人网站
 ======
