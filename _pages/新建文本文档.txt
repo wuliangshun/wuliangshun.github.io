@@ -4,3 +4,7 @@
 *  2012-2013学年中南大学本科生二等奖学金
 *  2012年中南大学世纪海翔酬勤奖励金
 *  2014年武汉大学优秀学业奖学金
+
+
+
+* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*. Approaches of Adaptive Drop in Training Spiking-YOLO Network for Traffic Flow Counting[C]//_8th Asian Conference on Artificial Intelligence Technology (ACAIT)_, Fuzhou, China, Nov 8-10, 2024. 

@@ -44,6 +44,7 @@ redirect_from:
 
 科研项目
 ======
+* 主持，中国科协决策咨询专家团队项目，“类脑感知技术应用与产业链发展决策咨询研究”，项目编号：kxzj103830，2024.1-2024.6。
 * 主持，嵌入式系统与服务计算教育部重点实验室开放课题，“具备现场升级和快速响应能力的新型军用机载嵌入式软硬件架构”，项目编号：ESSCKF2024-10，经费：4万元，2024.9~2026.8。（在研）
 * 主持，上海市高可信计算重点实验室开放课题，“嵌入式软件高可信建模与验证技术研究”，项目编号：24Z670103399，经费：2万元，2024.08-2025.08。（在研）
 * 参与，中国航天科工集团第三研究院第8358研究所、天津津航技术物理研究所，“信息处理传递通用模型的松耦合嵌入式软硬件架构”，经费：96万元，2024.02-2024.10。
@@ -58,7 +59,7 @@ redirect_from:
 
 ### 期刊论文
 * **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan Zhou, Rendong Ying, Peilin Liu,  Bin Zhang, Qinyuan Liu, Huibiao Zhu*. Design and Implementation of a Highly Configurable Architecture-Agnostic Assembler for Configurable Processors[J]. _IEEE Transactions on Computers_, 2024. (Under Review，CCF A类期刊，中科院1区，Top期刊，IF：6.9)
-* Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (中科院2区，IF：4.8)
+* **Liangshun Wu**, Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (中科院2区，IF：4.8)
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (Under Review，CCF A类期刊，中科院1区，IF：6.8)
 * **Liangshun Wu**,  Jianwei Xue,  Faquan Chen, Qingyang Tian, Ziren Wu, Yifan Zhou, Lisheng Xie, Peilin Liu, Rendong Ying*. ASIP Acceleration for SNN Computation Based on RISC-V[J] _IEEE Embedded Systems Letters_,  2025. (Under Review) 
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025. (Under Review) 
@@ -91,7 +92,6 @@ redirect_from:
 * **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024. 
 * Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024.
 * Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.
-* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*. Approaches of Adaptive Drop in Training Spiking-YOLO Network for Traffic Flow Counting[C]//_8th Asian Conference on Artificial Intelligence Technology (ACAIT)_, Fuzhou, China, Nov 8-10, 2024. 
 * **Liangshun Wu**,  H. J. Cai*,  Jinbo Liu,  Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//_4th International Conference on Advanced Electronic Materials, Computers and Software Engineering (AEMCSE)_, Changsha, China, Mar 26-28, 2021.
 * **Liangshun Wu** *,  H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// _International Conference on Computer Science and Application Engineering (CSAE)_, Hohhot, Inner Mongolia, China, Oct 22-24, 2018.
 
