@@ -14,8 +14,8 @@ redirect_from:
 
 工作经历
 ======
-* 2024.10 ~ 至今，日本国立电气通信大学，访问学者，合作导师：策力木格
-* 2022.01 ~ 2024.07，上海交通大学，电子工程系，博士后，合作导师：刘佩林
+* 2024.10 ~ 2025.1，日本国立电气通信大学，访问学者，合作导师：策力木格
+* 2022.01 ~ 至今，上海交通大学，电子工程系，博士后，合作导师：刘佩林
 
 教育背景
 ======
@@ -23,10 +23,9 @@ redirect_from:
 ### 全日制统招
 
 * 2017.09 ~ 2021.12, 	武汉大学, 	        软件工程, 	          博士, 	全日制,     导师：蔡恒进
-* 2014.09 ~ 2017.06, 	武汉大学, 	        金融学, 	              硕士, 	全日制,     导师：叶永刚
 * 2010.09 ~ 2014.06, 	中南大学, 	        信息管理与信息系统, 	  本科, 	全日制   
 
-### 其他形式
+### 其他学习形式
 * 2022.06 ~ 2022.12, 美国北亚利桑那大学, 	计算机信息技术, 		      硕士, 		在线硕士,   导师：孟德巍 
 * 2020.09 ~ 2023.12, 	西安邮电大学, 		    信息与通信工程, 		      硕士, 		同等学力, 	  导师：屈军锁
 * 2021.09 ~ 2023.12, 	西安电子科技大学, 	电气工程及其自动化, 	  本科, 	网络教育,   导师：张凤          
@@ -36,37 +35,37 @@ redirect_from:
 学术服务
 ======
 * IEEE会员
-* 中国人工智能学会青年工作委员会, 会员
-* International Journal of Sensors and Sensor Networks期刊, 编委（Associate Editor）
-* Journal of Artificial Intelligence and Robotics期刊, 编委（Associate Editor）
-* Computer Science and Technology 期刊, 编委（Associate Editor）
-* 第八届亚洲人工智能技术大会（ACAIT2024）, 组委会成员（PC Member）
-* 第七届亚洲人工智能技术大会（ACAIT2023）, 审稿人（reviewer）
-* IEEE Internet of Things Journal,  审稿人（reviewer）
-* International Journal of Information Security & Privacy,  审稿人（reviewer）
+* 中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家
+* 中国人工智能学会（CAAI）脑机融合与生物机器智能专业委员会会员
+* 第八届亚洲人工智能技术大会（ACAIT2024）组委会成员（PC Member）
+* International Journal of Sensors and Sensor Networks、Journal of Artificial Intelligence and Robotics、Computer Science and Technology、Blockchain期刊编委（Associate Editor），IEEE TGCN、IEEE TIFS、IEEE IoTJ等期刊审稿人
+
 
 
 科研项目
 ======
-* 主持，嵌入式系统与服务计算教育部重点实验室开放课题，“具备现场升级和快速响应能力的新型军用机载嵌入式软硬件架构”，项目编号：ESSCKF2024-10，经费：4万元，2024.9~2026.8。（在研）
-* 主持，上海市高可信计算重点实验室开放课题，“嵌入式软件高可信建模与验证技术研究”，经费：2万元，2024.08-2025.08。（在研）
+* 主持，中国科学技术协会战略发展部2024 年度第二批决策咨询专家团队项目，“类脑感知技术应用与产业链发展决策咨询研究”，经费：5万元，2024.1-2024.3。
+* 主持，教育部嵌入式系统与服务计算重点实验室开放课题，“具备现场升级和快速响应能力的新型军用机载嵌入式软硬件架构”，项目编号：ESSCKF2024-10，经费：4万元，2024.9~2026.8。（在研）
+* 主持，上海市高可信计算重点实验室开放课题，“嵌入式软件高可信建模与验证技术研究”，项目编号：24Z670103399，经费：2万元，2024.08-2025.08。（在研）
 * 参与，中国航天科工集团第三研究院第8358研究所、天津津航技术物理研究所，“信息处理传递通用模型的松耦合嵌入式软硬件架构”，经费：96万元，2024.02-2024.10。
 * 参与，科技部科技创新2030“脑计划与类脑研究”重大项目，“支持在线学习的类脑芯片架构”，项目编号：2022ZD0208700，经费：5096万元，2022.8~2027.8。	   
 
 研究方向
 ======
-基于异构众核芯片的类脑智能计算架构、边缘计算环境下的安全通信与泛在计算、智能传感系统的多模态感知与信息融合
+异构众核类脑芯片架构设计、类脑模型端侧编译部署优化、类脑协同感知及脉冲语义通信
 
 学术成果
 ======
 
 ### 期刊论文
-* **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan~Zhou, Rendong Ying, Peilin Liu,  Bin Zhang, Qinyuan Liu, Huibiao Zhu*. Design and Implementation of a Highly Configurable Architecture-Agnostic Assembler for Configurable Processors[J]. _IEEE Transactions on Computers_, 2024. (Under Review，CCF A类期刊，中科院1区，Top期刊，IF：6.9)
+* **Liangshun Wu**, Han Li, Shun Xiang, Tianqi Cai, Hengjin Cai*. A Novel Polynomial-Time Approximation Algorithm Solving Traveling Salesman Problem [J]_IEEE Computational Intelligence Magazine_, 2025. （Under Rview, 中科院1区，IF：11.2）
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (Under Review，CCF A类期刊，中科院1区，IF：6.8)
-* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*,  Junsuo Qu. Servo System for Precision Dosing Cylinder Gluing Operations Using Model Predictive Control-Enhanced Reinforcement Learning[J] _IEEE Transactions on Systems, Man, and Cybernetics Systems_,  2024. (Under Review，中科院1区) 
-* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2024. （Under Review，中科院1区，Top期刊，IF：9.0）
-* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （中科院1区，Top期刊，IF：9.0）
+* **Liangshun Wu**,  Jianwei Xue,  Faquan Chen, Qingyang Tian, Ziren Wu, Yifan Zhou, Lisheng Xie, Peilin Liu, Rendong Ying*. ASIP Acceleration for SNN Computation Based on RISC-V[J] _IEEE Embedded Systems Letters_,  2025. (Under Review) 
+* **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025. (Under Review) 
+* **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan Zhou, Rendong Ying, Peilin Liu,  Bin Zhang, Qinyuan Liu, Huibiao Zhu*. Design and Implementation of a Highly Configurable Architecture-Agnostic Assembler for Configurable Processors[J]. _IEEE Transactions on Computers_, 2024. (Under Review，CCF A类期刊，中科院1区，Top期刊，IF：6.9)
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (中科院2区，IF：4.8)
+* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （中科院1区，Top期刊，IF：9.0）
+* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （中科院1区，Top期刊，IF：9.0）
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （中科院2区，IF：4.2）
 * Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. _ACM Transactions on Sensor Networks_,  2022. （CCF B类期刊，中科院2区）
 * Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] _Computer Communications_. 2023. （CCF C类期刊，中科院3区，IF：4.2）
@@ -82,8 +81,8 @@ redirect_from:
 * **Liangshun Wu**,  Hengjin Cai*. Energy-Efficient Adaptive Sensing Scheduling in Wireless Sensor Networks Using Fibonacci Tree Optimization Algorithm[J]. _Sensors_,  2021,  21(15):5002-5026.（中科院三区，IF：3.7）
 * **Liangshun Wu**,  H. J. Cai*,  Han Li. SGX-UAM: A Secure Unified Access Management Scheme with One Time Passwords via Intel SGX[J]. _IEEE Access_,  2021,  9.（中科院三区，IF：3.4）
 * **Liangshun Wu**,  H. J. Cai*,  Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. _IEEE Access_,  2019,  7.（中科院三区，IF：3.4）
-* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle [J]. _Ocean Engineering_,  2023. (Under Review)
-* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. _The Journal of Supercomputing_,  2023. (Under Review)
+* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle. _Preprint_,  2023. (Available at SSRN: https://ssrn.com/abstract=4439523 or http://dx.doi.org/10.2139/ssrn.4439523)
+* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. _Preprint_,  2023. (Available at Research Square: https://www.researchsquare.com/article/rs-2946016/v1 or https://doi.org/10.21203/rs.3.rs-2946016/v1)
 * **吴良顺**, 应忍冬*, 刘佩林, 张斌.嵌入式软件故障自动安全升级技术研究[J]_单片机与嵌入式系统应用_. 2022.（科技核心）
 * **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]_自动化与仪器仪表_. 2023. （科技核心）
 
@@ -103,14 +102,24 @@ redirect_from:
 
 
 ### 学术汇报
-* Brain-Inspired Chips for Future Robots,  2nd Global summit on Artificial Intelligence webinar,  August 21-22,  2024.
+* Brain-Inspired Chips for Future Robots,  2nd Global summit on Artificial Intelligence webinar,  August 21-22,  2024. Available at:<u>https://www.youtube.com/watch?v=97kBhg6euTc</u>
 
 ### 专著
 * **Liangshun Wu**. Data security and privacy considerations in mental health settings [M]. Chatbots and Mental Healthcare in Psychology and Psychiatry. IGI Global,  USA,  2024. 
 
+### 申请专利
+* 周轶凡, 陈发全, 田清扬, 谢李生, 吴子任, **吴良顺**, 应忍冬, 刘佩林. 一种非规则拓扑下NoC单多播转发及死锁避免方法及系统[P]. 2024-10-28.
+* 田清扬, 陈发全, 谢李生, 周轶凡, 吴子任, **吴良顺**, 应忍冬, 刘佩林. 基于Motif统计和强化学习的自适应路由方法及系统: CN202411502263.2[P]. 2024-10-25.
+* 陈发全, 田清扬, 谢李生, 周轶凡, 吴子任, **吴良顺**, 应忍冬, 刘佩林. 事件型并行的在线学习神经形态计算方法及系统: CN202411477096.0[P]. 2024-10-22.
+* 田清扬, 陈发全, 计星武, 牛昊晨, **吴良顺**, 应忍冬, 刘佩林. 具有类脑意识的分布式计算和通信系统及其实现方法: CN202411108118.6[P]. 2024-08-13.
+* 陈发全, 田清扬, 计星武, 牛昊晨, **吴良顺**, 应忍冬, 刘佩林. 多模态信息对齐应用方法、系统、介质及设备: CN202411122270.X[P]. 2024-08-15.
+* 薛建伟, 谢李生, 陈发全, 田清扬, 周轶凡 **吴良顺**, 应忍冬, 刘佩林. 一种用于边缘设备的SNN映射方法及系统: CN202310872072.4[P]. 2023-07-17.
+* 薛建伟, 谢李生, 陈发全, 田清扬, 周轶凡 **吴良顺**, 应忍冬, 刘佩林. 一种用于人工智能硬件的神经核心计算系统: CN202310876295.8[P]. 2023-07-17.
+* 谢李生, 薛建伟, **吴良顺**, 陈发全, 田清扬, 周轶凡, 应忍冬, 刘佩林. 一种用于多核神经形态硬件上SNN的通用仿真器设计方法: CN202311259431.5[P]. 2023-09-27.
+* **吴良顺**, 谢李生, 薛建伟, 陈发全, 田清扬, 周轶凡, 应忍冬, 刘佩林. 深度学习编译器脉冲神经网络算子处理方法、系统、介质: CN202310610325.0[P]. 2023-05-26.
+* **吴良顺**, 陈发全, 田清扬, 谢李生, 周轶凡, 吴子任, 张家齐, 周启航, 应忍冬, 刘佩林.一种基于静态和动态内存配置的多核嵌入式系统内存管理方法、系统、设备及计算机存储介质: CN202310610325.0[P]. 2024-11-26.
 
-
-### 授权专利
+### 已授权专利
 * **吴良顺**. 信号放大电路及电子装置:ZL201920821881.1[P].2019-12-24.
 * **吴良顺**. 芯片激活装置、方法及计算机可读存储介质:ZL201910776735.6[P].2020-10-30.
 * **吴良顺**. 基于斐波那契进制的逻辑运算电路:ZL202011640617.1[P].2022-12-13.
@@ -144,16 +153,6 @@ redirect_from:
 * 叶宁, 乐仁龙, 徐智军, 徐旭辉, **吴良顺**. 估算体积和重量的方法、电子设备及计算机可读存储介质:ZL201910804159.1[P].2021-03-16.
 
 
-### 申请专利
-* 周轶凡, 陈发全, 田清扬, 谢李生, 吴子任, **吴良顺**, 应忍冬, 刘佩林. 一种非规则拓扑下NoC单多播转发及死锁避免方法及系统[P]. 2024-10-28.
-* 田清扬, 陈发全, 谢李生, 周轶凡, 吴子任, **吴良顺**, 应忍冬, 刘佩林. 基于Motif统计和强化学习的自适应路由方法及系统: CN202411502263.2[P]. 2024-10-25.
-* 陈发全, 田清扬, 谢李生, 周轶凡, 吴子任, **吴良顺**, 应忍冬, 刘佩林. 事件型并行的在线学习神经形态计算方法及系统: CN202411477096.0[P]. 2024-10-22.
-* 田清扬, 陈发全, 计星武, 牛昊晨, **吴良顺**, 应忍冬, 刘佩林. 具有类脑意识的分布式计算和通信系统及其实现方法: CN202411108118.6[P]. 2024-08-13.
-* 陈发全, 田清扬, 计星武, 牛昊晨, **吴良顺**, 应忍冬, 刘佩林. 多模态信息对齐应用方法、系统、介质及设备: CN202411122270.X[P]. 2024-08-15.
-* 薛建伟, 谢李生, 陈发全, 田清扬, 周轶凡 **吴良顺**, 应忍冬, 刘佩林. 一种用于边缘设备的SNN映射方法及系统: CN202310872072.4[P]. 2023-07-17.
-* 薛建伟, 谢李生, 陈发全, 田清扬, 周轶凡 **吴良顺**, 应忍冬, 刘佩林. 一种用于人工智能硬件的神经核心计算系统: CN202310876295.8[P]. 2023-07-17.
-* 谢李生, 薛建伟, **吴良顺**, 陈发全, 田清扬, 周轶凡, 应忍冬, 刘佩林. 一种用于多核神经形态硬件上SNN的通用仿真器设计方法: CN202311259431.5[P]. 2023-09-27.
-* **吴良顺**, 谢李生, 薛建伟, 陈发全, 田清扬, 周轶凡, 应忍冬, 刘佩林. 深度学习编译器脉冲神经网络算子处理方法、系统、介质: CN202310610325.0[P]. 2023-05-26.
 
 
 资格证书
@@ -164,13 +163,11 @@ redirect_from:
 
 奖项荣誉
 ======
+* 2024中俄工业创新大赛青少年机器人专项赛创赛单元，优秀奖，本人排名第4
 * 2022年中国(广东)中山海外博士博士后创新赛, 	优胜奖, 	本人排名第6
 * 第四届“互联网+”大学生创新创业大赛湖北省主赛道创意类, 	银奖/楚天创客奖, 	本人排名第1
 * 首届 Z-HACK 算法创新大赛区块链赛道, 	冠军, 	本人排名第1
-*  2011-2012学年中南大学本科生二等奖学金
-*  2012-2013学年中南大学本科生二等奖学金
-*  2012年中南大学世纪海翔酬勤奖励金
-*  2014年武汉大学优秀学业奖学金
+
 
 个人网站
 ======
