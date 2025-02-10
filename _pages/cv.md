@@ -60,6 +60,7 @@ redirect_from:
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （中科院2区，IF：4.2）
 
 ### 已投在审论文
+* **Liangshun Wu**,  Ziren Wu,  Faquan Chen, Qingyang Tian, Peilin Liu, Rendong Ying*. Behavioral-Level Simulator for Heterogeneous Neuromorphic Chip NoC[J] _IEEE Embedded Systems Letters_,  2025. (Under Review) 
 * **Liangshun Wu**,  Jianwei Xue,  Faquan Chen, Qingyang Tian, Ziren Wu, Yifan Zhou, Lisheng Xie, Peilin Liu, Rendong Ying*. ASIP Acceleration for SNN Computation Based on RISC-V[J] _IEEE Embedded Systems Letters_,  2025. (Under Review) 
 * **Liangshun Wu**, Han Li, Shun Xiang, Tianqi Cai, Hengjin Cai*. A Novel Polynomial-Time Approximation Algorithm Solving Traveling Salesman Problem [J]_IEEE Computational Intelligence Magazine_, 2025. （Under Rview, 中科院1区，IF：11.2）
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025. (Under Review) 
