@@ -14,7 +14,7 @@ redirect_from:
 
 工作经历
 ======
-* 2025.04 ~ 至今， 英国布鲁内尔大学，博士后/Research Fellow 
+* 2025.04 ~ 至今，    英国布鲁内尔大学，博士后/Research Fellow 
 * 2024.10 ~ 2025.1，日本国立电气通信大学，访问学者，合作导师：策力木格
 * 2022.01 ~ 2025.3，上海交通大学，电子工程系，博士后，合作导师：刘佩林
 
@@ -58,8 +58,8 @@ redirect_from:
 * **Liangshun Wu**, Han Li, Shun Xiang, Tianqi Cai, Hengjin Cai*. A Novel Polynomial-Time Approximation Algorithm Solving Traveling Salesman Problem [J]_IEEE Computational Intelligence Magazine_, 2025. （Under Rview, 中科院1区，IF：11.2）
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (Under Review，CCF A类期刊，中科院1区，IF：6.8)
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025. 
-* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （中科院1区，Top期刊，IF：9.0）
-* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （中科院1区，Top期刊，IF：9.0）
+* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （中科院1区，IF：9.0）
+* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （中科院1区，IF：9.0）
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （中科院2区，IF：4.2）
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (中科院2区，IF：4.8)
 * Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. _ACM Transactions on Sensor Networks_,  2022. （CCF B类期刊，中科院2区）
