@@ -32,12 +32,23 @@ redirect_from:
 
 
 
+学术服务
+======
+* IEEE会员
+* 中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家
+* 中国人工智能学会（CAAI）脑机融合与生物机器智能专业委员会会员
+* 第八届亚洲人工智能技术大会（ACAIT2024）组委会成员（PC Member）
+* International Journal of Sensors and Sensor Networks、Journal of Artificial Intelligence and Robotics、Computer Science and Technology、Blockchain期刊编委（Associate Editor），IEEE TGCN、IEEE TIFS、IEEE IoTJ等期刊审稿人
+
+
 
 科研项目
 ======
 * 主持，中国科学技术协会战略发展部2024 年度第二批决策咨询专家团队项目，经费：5万元，2025.1-2025.3。
 * 主持，教育部嵌入式系统与服务计算重点实验室开放课题，项目编号：ESSCKF2024-10，经费：4万元，2024.9~2026.8。（在研）
 * 主持，上海市高可信计算重点实验室开放课题，项目编号：24Z670103399，经费：2万元，2024.08-2025.08。（在研）
+* 参与，科技部科技创新2030“脑计划与类脑研究”重大项目，项目编号：2022ZD0208700，经费：5096万元，2022.8~2027.8。	   
+
 
 学术成果
 ======
@@ -63,6 +74,8 @@ redirect_from:
 * **Liangshun Wu**,  H. J. Cai*,  Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. _IEEE Access_,  2019,  7.（中科院三区，IF：3.4）
 * **Liangshun Wu**,  H. J. Cai*,  Jinbo Liu,  Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//_4th International Conference on Advanced Electronic Materials, Computers and Software Engineering (AEMCSE)_, Changsha, China, Mar 26-28, 2021.
 * **Liangshun Wu** *,  H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// _International Conference on Computer Science and Application Engineering (CSAE)_, Hohhot, Inner Mongolia, China, Oct 22-24, 2018.
+* **吴良顺**, 应忍冬*, 刘佩林, 张斌.嵌入式软件故障自动安全升级技术研究[J]_单片机与嵌入式系统应用_. 2022.（科技核心）
+* **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]_自动化与仪器仪表_. 2023. （科技核心）
 
 ### 非一作
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (中科院2区，IF：4.8)
@@ -78,6 +91,26 @@ redirect_from:
 * Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024.
 * Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.
 
+
+
+
+### 学术汇报
+* Brain-Inspired Chips for Future Robots,  2nd Global summit on Artificial Intelligence webinar,  August 21-22,  2024. Available at:<u>https://www.youtube.com/watch?v=97kBhg6euTc</u>
+
+### 专著
+* **Liangshun Wu**. Data security and privacy considerations in mental health settings [M]. Chatbots and Mental Healthcare in Psychology and Psychiatry. IGI Global,  USA,  2024. 
+
+### 申请专利
+* 周轶凡, 陈发全, 田清扬, 谢李生, 吴子任, **吴良顺**, 应忍冬, 刘佩林. 一种非规则拓扑下NoC单多播转发及死锁避免方法及系统[P]. 2024-10-28.
+* 田清扬, 陈发全, 谢李生, 周轶凡, 吴子任, **吴良顺**, 应忍冬, 刘佩林. 基于Motif统计和强化学习的自适应路由方法及系统: CN202411502263.2[P]. 2024-10-25.
+* 陈发全, 田清扬, 谢李生, 周轶凡, 吴子任, **吴良顺**, 应忍冬, 刘佩林. 事件型并行的在线学习神经形态计算方法及系统: CN202411477096.0[P]. 2024-10-22.
+* 田清扬, 陈发全, 计星武, 牛昊晨, **吴良顺**, 应忍冬, 刘佩林. 具有类脑意识的分布式计算和通信系统及其实现方法: CN202411108118.6[P]. 2024-08-13.
+* 陈发全, 田清扬, 计星武, 牛昊晨, **吴良顺**, 应忍冬, 刘佩林. 多模态信息对齐应用方法、系统、介质及设备: CN202411122270.X[P]. 2024-08-15.
+* 薛建伟, 谢李生, 陈发全, 田清扬, 周轶凡 **吴良顺**, 应忍冬, 刘佩林. 一种用于边缘设备的SNN映射方法及系统: CN202310872072.4[P]. 2023-07-17.
+* 薛建伟, 谢李生, 陈发全, 田清扬, 周轶凡 **吴良顺**, 应忍冬, 刘佩林. 一种用于人工智能硬件的神经核心计算系统: CN202310876295.8[P]. 2023-07-17.
+* 谢李生, 薛建伟, **吴良顺**, 陈发全, 田清扬, 周轶凡, 应忍冬, 刘佩林. 一种用于多核神经形态硬件上SNN的通用仿真器设计方法: CN202311259431.5[P]. 2023-09-27.
+* **吴良顺**, 谢李生, 薛建伟, 陈发全, 田清扬, 周轶凡, 应忍冬, 刘佩林. 深度学习编译器脉冲神经网络算子处理方法、系统、介质: CN202310610325.0[P]. 2023-05-26.
+* **吴良顺**, 陈发全, 田清扬, 谢李生, 周轶凡, 吴子任, 张家齐, 周启航, 应忍冬, 刘佩林.基于静态和动态内存配置的多核嵌入式系统内存管理方法、系统、设备及计算机存储介质: CN202310610325.0[P]. 2024-11-26.
 
 ### 已授权专利
 * **吴良顺**. 信号放大电路及电子装置:ZL201920821881.1[P].2019-12-24.
@@ -114,7 +147,14 @@ redirect_from:
 
 
 
-### 奖项荣誉
+
+资格证书
+======
+* NCRE三级,  	嵌入式系统开发技术
+* 计算机技术与软件专业技术资格（水平）,  	网络工程师
+
+
+奖项荣誉
 * 2022年中国(广东)中山海外博士博士后创新赛, 	优胜奖, 	本人排名第6
 * 2018年第四届“互联网+”大学生创新创业大赛湖北省主赛道创意类, 	银奖/楚天创客奖, 	本人排名第1
 * 2018年首届 Z-HACK 算法创新大赛区块链赛道, 	冠军, 	本人排名第1
