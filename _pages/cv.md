@@ -54,7 +54,6 @@ redirect_from:
 ======
 
 ### 一作（代表作）
-* **Liangshun Wu**, Han Li, Shun Xiang, Tianqi Cai, Hengjin Cai*. A Novel Polynomial-Time Approximation Algorithm Solving Traveling Salesman Problem [J]_IEEE Computational Intelligence Magazine_, 2025. （Under Rview, 中科院1区，IF：11.2）
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (Under Review，CCF A类期刊，中科院1区，IF：6.8)
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025. 
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （中科院1区，IF：9.0）
@@ -64,6 +63,7 @@ redirect_from:
 * **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024. 
 
 ### 一作（其他）
+* **Liangshun Wu**, Han Li, Shun Xiang, Tianqi Cai, Hengjin Cai*. A Novel Polynomial-Time Approximation Algorithm Solving Traveling Salesman Problem [J]_IEEE Computational Intelligence Magazine_, 2025. （Under Rview, 中科院1区，IF：11.2）
 * **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（CCF C类期刊，中科院4区，IF：2.0）
 * **Liangshun Wu** *,  H. J. Cai,  Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. _International Journal of Information Security and Privacy_,  2022,  16(1): 1-20. （CCF C类期刊）
 * **Liangshun Wu**,  Junsuo Qu*,  Haonan Shi,  Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. _Entropy_,  2022.（中科院4区，IF：2.2）
