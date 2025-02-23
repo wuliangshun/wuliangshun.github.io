@@ -48,13 +48,14 @@ redirect_from:
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （中科院1区，IF：9.0）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （中科院1区，IF：9.0）
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （中科院2区，IF：4.2）
-* **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （CCF C类会议）
-* **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024. 
+
 
 ### 一作（其他）
 * **Liangshun Wu**, Han Li, Shun Xiang, Tianqi Cai, Hengjin Cai*. A Novel Polynomial-Time Approximation Algorithm Solving Traveling Salesman Problem [J]_IEEE Computational Intelligence Magazine_, 2025. （Under Rview, 中科院1区，IF：11.2）
 * **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（CCF C类期刊，中科院4区，IF：2.0）
 * **Liangshun Wu** *,  H. J. Cai,  Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. _International Journal of Information Security and Privacy_,  2022,  16(1): 1-20. （CCF C类期刊）
+* **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （CCF C类会议）
+* **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024. 
 * **Liangshun Wu**,  Junsuo Qu*,  Haonan Shi,  Pengfei Li. Nodes Deployment Optimization of Wireless Sensor Networks Based on Virtual Force-Directed Particle Swarm Optimization Algorithm and Evidence Theory [J]. _Entropy_,  2022.（中科院4区，IF：2.2）
 * **Liangshun Wu**,  Peilin Liu,  Junsuo Qu,  Cong Zhang,  Bin Zhang*. Duty Cycle Scheduling in Wireless Sensor Networks using an Exploratory Strategy-Directed MADDPG Algorithm [J] _International Journal of Sensors and Sensor Networks_,  2024.
 * **Lianghsun Wu** *, Peilin Liu, Rendong Ying. Brain-inspired chips for future robots [J]._Journal of Artificial Intelligence & Robotics_, 2024. 
