@@ -9,15 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-研究计划：
-======
-开展通信网络内生智能研究，探索基于MPSoC架构的AI算法-通信跨层优化方法
-研发面向6G网络的边缘智能原型系统，实现AI模型在端侧设备的轻量化部署
 
 
 
 工作经历
 ======
+* 2025.5 ~ 今，南京大学，智慧网络与通信研究院，博士后（拟聘），合作导师：杨鲲(院士）  
 * 2024.10 ~ 2025.1，日本电气通信大学，访问学者，合作导师：策力木格
 * 2022.01 ~ 2025.3，上海交通大学，电子工程系，博士后，合作导师：刘佩林
 
@@ -29,7 +26,7 @@ redirect_from:
 
 研究方向
 ======
-边缘智能，嵌入式AI编译器，MPSoC软硬件协同
+边缘智能，嵌入式AI编译器，MPSoC软硬协同
 
 学术服务
 ======
@@ -51,7 +48,6 @@ redirect_from:
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （中科院1区，IF：9.0）
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （中科院2区，IF：4.2）
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025. 
-
 
 ### 一作（其他）
 * **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （CCF C类会议）
