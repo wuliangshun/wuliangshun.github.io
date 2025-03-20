@@ -18,27 +18,10 @@ redirect_from:
 * 2022.01 ~ 2025.3，上海交通大学，电子工程系，博士后，合作导师：刘佩林
 
 教育背景
-======
-### 全日制统招
-
-* 2017.09 ~ 2021.12, 	武汉大学, 	        软件工程, 	          博士, 	全日制,     导师：蔡恒进
-* 2010.09 ~ 2014.06, 	中南大学, 	        信息管理与信息系统, 	  本科, 	全日制   
-
-
-### 其他学习形式
-* 2022.06 ~ 2022.12, 美国北亚利桑那大学, 	计算机信息技术, 		      硕士, 		在线硕士,   导师：孟德巍 
-
-<small>主修课程：Information Security and Assurance-Fundamentals; Cybersecurity Policy, Cyberethics & Compliance; Cybersecurity and Risk Management;
-Fundamentals of Digital Forensicand Crime-Investigation, Information Security Design, Infrastructure,  & Administration; Information-Security & Assurance Applied Project Capstone</small>
-
-* 2020.09 ~ 2023.12, 	西安邮电大学, 		    信息与通信工程, 		      硕士, 		同等学力, 	  导师：屈军锁
-
-<small>主修课程：随机过程、数字信号处理Ⅱ、通信原理、现代电路技术、宽带无线通信技术（双语）、现代网络技术实验、基于软件无线电的无线通信系统实验、物联网技术与应用等</small>
-
-* 2021.09 ~ 2023.12, 	西安电子科技大学, 	电气工程及其自动化, 	  本科, 	网络教育,   导师：张凤          
-
-<small>主修课程：信号与系统、机械设计基础、电机与拖动、电力电子技术、机电一体化原理与应用、计算机网络、射频电路基础、传感器技术、电力工程、MATLAB与系统仿真等</small>
-
+=======
+2017.09 ~ 2021.12, 	武汉大学, 	        软件工程, 	          博士
+2020.09 ~ 2023.12, 	西安邮电大学,    信息与通信工程,           硕士
+2021.09 ~ 2023.12, 	西安电子科技大学, 	电气工程及其自动化, 	  本科
 
 
 
