@@ -46,7 +46,6 @@ redirect_from:
 
 学术成果
 ======
-
 ### 一作（代表作）
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (IEEE TIFS 2023：智能车路协同的密钥共享方案；Under Review，CCF A类期刊，中科院1区，IF：6.8)
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （强化学习+MPC工业控制）
@@ -71,18 +70,14 @@ redirect_from:
 ### 非一作
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (神经形态芯片；中科院2区，IF：4.8)
 * Lisheng Xie,  Jianwei Xue,  **Liangshun Wu**,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Ying,  Rendong Ying,  Peilin Liu*,  SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. _The 30th IEEE International Conference on High Performance Computing,  Data,  and Analytics (HiPC)_,  Goa,  India,  Dec 18-21,  2023.（神经形态仿真器；CCF C类会议，最佳论文奖）
-* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. _ACM Transactions on Sensor Networks_,  2022. （CCF B类期刊，中科院2区）
-* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] _Computer Communications_. 2023. （CCF C类期刊，中科院3区，IF：4.2）
-* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. _Computers and Electrical Engineering_,  2022. （中科院3区，IF：3.8）
-* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Cloud-Edge Data Encryption in The Internet of Vehicles Using Zeckendorf Representation[J]．_Journal of Cloud Computing_,  2023.（中科院3区，IF：3.8）
-* Quan Chen,  **Liangshun Wu**,  Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．_Journal of Cloud Computing_,  2022.（中科院3区，IF：3.8）
-* Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. _Sensors_,  2023. （中科院三区，IF：3.7）
-* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  Ling Peng. Real-Time Tiny Object Detection and Motion Parameter Extraction of Water Obstacles for Unmanned Surface Vehicle. _Preprint_,  2023. (Available at SSRN: https://ssrn.com/abstract=4439523 or http://dx.doi.org/10.2139/ssrn.4439523)
-* Bin Zhang,  Wenyong Dong,  Shankai Yan,  Meizhen Luo,  Chao Zhao,  **Liangshun Wu**,  A Parallel Design of Frequent Item-sets Mining on CPU-MIC Heterogeneous Systems [J]. _Preprint_,  2023. (Available at Research Square: https://www.researchsquare.com/article/rs-2946016/v1 or https://doi.org/10.21203/rs.3.rs-2946016/v1)
-* Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024.
-* Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.
-
-
+* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Trusted Paradigm of Data Management for Blockchain-Enabled Internet of Vehicles in Smart Cities[J]. _ACM Transactions on Sensor Networks_,  2022. （区块链车联网数据管理；CCF B类期刊，中科院2区）
+* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Reinforced Practical Byzantine Fault Tolerance Consensus Protocol for Cyber Physical Systems[J] _Computer Communications_. 2023. （区块链拜占庭协议；CCF C类期刊，中科院3区，IF：4.2）
+* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  A Deep Learning Approach to Secure Vehicle to Road Side Unit Communications in Intelligent Transportation System [J]. _Computers and Electrical Engineering_,  2022. （智能交通系统安全数据传输；中科院3区，IF：3.8）
+* Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Cloud-Edge Data Encryption in The Internet of Vehicles Using Zeckendorf Representation[J]．_Journal of Cloud Computing_,  2023.（车联网安全加密；中科院3区，IF：3.8）
+* Quan Chen,  **Liangshun Wu**,  Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．_Journal of Cloud Computing_,  2022.（物联网安全数据聚合；中科院3区，IF：3.8）
+* Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. _Sensors_,  2023. （AI模型端侧映射；中科院三区，IF：3.7）
+* Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024. （智能感知）
+* Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.（智能感知）
 ### 已授权专利
 * **吴良顺**. 信号放大电路及电子装置:ZL201920821881.1[P].2019-12-24.
 * **吴良顺**. 芯片激活装置、方法及计算机可读存储介质:ZL201910776735.6[P].2020-10-30.
