@@ -25,10 +25,10 @@ redirect_from:
 
 研究方向
 ======
-* 嵌入式AI编译及MPSoC软硬协同加速
-* 智能网联汽车安全通信
-* 区块链增强的物联网隐私保护
-* NOMA辅助的边缘计算任务调度
+* 移动边缘计算
+* 智能反射表面通信
+* 车联网/物联网隐私保护
+* 边缘智能
 
 学术服务
 ======
@@ -74,8 +74,8 @@ redirect_from:
 * Yun Wu,  **Liangshun Wu**,  Hengjin Cai*,  Cloud-Edge Data Encryption in The Internet of Vehicles Using Zeckendorf Representation[J]．_Journal of Cloud Computing_,  2023.（车联网安全加密；中科院3区，IF：3.8）
 * Quan Chen,  **Liangshun Wu**,  Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．_Journal of Cloud Computing_,  2022.（物联网安全数据聚合；中科院3区，IF：3.8）
 * Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. _Sensors_,  2023. （AI模型端侧映射；中科院三区，IF：3.7）
-* Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024. 
-* Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.
+* Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024. （智能感知）
+* Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.（智能感知）
 
 
 ### 已授权专利

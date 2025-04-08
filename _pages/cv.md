@@ -18,20 +18,17 @@ redirect_from:
 * 2022.01 ~ 2025.3，上海交通大学，电子工程系，博士后，合作导师：刘佩林
 
 教育背景
-=======
-* 2017.09 ~ 2021.12, 	武汉大学, 	        软件工程, 	          博士
-* 2020.09 ~ 2023.12, 	西安邮电大学,    信息与通信工程,           硕士
-* 2021.09 ~ 2023.12, 	西安电子科技大学, 	电气工程及其自动化, 	  本科
-
-
-
+======
+2017.09 ~ 2021.12, 	武汉大学, 	        软件工程, 	          博士
+2020.09 ~ 2023.12, 	西安邮电大学,    信息与通信工程,           硕士
+2021.09 ~ 2023.12, 	西安电子科技大学, 	电气工程及其自动化, 	  本科
 
 研究方向
 ======
-* 嵌入式AI编译及MPSoC软硬协同加速
-* 智能网联汽车安全通信
-* 区块链增强的物联网隐私保护
-* NOMA辅助的边缘计算任务调度
+* 移动边缘计算
+* 智能反射表面通信
+* 车联网/物联网隐私保护
+* 边缘智能
 
 学术服务
 ======
@@ -46,6 +43,7 @@ redirect_from:
 
 学术成果
 ======
+
 ### 一作（代表作）
 * **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (IEEE TIFS 2023：智能车路协同的密钥共享方案；Under Review，CCF A类期刊，中科院1区，IF：6.8)
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （强化学习+MPC工业控制）
@@ -78,6 +76,8 @@ redirect_from:
 * Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. _Sensors_,  2023. （AI模型端侧映射；中科院三区，IF：3.7）
 * Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024. （智能感知）
 * Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.（智能感知）
+
+
 ### 已授权专利
 * **吴良顺**. 信号放大电路及电子装置:ZL201920821881.1[P].2019-12-24.
 * **吴良顺**. 芯片激活装置、方法及计算机可读存储介质:ZL201910776735.6[P].2020-10-30.
