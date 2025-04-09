@@ -15,7 +15,7 @@ redirect_from:
 工作经历
 ======
 * 2024.10 ~ 2025.1，日本电气通信大学，访问学者，合作导师：策力木格
-* 2022.01 ~ 2025.3，上海交通大学，电子工程系，博士后，合作导师：刘佩林
+* 2022.01 ~ 至今，上海交通大学，信息与通信工程流动站，博士后，合作导师：陈文(2站)、刘佩林(1站)
 
 教育背景
 ======
@@ -45,12 +45,12 @@ redirect_from:
 ======
 
 ### 一作（代表作）
-* **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques[J]. _IEEE Transactions on Dependable and Secure Computing_,  2023. (IEEE TDSC 2023：智能车路协同的密钥共享方案；Under Review，CCF A类期刊，中科院1区，IF：6.8)
+* **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. MARTE-Based Formal Modeling with Reinforcement Learning for Architecture-Agnostic Assembler Design in Configurable Processors[J]. _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_,  2023. (IEEE TCAD：强化学习+MARTE嵌入式形式化建模，CCF A类期刊，中科院1区，IF：6.8)
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （强化学习+MPC工业控制）
-* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ 2025：智能反射面辅助无人机中继通信；中科院1区，IF：8.2）
-* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ 2024：NOMA车联网中的注意力增强计算卸载；中科院1区，IF：8.2）
+* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ：强化学习+智能反射面辅助无人机中继通信和移动边缘计算；中科院1区，IF：8.2）
+* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ：强化学习+NOMA车联网移动边缘计算；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （IEEE Sens. J.：无线传感网调度优化；中科院2区，IF：4.2）
-* **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（流加密；CCF C类期刊，中科院4区，IF：2.0）
+* **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（WCMC:  流加密；CCF C类期刊，中科院4区，IF：2.0）
 
 ### 一作（其他）
 * **Liangshun Wu** *,  H. J. Cai,  Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. _International Journal of Information Security and Privacy_,  2022,  16(1): 1-20. （可信执行环境保护云隐私；CCF C类期刊）
