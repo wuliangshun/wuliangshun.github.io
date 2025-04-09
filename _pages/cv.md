@@ -45,7 +45,7 @@ redirect_from:
 ======
 
 ### 一作（代表作）
-* **Liangshun Wu**,  Yun Wu,  Bin Zhang,  Peilin Liu*. MARTE-Based Formal Modeling with Reinforcement Learning for Architecture-Agnostic Assembler Design in Configurable Processors[J]. _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_,  2023. (IEEE TCAD：强化学习+MARTE嵌入式形式化建模，CCF A类期刊，中科院1区，IF：6.8)
+* **Liangshun Wu**,  Yao Zou,  Bin Zhang,  Qinyuan Liu, Huibiao Zhu*. MARTE-Based Formal Modeling with Reinforcement Learning for Architecture-Agnostic Assembler Design in Configurable Processors[J]. _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_,  2023. (IEEE TCAD：强化学习+MARTE嵌入式形式化建模，CCF A类期刊，中科院1区，IF：6.8)
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （强化学习+MPC工业控制）
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ：强化学习+智能反射面辅助无人机中继通信和移动边缘计算；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ：强化学习+NOMA车联网移动边缘计算；中科院1区，IF：8.2）
