@@ -1,0 +1,102 @@
+<<<<<<< HEAD
+* 2025.09 ~ 2025.12,  美国密歇根大学安娜堡分校, 电气与计算机工程系, 博士后
+
+研究方向
+======
+移动边缘计算与智能传感装备，神经形态硬件设计及嵌入式部署，物联网安全与隐私保护
+
+* Blockchain期刊, 青年编委
+
+主要职责：（1）负责类脑编译器开发，包括前端编译（SNN模型到中间表示（IR）的转换和硬件无关优化）、映射部署（计算图的分块和到众核NoC的映射：基于NSGA-II算法的多目标优化）。
+（2）负责片上网络（NoC）的部分设计（功率门控、自适应仲裁、Torus-Tree混合架构）
+
+主要职责： 负责在Zynq FPGA-ARM异构开发板AXU4EV-P上，搭建RT-Thread操作系统，并完成硬件即插即用（硬件自动发现和统一的设备驱动管理框架）、软件模块化松耦合设计、自动安全升级的研究。完成基于YOLOv5s的军事目标检测功能。
+
+* 主持，脑机智能全国重点实验室开放课题，“异质神经形态系统的容错进化映射研究”，经费：8万元，2024.10-2025.10。（在研）
+* 主持，四川省网络空间安全高校重点实验室2024年度开放课题，“大语言模型生成内容的安全防护：基于齐肯多夫编码的音频水印技术”，经费：1万元，2024.10-2025.10。（在研）
+
+* 主持，国家可信嵌入式软件工程技术研究中心开放课题，“面向多核处理器的航空机载嵌入式软件可信验证与系统原型研究”，经费：5万元，2024.08-2025.08。（在研）
+* 参与, 中国航天科工集团第三研究院8358研究所, “信息处理传递模型的松耦合软件架构”, 经费：90万元, 2023.03-2024.05。
+* 参与，国网山东省电力公司科技项目，“适用于电力设备巡检的基于众核异构架构的类脑智能计算系统技术”，经费：405 万，2024.1-2025.12。
+* 参与，军事科研重点实验室自主科研基金项目，“基于类脑智能的遥感目标解译理论方法研究”，经费：25 万元，2023.1-2023.9。
+
+
+研究方向
+======
+异构众核类脑芯片架构设计、类脑模型端侧编译部署优化、类脑协同感知及脉冲语义通信
+
+
+=======
+>>>>>>> origin/master
+* **Liangshun Wu**, Yao Zou, Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan Zhou, Bin Zhang, Rendong Ying, Peilin Liu. Efficient Code Generation for AMBA3-AXI Interconnects in SoC Design[J]. _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_, 2024. (Under Review，中科院3区，IF：1.942)
+
+*  2011-2012学年中南大学本科生二等奖学金
+*  2012-2013学年中南大学本科生二等奖学金
+*  2012年中南大学世纪海翔酬勤奖励金
+*  2014年武汉大学优秀学业奖学金
+<<<<<<< HEAD
+工作经历
+======
+* 2024.10 ~ 2024.12(拟)，日本国立电气通信大学，访问学者，合作导师：策力木格
+* 2022.01 ~ 2024.07，上海交通大学，电子工程系，博士后，合作导师：刘佩林
+
+教育背景
+======
+* 2017.09 ~ 2021.12, 	武汉大学, 	        软件工程, 	          博士, 	全日制,     导师：蔡恒进
+* 2014.09 ~ 2017.06, 	武汉大学, 	        金融学, 	              硕士, 	全日制,     导师：叶永刚
+* 2010.09 ~ 2014.06, 	中南大学, 	        信息管理与信息系统, 	  本科, 	全日制   
+
+其他
+* 2022.06 ~ 2022.12,  美国北亚利桑那大学, 	计算机信息技术, 		      硕士, 		在线硕士,   导师：MENG DEWEI 
+* 2020.09 ~ 2023.12, 	西安邮电大学, 		    信息与通信工程, 		      硕士, 		同等学力, 	  导师：屈军锁
+* 2021.09 ~ 2023.12, 	西安电子科技大学, 	电气工程及其自动化, 	  本科, 	网络教育,   导师：张凤          
+
+
+
+
+* **Liangshun Wu**. Recent advances in approaches for mapping Spiking Neural Networks (SNNs) to neuromorphic hardware [M]. Recent Advances in Neuromorphic Computing. IntechOpen, London, UK, 2024.
+
+
+
+
+工作经历
+======
+
+| 时间                | 单位                               | 职位       | 合作导师   |
+|----------------|------------------------------------|------------|------------|
+| 2024.10 ~ 2024.12 (拟) | 日本国立电气通信大学    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | 访问学者   | 策力木格   |
+| 2022.01 ~ 2024.07   | 上海交通大学, 电子工程系           | 博士后     | 刘佩林     |
+
+教育背景
+======
+
+### 全日制统招
+
+| 时间                | 学校               | 专业                     | 学位   | 学习方式 | 导师      |
+|---------------|--------------------|--------------------------|--------|-------|-----------|
+| 2017.09 ~ 2021.12| 武汉大学  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       | 软件工程          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | 博士   | 全日制 | 蔡恒进   |
+| 2014.09 ~ 2017.06| 武汉大学    | 金融学                   | 硕士   | 全日制 | 叶永刚   |
+| 2010.09 ~ 2014.06| 中南大学           | 信息管理与信息系统       | 学士   | 全日制 |     |
+
+### 其他形式
+
+| 时间                | 学校               | 专业                     | 学位       | 学习方式     | 导师      |
+|---------------------|--------------------|--------------------------|------------|-----------|-----------|
+| 2022.06 ~ 2022.12   | 美国北亚利桑那大学 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 计算机信息技术           | 硕士       | 在线硕士  | 孟德巍 |
+| 2020.09 ~ 2023.12   | 西安邮电大学       | 信息与通信工程           | 硕士       | 同等学力  | 屈军锁|
+| 2021.09 ~ 2023.12   | 西安电子科技大学   | 电气工程及其自动化       | 学士       | 网络教育  | 张凤     |
+
+
+
+
+
+
+
+
+
+=======
+
+
+
+* **Liangshun Wu**,  Peilin Liu,  Bin Zhang*. Approaches of Adaptive Drop in Training Spiking-YOLO Network for Traffic Flow Counting[C]//_8th Asian Conference on Artificial Intelligence Technology (ACAIT)_, Fuzhou, China, Nov 8-10, 2024. 
+>>>>>>> origin/master
