@@ -14,9 +14,9 @@ redirect_from:
 
 工作经历
 ======
-* 2024.10 ~ 2025.1，日本电气通信大学，访问学者，合作导师：策力木格
-* 2025.05 ~ 至今，   上海交通大学，电子工程系，博士后，合作导师：陈文
+* 2025.05 ~ 至今，   &nbsp;&nbsp;&nbsp;&nbsp;上海交通大学，电子工程系，博士后，合作导师：陈文
 * 2022.01 ~ 2025.3，上海交通大学，电子工程系，博士后，合作导师：刘佩林
+* 2024.10 ~ 2025.1，日本电气通信大学，访问学者，合作导师：策力木格
 
 教育背景
 ======
@@ -47,16 +47,7 @@ redirect_from:
 * 主持，上海市高可信计算重点实验室开放课题，项目编号：24Z670103399，经费：2万元，2024.08-2025.08。（在研）
 * 主持，计算神经科学与类脑智能教育部重点实验室开放课题，经费：2万元，2025.5.1-2027.4.30。（在研）
 
-学术服务
-======
-* IEEE会员
-* 中国人工智能学会（CAAI）青年委员会会员
-* 中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家
-* 第八届亚洲人工智能技术大会（ACAIT2024）组委会成员（PC Member）
-* International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）
-* Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）
-* Computer Science and Technology、Blockchain期刊编委（Associate Editor）
-* BlockChain期刊编委（Associate Editor）
+
 
 学术成果
 ======
@@ -67,7 +58,7 @@ redirect_from:
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ 2024：NOMA车联网中的注意力增强计算卸载；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （强化学习+MPC工业控制）
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （IEEE Sens. J.：无线传感网调度优化；中科院2区，IF：4.2）
-* **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（流加密；CCF C类期刊，中科院4区，IF：2.0）
+* **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（移动网络流加密；CCF C类期刊，中科院4区，IF：2.0）
 
 ### 一作（其他）
 * **Liangshun Wu** *,  H. J. Cai,  Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. _International Journal of Information Security and Privacy_,  2022,  16(1): 1-20. （可信执行环境保护云隐私；CCF C类期刊）
@@ -129,6 +120,7 @@ redirect_from:
 * 叶宁, 乐仁龙, 徐智军, 徐旭辉, **吴良顺**. 估算体积和重量的方法、电子设备及计算机可读存储介质:ZL201910804159.1[P].2021-03-16.
 
 
+
 资格证书
 ======
 * NCRE三级,  	嵌入式系统开发技术
@@ -143,3 +135,13 @@ redirect_from:
 * “信链-基于Hyperledger Fabric的隐私数据区块链”，2018年首届 Z-HACK 算法创新大赛, 	冠军, 	本人排名第1
 
 
+学术服务
+======
+* IEEE会员
+* 中国人工智能学会（CAAI）青年委员会会员
+* 中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家
+* 第八届亚洲人工智能技术大会（ACAIT2024）组委会成员（PC Member）
+* International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）
+* Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）
+* Computer Science and Technology期刊编委（Associate Editor）
+* BlockChain期刊编委（Associate Editor）
