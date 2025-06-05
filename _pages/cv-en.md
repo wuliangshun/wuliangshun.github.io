@@ -14,9 +14,9 @@ redirect_from:
 Work Experience
 ======
 * 2025.06 ~ Present,  Guangzhou Institute of Science and Technology, Associate Professor (Part-time)
-* 2025.05 ~ Present,  Shanghai Jiao Tong University, Department of Electronic Engineering, Postdoctoral Fellow, Supervisor: Wen Chen
-* 2022.01 ~ 2025.3,   Shanghai Jiao Tong University, Department of Electronic Engineering, Postdoctoral Fellow, Supervisor: Peilin Liu
-* 2024.10 ~ 2025.1,   University of Electro-Communications, Japan, Visiting Scholar, Supervisor: Celimuge
+* 2025.05 ~ Present,  Shanghai Jiao Tong University, Department of Electronic Engineering, Assitant Professor, Follow: Wen Chen
+* 2022.01 ~ 2025.3,   Shanghai Jiao Tong University, Department of Electronic Engineering, Postdoctoral Fellow, Follow: Peilin Liu
+* 2024.10 ~ 2025.1,   University of Electro-Communications, Japan, Visiting Scholar, Collaborator: Celimuge
 
 Education
 ======
@@ -35,7 +35,7 @@ Research Interests
 * Mobile Edge Computing
 * Reconfigurable Intelligent Surface-Assisted Communication
 * Security in Internet of Vehicles/Internet of Things
-* Embedded Communication Software
+* Low-Power Embedded Communication Software
 
 Projects
 ======
