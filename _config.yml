@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "吴良顺  助理研究员"
+name                     : &name "吴良顺  Liangshun Wu"
 description              : &description "职称	：	助理研究员"
 url                      : https://wuliangshun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
