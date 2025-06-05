@@ -16,7 +16,7 @@ Work Experience
 * 2025.06 ~ Present,  Guangzhou Institute of Science and Technology, Associate Professor (Part-time)
 * 2025.05 ~ Present,  Shanghai Jiao Tong University, Department of Electronic Engineering, Postdoctoral Fellow, Supervisor: Wen Chen
 * 2022.01 ~ 2025.3,   Shanghai Jiao Tong University, Department of Electronic Engineering, Postdoctoral Fellow, Supervisor: Peilin Liu
-* 2024.10 ~ 2025.1,   University of Electro-Communications, Japan, Visiting Scholar, Supervisor: C. Limuge
+* 2024.10 ~ 2025.1,   University of Electro-Communications, Japan, Visiting Scholar, Supervisor: Celimuge
 
 Education
 ======
