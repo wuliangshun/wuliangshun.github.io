@@ -21,14 +21,14 @@ Work Experience
 Education
 ======
 
-### Full-time
+### Full-time Schooling
 * 2017.09 ~ 2021.12,  Wuhan University,  Software Engineering,  Ph.D.,  Full-time,  Supervisor: Hengjin Cai
 * 2010.09 ~ 2014.06,  Central South University,  Information Management and Information Systems,  Bachelor,  Full-time
 
-### Online Learning
-* 2022.06 ~ 2022.12,  Northern Arizona University (USA),  Computer Information Technology,  Master,  Online,  Supervisor: Dewei Meng
-* 2020.09 ~ 2023.12,  Xi'an University of Posts and Telecommunications,  Information and Communication Engineering,  Master,  Equivalent Education,  Supervisor: Junsuo Qu
-* 2021.09 ~ 2023.12,  Xidian University,  Electrical Engineering and Automation,  Bachelor,  Online Education,  Supervisor: Feng Zhang
+### Part-time Learning
+* 2022.06 ~ 2022.12,  Northern Arizona University (USA),  Computer Information Technology,  Master,   Supervisor: Dewei Meng
+* 2020.09 ~ 2023.12,  Xi'an University of Posts and Telecommunications,  Information and Communication Engineering,  Master,  Supervisor: Junsuo Qu
+* 2021.09 ~ 2023.12,  Xidian University,  Electrical Engineering and Automation,  Bachelor,  Supervisor: Feng Zhang
 
 Research Interests
 ======
