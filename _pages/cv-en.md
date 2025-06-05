@@ -11,7 +11,7 @@ redirect_from:
 
 [中文简历](/cv/) | [English CV](/cv-en/)
 
-Work Experience
+Working Experience
 ======
 * 2025.06 ~ Present,  Guangzhou Institute of Science and Technology, Associate Professor (Part-time)
 * 2025.05 ~ Present,  Shanghai Jiao Tong University, Department of Electronic Engineering, Assitant Professor, Follow: Wen Chen
