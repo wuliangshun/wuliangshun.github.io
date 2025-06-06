@@ -40,9 +40,10 @@ Research Interests
 Projects
 ======
 * PI, Strategic Development Department of the China Association for Science and Technology, Second Batch of Decision-making Consulting Expert Team Project 2024, Funding: 50,000 RMB, 2025.1-2025.3.
-* PI, Open Project of Embedded Systems and Service Computing Key Laboratory, Ministry of Education, Project No.: ESSCKF2024-10, Funding: 40,000 RMB, 2024.9~2026.8. (Ongoing)
-* PI, Open Project of Shanghai Key Laboratory of Trusted Computing, Project No.: 24Z670103399, Funding: 20,000 RMB, 2024.08-2025.08. (Ongoing)
-* PI, Open Project of Ministry of Education Key Laboratory of Computational Neuroscience and Brain-like Intelligence, Funding: 20,000 RMB, 2025.5.1-2027.4.30. (Ongoing)
+* PI, Pre-Research Fund Project of Shanghai Jiao Tong University, Funding: 10,000 RMB (Completed).
+* PI, Open Project of Embedded Systems and Service Computing Key Laboratory, Ministry of Education, Grant No.: ESSCKF2024-10, Funding: 40,000 RMB, 2024.9~2026.8. (Ongoing)
+* PI, Open Project of Shanghai Key Laboratory of Trusted Computing, Grant No.: 24Z670103399, Funding: 20,000 RMB, 2024.08-2025.08. (Ongoing)
+* PI, Open Project of Ministry of Education Key Laboratory of Computational Neuroscience and Brain-like Intelligence, Grant No.:25Z67010205, Funding: 20,000 RMB, 2025.5.1-2027.4.30. (Ongoing)
 
 Academic Services
 ======
