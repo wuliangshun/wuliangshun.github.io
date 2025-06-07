@@ -73,7 +73,7 @@ redirect_from:
 * **Liangshun Wu**,  H. J. Cai*,  Zexi Gong. The Integer Factorization Algorithm with Pisano Periods[J]. _IEEE Access_,  2019,  7.（网络安全加密；中科院三区，IF：3.4）
 * **Liangshun Wu**,  H. J. Cai*,  Jinbo Liu,  Zhide Li. Enhancing the Anti-Cryptanalysis Ability and Avalanche Effect with Zeckendorf Representation via FPGA Implementation[C]//_4th International Conference on Advanced Electronic Materials, Computers and Software Engineering (AEMCSE)_, Changsha, China, Mar 26-28, 2021. （网络安全加密）
 * **Liangshun Wu** *,  H. J. Cai. The Periodicity of Fibonacci Sequence Modulo a Prime and Its Application in Primality Testing[C]// _International Conference on Computer Science and Application Engineering (CSAE)_, Hohhot, Inner Mongolia, China, Oct 22-24, 2018. （网络安全加密）
-
+* **Lianghsun Wu** *, Peilin Liu, Rendong Ying. Brain-inspired chips for future robots [J]._Journal of Artificial Intelligence & Robotics_, 2024. 
 
 ### 非一作
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (神经形态芯片；中科院2区，IF：4.8)
