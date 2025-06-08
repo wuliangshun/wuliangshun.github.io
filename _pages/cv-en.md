@@ -84,6 +84,7 @@ Publications
 * Jianwei Xue, Lisheng Xie, Faquan Chen, **Liangshun Wu**, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu, EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing . _Sensors_, 2023. 
 * Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing Small Object Detection in Remote Sensing Imagery with Advanced Generative Adversarial Networks . _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14, 2024. 
 * Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection . _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024. 
+* Bin Zhang, **Liangshun Wu**, Jiang Rong, Shixin Huang, Yuwen Li, Meizhen Luo. Synergistic Optimization Mechanism of Brain-Inspired Intelligence and Generative Models in Small Target Detection. _ Proceedings of the 2025 2nd International Conference on Generative Artificial Intelligence and Information Security_, pp. 242-246. 2025.
 
 ### Granted Patents
 * **Liangshun Wu**. Signal amplification circuit and electronic device: ZL201920821881.1.2019-12-24.
