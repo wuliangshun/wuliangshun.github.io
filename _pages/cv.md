@@ -141,8 +141,8 @@ redirect_from:
 学术服务
 ======
 * IEEE会员
-* 中国人工智能学会（CAAI）青年委员会会员
 * 中国通信工业协会（CCIA）会员
+* 中国人工智能学会（CAAI）青年委员会会员
 * 中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家
 * IECE Transactions on Wireless Communication主编（Editor in Chief）
 * International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）, Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）, Computer Science and Technology期刊编委（Associate Editor）, BlockChain期刊编委（Associate Editor）
