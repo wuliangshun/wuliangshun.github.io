@@ -25,9 +25,7 @@ redirect_from:
 * 2021.09 ~ 2023.12, 	西安电子科技大学,   电气工程及其自动化, 	 本科
 * 2010.09 ~ 2014.06, 	中南大学, 	       信息管理与信息系统, 	  本科
 
-社会兼职
-======
-* 2025.07 ~ 至今，   &nbsp;&nbsp;广州理工学院，计算机科学与工程学院，特聘副教授（兼职）
+
 
 研究方向
 ======
@@ -121,6 +119,22 @@ redirect_from:
 
 
 
+
+社会兼职
+======
+* 2025.07 ~ 至今，   &nbsp;&nbsp;广州理工学院，计算机科学与工程学院，特聘副教授（兼职）
+
+学术服务
+======
+* IEEE会员
+* 中国通信工业协会（CCIA）会员
+* 中国人工智能学会（CAAI）青年委员会会员
+* 中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家
+* IECE Transactions on Wireless Communication主编（Editor in Chief）
+* International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）, Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）, Computer Science and Technology期刊编委（Associate Editor）, BlockChain期刊编委（Associate Editor）
+* ACAIT2024组委会成员（PC Member）
+
+
 资格证书
 ======
 * NCRE三级,  	嵌入式系统开发技术
@@ -133,14 +147,3 @@ redirect_from:
 * “智绘乳腺-乳腺癌智能诊断系统”，2024年中俄工业创新大赛青少年机器人专项赛创赛单元, 优秀奖, 本人排名第4
 * “everiToken公有链”，2018年第四届“互联网+”大学生创新创业大赛湖北省主赛道创意类, 	银奖/楚天创客奖, 	本人排名第1
 * “信链-基于Hyperledger Fabric的隐私数据区块链”，2018年首届 Z-HACK 算法创新大赛, 	冠军, 	本人排名第1
-
-
-学术服务
-======
-* IEEE会员
-* 中国通信工业协会（CCIA）会员
-* 中国人工智能学会（CAAI）青年委员会会员
-* 中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家
-* IECE Transactions on Wireless Communication主编（Editor in Chief）
-* International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）, Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）, Computer Science and Technology期刊编委（Associate Editor）, BlockChain期刊编委（Associate Editor）
-* ACAIT2024组委会成员（PC Member）
