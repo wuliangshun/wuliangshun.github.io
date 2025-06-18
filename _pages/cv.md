@@ -116,7 +116,8 @@ redirect_from:
 
 学术服务
 ======
-* IEEE会员、中国通信工业协会（CCIA）会员、中国人工智能学会（CAAI）会员、中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家、ICCK Transactions on Green Communications and Networking主编（Editor in Chief）、International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）, Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）, Computer Science and Technology期刊编委（Associate Editor）, BlockChain期刊编委（Associate Editor）、ACAIT2024组委会成员（PC Member）
+
+IEEE会员、中国通信工业协会（CCIA）会员、中国人工智能学会（CAAI）会员、中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家、ICCK Transactions on Green Communications and Networking主编（Editor in Chief）、International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）, Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）, Computer Science and Technology期刊编委（Associate Editor）, BlockChain期刊编委（Associate Editor）、ACAIT2024组委会成员（PC Member）
 
 
 资格证书
@@ -142,4 +143,4 @@ redirect_from:
 * 2021.09 ~ 2023.12, 	西安电子科技大学, 	电气工程及其自动化, 	  本科, 	网络教育,   导师：张凤     
 
 ### 兼职
-* 2025.07 ~ 至今，   &nbsp;&nbsp;广州理工学院，计算机科学与工程学院，特聘副教授（兼职）
+* 2025.07 ~ 至今，   &nbsp;&nbsp;广州理工学院，计算机科学与工程学院，特聘副教授
