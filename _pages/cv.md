@@ -25,7 +25,7 @@ redirect_from:
 
 研究方向
 ======
-* 研究方向一：移动边缘计算/RIS通信/车联网/无线传感网/安全与隐私/优化方法/强化学习
+* 研究方向一：移动边缘计算/超表面通信/车联网/无线传感网/安全与隐私/优化方法/强化学习
 * 研究方向二：边缘智能/嵌入式AI/FPGA
 
 
@@ -42,7 +42,7 @@ redirect_from:
 学术成果
 ======
 
-### 研究方向一：移动边缘计算/RIS通信/车联网/无线传感网/安全与隐私/优化方法/强化学习
+### 研究方向一：移动边缘计算/超表面通信/车联网/无线传感网/安全与隐私/优化方法/强化学习
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ 2025：智能反射面辅助无人机中继通信；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ 2024：NOMA车联网中的注意力增强计算卸载；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （强化学习+MPC工业控制）
