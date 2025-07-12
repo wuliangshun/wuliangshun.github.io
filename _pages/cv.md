@@ -69,6 +69,8 @@ redirect_from:
 ### 研究方向二：边缘智能/嵌入式AI/FPGA
 * **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （嵌入式系统；CCF C类会议）
 * **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024.  （嵌入式系统）
+* **Lianghsun Wu** *, Tao Tao, Behavior-Level Simulator For Heterogeneous Neural Network Chips [J]._ICCK Transactions on Circuits and Systems_, 2025.(神经形态芯片)
+* **Lianghsun Wu** *, Tao Tao, MARTE-Based Modeling and Analysis for Real-Time Neuromorphic Computing in Embedded Systems [J]._ICCK Journal of Software Engineering_, 2025.(嵌入式系统)
 * **Lianghsun Wu** *, Peilin Liu, Rendong Ying. Brain-inspired chips for future robots [J]._Journal of Artificial Intelligence & Robotics_, 2024. (边缘感知)
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (IEEE TBCS，神经形态芯片；中科院2区，IF：4.8)
 * Qingyang Tian, Faquan Chen, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Peilin Liu*. Low-cost Deployment and Acceleration of Event-based Spiking Convolutional Neural Networks[C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_, London, United Kingdom, 2025, pp. 1-5.
