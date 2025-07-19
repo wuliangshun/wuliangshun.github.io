@@ -158,7 +158,7 @@ IEEE会员、中国通信工业协会（CCIA）会员、中国人工智能学会
 其他经历
 ======
 
-### 其他教育经历
+### 其他教育/培训经历
  
 - **M.S. in Computer Information Technology (Online)**  
   Northern Arizona University, USA，2022.06 – 2022.12  
