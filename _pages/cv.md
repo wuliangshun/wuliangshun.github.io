@@ -58,11 +58,11 @@ redirect_from:
 
 科研项目
 ======
-* 主持，中国科学技术协会战略发展部2024 年度第二批决策咨询专家团队项目，经费：5万元，2025.1-2025.3（已结题）
-* 主持，上海交通大学集成电路学院（信息与电子工程学院）-预研基金（纵），项目编号：JG0340001，经费：1万元（已结题）
-* 主持，教育部嵌入式系统与服务计算重点实验室开放课题，项目编号：ESSCKF2024-10，经费：4万元，2024.9~2026.8。（在研）
-* 主持，上海市高可信计算重点实验室开放课题，项目编号：24Z670103399，经费：2万元，2024.08-2025.08。（在研）
-* 主持，计算神经科学与类脑智能教育部重点实验室开放课题，项目编号：25Z67010205，经费：2万元，2025.5.1-2027.4.30。（在研）
+* 主持，中国科学技术协会战略发展部2024 年度第二批决策咨询专家团队项目，5万元，2025.1-2025.3（结题）
+* 主持，上海交通大学集成电路学院（信息与电子工程学院）-预研基金（纵），JG0340001，1万元（结题）
+* 主持，教育部嵌入式系统与服务计算重点实验室开放课题，ESSCKF2024-10，4万元，2024.9~2026.8。（在研）
+* 主持，上海市高可信计算重点实验室开放课题，24Z670103399，2万元，2024.08-2025.08。（在研）
+* 主持，计算神经科学与类脑智能教育部重点实验室开放课题，25Z67010205，2万元，2025.5.1-2027.4.30。（在研）
 
 
 
@@ -72,7 +72,7 @@ redirect_from:
 ### 研究方向一：移动边缘计算/超表面通信/车联网/无线传感网/安全与隐私/优化方法/强化学习
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ 2025：智能反射面辅助无人机中继通信；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ 2024：NOMA车联网中的注意力增强计算卸载；中科院1区，IF：8.2）
-* **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （强化学习+MPC工业控制）
+* **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （IEEE OJCSYS：强化学习+MPC工业控制）
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （IEEE Sens. J.：无线传感网调度优化；中科院2区，IF：4.2）
 * **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（移动网络流加密；CCF C类期刊，中科院4区，IF：2.0）
 * **Liangshun Wu** *,  H. J. Cai,  Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. _International Journal of Information Security and Privacy_,  2022,  16(1): 1-20. （可信执行环境保护云隐私；CCF C类期刊）
@@ -94,15 +94,15 @@ redirect_from:
 
 
 ### 研究方向二：边缘智能/嵌入式AI/FPGA
-* **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （嵌入式系统；CCF C类会议）
-* **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024.  （嵌入式系统）
+* **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （ISCAS，神经形态芯片；CCF C类会议）
+* **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024. （神经形态芯片）
 * **Liangshun Wu** *, Tao Tao, Behavior-Level Simulator For Heterogeneous Neural Network Chips [J]._ICCK Transactions on Circuits and Systems_, 2025.(神经形态芯片)
 * **Liangshun Wu** *, Tao Tao, MARTE-Based Modeling and Analysis for Real-Time Neuromorphic Computing in Embedded Systems [J]._ICCK Journal of Software Engineering_, 2025.(嵌入式系统)
-* **Liangshun Wu** *, Peilin Liu, Rendong Ying. Brain-inspired chips for future robots [J]._Journal of Artificial Intelligence & Robotics_, 2024. (边缘感知)
+* **Liangshun Wu** *, Peilin Liu, Rendong Ying. Brain-inspired chips for future robots [J]._Journal of Artificial Intelligence & Robotics_, 2024. (神经形态芯片)
 * Faquan Chen,  Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 4.3 pJ/SOP Event-driven Parallel Neuromorphic Hardware with Neuromodulation-based Online Learning [J] _IEEE Transactions on Biomedical Circuits and Systems_. 2024. (IEEE TBCS，神经形态芯片；中科院2区，IF：4.8)
-* Qingyang Tian, Faquan Chen, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Peilin Liu*. Low-cost Deployment and Acceleration of Event-based Spiking Convolutional Neural Networks[C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_, London, United Kingdom, 2025, pp. 1-5.
-* Lisheng Xie,  Jianwei Xue,  **Liangshun Wu**,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Ying,  Rendong Ying,  Peilin Liu*,  SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. _The 30th IEEE International Conference on High Performance Computing,  Data,  and Analytics (HiPC)_,  Goa,  India,  Dec 18-21,  2023.（神经形态芯片；CCF C类会议，最佳论文奖）
-* Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. _Sensors_,  2023. （AI模型端侧映射；中科院三区，IF：3.7）
+* Qingyang Tian, Faquan Chen, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Peilin Liu*. Low-cost Deployment and Acceleration of Event-based Spiking Convolutional Neural Networks[C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_, London, United Kingdom, 2025, pp. 1-5. （ISCAS，神经形态芯片；CCF C类会议）
+* Lisheng Xie,  Jianwei Xue,  **Liangshun Wu**,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Ying,  Rendong Ying,  Peilin Liu*,  SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware. _The 30th IEEE International Conference on High Performance Computing,  Data,  and Analytics (HiPC)_,  Goa,  India,  Dec 18-21,  2023.（HiPC：神经形态芯片；CCF C类会议，最佳论文奖）
+* Jianwei Xue,  Lisheng Xie,  Faquan Chen,  **Liangshun Wu**,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu,  EdgeMap: An Optimized Mapping Toolchain for Spiking Neural Network in Edge Computing [J]. _Sensors_,  2023. （神经形态芯片；中科院三区，IF：3.7）
 * Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024. （边缘感知）
 * Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.（边缘感知）
 * Bin Zhang, **Liangshun Wu**, Jiang Rong, Shixin Huang, Yuwen Li, Meizhen Luo. Synergistic Optimization Mechanism of Brain-Inspired Intelligence and Generative Models in Small Target Detection[C]// _Proceedings of the 2025 2nd International Conference on Generative Artificial Intelligence and Information Security_, pp. 242-246. 2025.（边缘感知）
