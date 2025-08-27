@@ -19,8 +19,8 @@ Working Experience
 Education
 ======
 
-* 2017.09 ~ 2021.12,  Wuhan University,  Software Engineering,  Ph.D.
-* 2010.09 ~ 2014.06,  Central South University,  Information Management and Information Systems,  Bachelor
+* 2017.09 ~ 2021.12,  Wuhan University,  Ph.D.
+* 2010.09 ~ 2014.06,  Central South University,  Bachelor
 
 
 Projects
