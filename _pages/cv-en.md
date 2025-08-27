@@ -35,7 +35,6 @@ Projects
 
 Publications
 ======
-* **Liangshun Wu**, Yun Wu, Bin Zhang, Peilin Liu*. Enhancing Roadside Network Security in Intelligent Connected Vehicles with Advanced Shamir's Secret Sharing Techniques . _IEEE Transactions on Dependable and Secure Computing_, 2023.
 * **Liangshun Wu**, Cong Zhang, Bin Zhang, Jianbo Du, Junsuo Qu*. Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments . _IEEE Internet of Things Journal_, 2025.
 * **Liangshun Wu**, Junsuo Qu*, Shilin Li, Cong Zhang, Jianbo Du, Xiang Sun, Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading . _IEEE Internet of Things Journal_, 2024. 
 * **Liangshun Wu**, Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG . _IEEE Open Journal of Control Systems_, 2025. 
