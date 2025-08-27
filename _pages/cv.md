@@ -25,15 +25,15 @@ redirect_from:
 
 
 * 2017.09-2021.12，武汉大学，软件工程，博士
-* 2021.12-2023.12，西安邮电大学，信息与通信工程，硕士
-* 2023.12-2025.06，西安电子科技大学，电气工程及其自动化，学士
+<!-- * 2021.12-2023.12，西安邮电大学，信息与通信工程，硕士
+* 2023.12-2025.06，西安电子科技大学，电气工程及其自动化，学士 -->
 * 2010.09-2014.06，中南大学，信息管理与信息系统，学士
 
 
 研究方向
 ======
 * **智能网络与通信**：移动边缘计算/超表面通信/车联网/无线传感网/网络安全/优化方法/强化学习
-* **嵌入式系统**：AI端侧编译部署/低功耗神经形态芯片/MPSoC
+<!-- * **嵌入式系统**：AI端侧编译部署/低功耗神经形态芯片/MPSoC -->
 
 
 科研项目
@@ -49,7 +49,7 @@ redirect_from:
 学术成果
 ======
 
-### 智能网络与通信
+<!-- ### 智能网络与通信 -->
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ 2025：智能反射面辅助无人机中继通信；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ 2024：NOMA车联网中的注意力增强计算卸载；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （IEEE OJCSYS：强化学习+MPC工业控制）
@@ -73,7 +73,7 @@ redirect_from:
 
 
 
-### 嵌入式系统
+<!-- ### 嵌入式系统 -->
 * **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （**ISCAS'2024**，CCF C类会议；AI端侧编译部署）
 * **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024. （神经形态RISC-V指令集）
 * **Liangshun Wu** *, Tao Tao, Behavior-Level Simulator For Heterogeneous Neural Network Chips [J]._ICCK Transactions on Circuits and Systems_, 2025.(片上网络仿真器)
