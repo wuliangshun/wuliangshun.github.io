@@ -13,29 +13,20 @@ redirect_from:
 
 Working Experience
 ======
-* 2025.07 ~ Present,  Guangzhou Institute of Science and Technology, Associate Professor (Part-time)
-* 2025.05 ~ Present,  Shanghai Jiao Tong University, Department of Electronic Engineering, Assitant Professor, Follow: Wen Chen
-* 2022.01 ~ 2025.3,   Shanghai Jiao Tong University, Department of Electronic Engineering, Postdoctoral Fellow, Follow: Peilin Liu
+* 2022.01 ~ 2027.5,   Shanghai Jiao Tong University, Department of Electronic Engineering, Postdoctoral Fellow, Follow: Wen Chen
 * 2024.10 ~ 2025.1,   University of Electro-Communications, Japan, Visiting Scholar, Collaborator: Celimuge
 
 Education
 ======
 
-### Full-time Schooling
-* 2017.09 ~ 2021.12,  Wuhan University,  Software Engineering,  Ph.D.,  Full-time,  Supervisor: Hengjin Cai
-* 2010.09 ~ 2014.06,  Central South University,  Information Management and Information Systems,  Bachelor,  Full-time
-
+* 2017.09 ~ 2021.12,  Wuhan University,  Software Engineering,  Ph.D.
+* 2010.09 ~ 2014.06,  Central South University,  Information Management and Information Systems,  Bachelor
+<!-- 
 ### Part-time Learning
 * 2022.06 ~ 2022.12,  Northern Arizona University (USA),  Computer Information Technology,  Master,   Supervisor: Dewei Meng
 * 2020.09 ~ 2023.12,  Xi'an University of Posts and Telecommunications,  Information and Communication Engineering,  Master,  Supervisor: Junsuo Qu
-* 2021.09 ~ 2023.12,  Xidian University,  Electrical Engineering and Automation,  Bachelor,  Supervisor: Feng Zhang
+* 2021.09 ~ 2023.12,  Xidian University,  Electrical Engineering and Automation,  Bachelor,  Supervisor: Feng Zhang -->
 
-Research Interests
-======
-* Mobile Edge Computing
-* Reconfigurable Intelligent Surface-Assisted Communication
-* Security in Internet of Vehicles/Internet of Things
-* Low-Power Embedded Communication Software
 
 Projects
 ======
@@ -45,16 +36,7 @@ Projects
 * PI, Open Project of Shanghai Key Laboratory of Trusted Computing, Grant No.: 24Z670103399, Funding: 20,000 RMB, 2024.08-2025.08. (Ongoing)
 * PI, Open Project of Ministry of Education Key Laboratory of Computational Neuroscience and Brain-like Intelligence, Grant No.:25Z67010205, Funding: 20,000 RMB, 2025.5.1-2027.4.30. (Ongoing)
 
-Academic Services
-======
-* Member, IEEE
-* Member, Youth Committee of the Chinese Association for Artificial Intelligence (CAAI)
-* Chief Expert, "Intelligent Perception and Decision Consulting Expert Team", Chinese Society of Image and Graphics (CSIG)
-* Program Committee Member (PC Member), 8th Asia Conference on Artificial Intelligence Technology (ACAIT 2024)
-* Associate Editor, International Journal of Sensors and Sensor Networks
-* Associate Editor, Journal of Artificial Intelligence and Robotics
-* Associate Editor, Computer Science and Technology
-* Associate Editor, BlockChain
+
 
 Publications
 ======
@@ -118,6 +100,17 @@ Publications
 * **Liangshun Wu**. Text processing method, device and electronic equipment: ZL202011110619.X.2023-8-1.
 * **Liangshun Wu**. Agricultural knowledge graph construction device, method and computer-readable storage medium: ZL201910528268.5.2021-07-27.
 * Ning Ye, Renlong Le, Zhijun Xu, Xuhui Xu, **Liangshun Wu**. Method for estimating volume and weight, electronic equipment and computer-readable storage medium: ZL201910804159.1.2021-03-16.
+
+Academic Services
+======
+* Member, IEEE
+* Member, Youth Committee of the Chinese Association for Artificial Intelligence (CAAI)
+* Chief Expert, "Intelligent Perception and Decision Consulting Expert Team", Chinese Society of Image and Graphics (CSIG)
+* Program Committee Member (PC Member), 8th Asia Conference on Artificial Intelligence Technology (ACAIT 2024)
+* Associate Editor, International Journal of Sensors and Sensor Networks
+* Associate Editor, Journal of Artificial Intelligence and Robotics
+* Associate Editor, Computer Science and Technology
+* Associate Editor, BlockChain
 
 Certificates
 ======
