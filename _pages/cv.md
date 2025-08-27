@@ -75,7 +75,7 @@ redirect_from:
 
 
 <!-- ### 嵌入式系统 -->
-* **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （**ISCAS'2024**，CCF C类会议；AI端侧编译部署）
+* **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （ISCAS'2024，CCF C类会议；AI端侧编译部署）
 * **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024. （神经形态RISC-V指令集）
 * **Liangshun Wu** *, Tao Tao, Behavior-Level Simulator For Heterogeneous Neural Network Chips [J]._ICCK Transactions on Circuits and Systems_, 2025.(片上网络仿真器)
 * **Liangshun Wu** *, Tao Tao, MARTE-Based Modeling and Analysis for Real-Time Neuromorphic Computing in Embedded Systems [J]._ICCK Journal of Software Engineering_, 2025.(嵌入式系统形式化建模)
