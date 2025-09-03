@@ -34,9 +34,8 @@ redirect_from:
 
 研究方向
 ======
-* **智能网络与通信**：移动边缘计算/超表面通信/车联网/无线传感网/网络安全/优化方法/强化学习
+* **智能网络与通信**：移动边缘计算/超表面通信/车联网/无线传感网/网络安全/嵌入式/优化方法/强化学习
 <!-- * **嵌入式系统**：AI端侧编译部署/低功耗神经形态芯片/MPSoC -->
-
 
 科研项目
 ======
@@ -50,8 +49,6 @@ redirect_from:
 
 学术成果
 ======
-
-<!-- ### 智能网络与通信 -->
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ 2025：智能反射面辅助无人机中继通信；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ 2024：NOMA车联网中的注意力增强计算卸载；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （IEEE OJCSYS：强化学习+MPC工业控制）
@@ -73,9 +70,6 @@ redirect_from:
 * Quan Chen,  **Liangshun Wu**,  Congshi Jiang*．ES-PPDA: An Efficient and Secure Privacy-Protected Data Aggregation Scheme in IoT with Edge-Based XaaS Architecture [J]．_Journal of Cloud Computing_,  2022.（物联网安全数据聚合；中科院3区，IF：3.8）
 * **Lianghsun Wu**. Data Security and Privacy Considerations in Mental Health Settings[M] Chatbots and Mental Healthcare in Psychology and Psychiatry, pp. 237-266. IGI Global Scientific Publishing, 2025. (专著章节：安全与隐私保护)
 
-
-
-<!-- ### 嵌入式系统 -->
 * **Liangshun Wu**,  Lisheng Xie,  Jianwei Xue,  Faquan Chen,  Qingyang Tian,  Yifan Zhou,  Rendong Ying,  Peilin Liu*,  SPRCpl: A Fast and Reliable SNN Model Deployment Tool for Multi-Core Neuromorphic Chips through Pilot Running [C]// _IEEE International Symposium on Circuits & Systems (ISCAS)_,  Sentosa,  Singapore,  May 19-22,  2024. （ISCAS'2024，CCF C类会议；AI端侧编译部署）
 * **Liangshun Wu**,  Jianwei Xue,  Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//_IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC)_,  Tangier,  Morocco,  Oct 6-9,  2024. （神经形态RISC-V指令集）
 * **Liangshun Wu** *, Tao Tao, Behavior-Level Simulator For Heterogeneous Neural Network Chips [J]._ICCK Transactions on Circuits and Systems_, 2025.(片上网络仿真器)
