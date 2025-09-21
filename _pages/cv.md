@@ -83,7 +83,7 @@ redirect_from:
 * Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024. （边缘感知）
 * Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.（边缘感知）
 * Bin Zhang, **Liangshun Wu**, Jiang Rong, Shixin Huang, Yuwen Li, Meizhen Luo. Synergistic Optimization Mechanism of Brain-Inspired Intelligence and Generative Models in Small Target Detection[C]// _Proceedings of the 2025 2nd International Conference on Generative Artificial Intelligence and Information Security_, pp. 242-246. 2025.（边缘感知）
-* **吴良顺**, 陶涛. 异构神经网络芯片片上网络的行为级仿真器设计[J]_集成电路与嵌入式系统_. 2025.（科技核心）
+* **吴良顺**, 陶涛, 张斌*. 异构神经网络芯片片上网络的行为级仿真器设计[J]_集成电路与嵌入式系统_. 2025.（科技核心）
 * **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]_自动化与仪器仪表_. 2023. （科技核心）
 * **吴良顺**, 应忍冬*, 刘佩林, 张斌.嵌入式软件故障自动安全升级技术研究[J]_单片机与嵌入式系统应用_. 2022.（科技核心）
 
