@@ -14,42 +14,38 @@ redirect_from:
 
 工作经历
 ======
-
-* 2022.01-2027.05，上海交通大学，电子工程系，博士后（合作导师：陈文）
-<!-- * 2026.05-2026.12，英国伦敦布鲁内尔大学，访问学者（合作导师：Kezhi Wang） -->
+* 2022.01-2027.05，上海交通大学，电子工程系，博士后（合作导师：陈文、刘佩林）
+* 2026.05-2026.12，英国伦敦布鲁内尔大学，访问学者（合作导师：Kezhi Wang）
 * 2024.10-2025.01，日本国立电气通信大学，访问学者（合作导师：Celimuge）
-
 
 教育背景
 ======
-
-
-* 2017.09-2021.12，武汉大学，软件工程，博士（导师：蔡恒进、陈曦）
+* 2017.09-2021.12，武汉大学，软件工程(软件无线电)，博士（导师：蔡恒进、陈曦）
+* 2026.09-2028.06，武汉大学，工程管理(数智空间信息工程)，硕士（导师：陈曦）
+* 2022.01-2024.01，西安电子科技大学，电气工程及其自动化，学士
 * 2010.09-2014.06，中南大学，信息管理与信息系统，学士  
-  <!-- 2022.01-2024.01，西安电子科技大学，电气工程及其自动化，学士 -->
-
-
-
-
-
-
+ 
 研究方向
 ======
-* **智能网络与通信**：移动边缘计算/超表面通信/车联网/无线传感网/网络安全/嵌入式/优化方法/强化学习
-<!-- * **嵌入式系统**：AI端侧编译部署/低功耗神经形态芯片/MPSoC -->
+**智能网络与通信**：移动边缘计算/智能超表面通信/安全通信/车联网/无线传感网
+
+人才计划
+======
+上海市超级博士后计划，香港太平学者计划
 
 科研项目
 ======
+* 主持，中国高校产学研创新基金，10万元，2025.10-2026.10。（在研）
 * 主持，中国科学技术协会战略发展部2024 年度第二批决策咨询专家团队项目，5万元，2025.1-2025.3（结题）
 * 主持，上海交通大学集成电路学院（信息与电子工程学院）-预研基金（纵），JG0340001，1万元（结题）
 * 主持，教育部嵌入式系统与服务计算重点实验室开放课题，ESSCKF2024-10，4万元，2024.9~2026.8。（在研）
 * 主持，上海市高可信计算重点实验室开放课题，24Z670103399，2万元，2024.08-2025.08。（在研）
 * 主持，计算神经科学与类脑智能教育部重点实验室开放课题，25Z67010205，2万元，2025.5.1-2027.4.30。（在研）
 
-
-
 学术成果
 ======
+一作：2 IEEE TVT、1 IEEE Comm. L.、 2 IEEE IoTJ、1 IEEE Sen. J.、1 IEEE OJCSYS
+
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ 2025：智能反射面辅助无人机中继通信；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ 2024：NOMA车联网中的注意力增强计算卸载；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （IEEE OJCSYS：强化学习+MPC工业控制）
