@@ -15,32 +15,33 @@ redirect_from:
 工作经历
 ======
 * 2022.01-2027.05，上海交通大学，电子工程系，博士后（合作导师：陈文、刘佩林）
-* 2026.05-2026.12，英国伦敦布鲁内尔大学，访问学者（合作导师：Kezhi Wang）
+* 2026.05-2026.08，英国伦敦布鲁内尔大学，访问学者（合作导师：Kezhi Wang）
 * 2024.10-2025.01，日本国立电气通信大学，访问学者（合作导师：Celimuge）
 
 教育背景
 ======
-* 2017.09-2021.12，武汉大学，软件工程(软件无线电)，博士（导师：蔡恒进、陈曦）
-* 2026.09-2028.06，武汉大学，工程管理(数智空间信息工程)，硕士（导师：陈曦）
-* 2022.01-2024.01，西安电子科技大学，电气工程及其自动化，学士
-* 2010.09-2014.06，中南大学，信息管理与信息系统，学士  
+* 武汉大学，软件工程(软件无线电方向)，博士（导师：蔡恒进、陈曦）
+* 武汉大学，工程管理(数智空间信息工程方向)，硕士（导师：陈曦）
+* 西安电子科技大学，电气工程及其自动化，学士
+* 中南大学，信息管理与信息系统，学士  
  
 研究方向
 ======
-**智能网络与通信**：移动边缘计算/智能超表面通信/安全通信/车联网/无线传感网
+**智能网络与通信**：移动边缘计算/智能超表面通信/空间探测与信号处理/软件定义无线电/车联网/物联网等
 
 人才计划
 ======
-上海市超级博士后计划，香港太平学者计划
+上海市超级博士后计划，香港太平青年学者计划
 
 科研项目
 ======
-* 主持，中国高校产学研创新基金，10万元，2025.10-2026.10。（在研）
-* 主持，中国科学技术协会战略发展部2024 年度第二批决策咨询专家团队项目，5万元，2025.1-2025.3（结题）
-* 主持，上海交通大学集成电路学院（信息与电子工程学院）-预研基金（纵），JG0340001，1万元（结题）
-* 主持，教育部嵌入式系统与服务计算重点实验室开放课题，ESSCKF2024-10，4万元，2024.9~2026.8。（在研）
-* 主持，上海市高可信计算重点实验室开放课题，24Z670103399，2万元，2024.08-2025.08。（在研）
-* 主持，计算神经科学与类脑智能教育部重点实验室开放课题，25Z67010205，2万元，2025.5.1-2027.4.30。（在研）
+* 主持，中国高校产学研创新基金，10万元，2025.10-2026.10。
+* 主持，中国科学技术协会战略发展部2024 年度第二批决策咨询专家团队项目，5万元，2025.1-2025.3
+* 主持，上海交通大学集成电路学院（信息与电子工程学院）-预研基金（纵），JG0340001，1万元
+* 主持，教育部嵌入式系统与服务计算重点实验室开放课题，ESSCKF2024-10，4万元，2024.9~2026.8。
+* 主持，上海市高可信计算重点实验室开放课题，24Z670103399，2万元，2024.08-2025.08。
+* 主持，计算神经科学与类脑智能教育部重点实验室开放课题，25Z67010205，2万元，2025.5.1-2027.4.30。
+* 主持，贵州省人工智能与类脑计算全省重点实验室2024年度开放课题，2万元，2025.5-2026.5
 
 学术成果
 ======
@@ -80,9 +81,10 @@ redirect_from:
 * Yujuan Wang, Ling Peng, **Liangshun Wu**, Juan Hu, Yu Wang, Bin Zhang. Enhancing small object detection in remote sensing imagery with advanced generative adversarial networks[C]// _International Conference on Remote Sensing, Surveying, and Mapping (RSSM)_, Wuhan, China, Jan 12-14,  2024. （边缘感知）
 * Bin Zhang, Meizhen Luo, Shankai Yan, Juan Hu, Ling Peng, **Liangshun Wu**, Yujuan Wang. Backbone Feature Hierarchy Selection Strategy and Verification in Small Object Detection[C]// _16th International Conference on Machine Learning and Computing (ICMLC)_, Shenzhen, China, Feb 2-5, 2024.（边缘感知）
 * Bin Zhang, **Liangshun Wu**, Jiang Rong, Shixin Huang, Yuwen Li, Meizhen Luo. Synergistic Optimization Mechanism of Brain-Inspired Intelligence and Generative Models in Small Target Detection[C]// _Proceedings of the 2025 2nd International Conference on Generative Artificial Intelligence and Information Security_, pp. 242-246. 2025.（边缘感知）
-* **吴良顺**, 陶涛, 张斌*. 异构神经网络芯片片上网络的行为级仿真器设计[J]_集成电路与嵌入式系统_. 2025.（科技核心）
-* **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]_自动化与仪器仪表_. 2023. （科技核心）
-* **吴良顺**, 应忍冬*, 刘佩林, 张斌.嵌入式软件故障自动安全升级技术研究[J]_单片机与嵌入式系统应用_. 2022.（科技核心）
+* **吴良顺**, 张斌*. 面向6G通信定位一体化的MIMO-OTFS系统波束-时延-多普勒资源联合优化[J] _通信技术_. 2025.（北大核心、中文科技核心）
+* **吴良顺**, 陶涛, 张斌*. 异构神经网络芯片片上网络的行为级仿真器设计[J]_集成电路与嵌入式系统_. 2025.（中文科技核心）
+* **吴良顺**, 应忍冬*, 刘佩林, 张斌.嵌入式软件故障自动安全升级技术研究[J]_集成电路与嵌入式系统_. 2022.（中文科技核心）
+* **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]_自动化与仪器仪表_. 2023. （中文科技核心）
 
 
 
@@ -124,7 +126,11 @@ redirect_from:
 学术服务
 ======
 
-IEEE会员、中国通信工业协会（CCIA）会员、中国人工智能学会（CAAI）会员、中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家、ICCK Transactions on Green Communications and Networking主编（Editor in Chief）、International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）, Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）, Computer Science and Technology期刊编委（Associate Editor）, BlockChain期刊编委（Associate Editor）、ACAIT2024组委会成员（PC Member）
+* IEEE会员
+* 中国通信工业协会（CCIA）会员
+* 中国人工智能学会（CAAI）会员
+* 中国图象图形学学会（CSIG）“智能感知与决策咨询专家团队”首席专家
+* ICCK Transactions on Green Communications and Networking主编（Editor in Chief）、International Journal of Sensors and Sensor Networks期刊编委（Associate Editor）, Journal of Artificial Intelligence and Robotics期刊编委（Associate Editor）, Computer Science and Technology期刊编委（Associate Editor）, BlockChain期刊编委（Associate Editor）、ACAIT2024组委会成员（PC Member）
 
 
 资格证书
@@ -138,6 +144,7 @@ IEEE会员、中国通信工业协会（CCIA）会员、中国人工智能学会
 * 2022年中国(广东)中山海外博士博士后创新赛, 	优胜奖, 	本人排名第6
 * 2024年中俄工业创新大赛青少年机器人专项赛创赛单元, 优秀奖, 本人排名第4
 * 2018年第四届“互联网+”大学生创新创业大赛湖北省主赛道创意类, 	银奖/楚天创客奖, 	本人排名第1
+* 2025年中国人民警察大学征文，三等奖，本人排名第一
 * 2018年首届 Z-HACK 算法创新大赛, 	冠军, 	本人排名第1
 
 
@@ -150,7 +157,4 @@ IEEE会员、中国通信工业协会（CCIA）会员、中国人工智能学会
 ### 教育/进修经历
 * 2014.09-2017.06，武汉大学，金融学，硕士（全日制）
 * 2021.12-2023.12，西安邮电大学，信息与通信工程，硕士（同等学力申硕）
-* 2023.12-2025.06，西安电子科技大学，电气工程及其自动化，学士（网络教育） -->
-
-<!-- ### 培训经历
 * 2022.06-2022.12，美国北亚利桑那大学，计算机信息技术，硕士（在线硕士/online master） -->
