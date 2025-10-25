@@ -20,12 +20,12 @@ redirect_from:
 
 教育背景
 ======
-* 武汉大学，软件工程，工学博士（导师：蔡恒进、陈曦）
-* 中南大学，计算机科学与技术，工学学士  
+* 武汉大学，软件工程(软件无线电方向)，工学博士（导师：蔡恒进、陈曦）
+* 中南大学，轨道交通信号与控制，工学学士  
  
 研究方向
 ======
-**智能网络与通信**：移动边缘计算/智能超表面通信/安全通信等
+**智能网络与通信**：移动边缘计算/智能超表面通信/软件定义无线电/轨道通信信号处理/空间探测与信号处理/车联网/物联网等
 
 人才计划
 ======
@@ -43,16 +43,15 @@ redirect_from:
 
 学术成果
 ======
-一作：1 IEEE TGCN、2 IEEE TMC、2 IEEE TVT、1 IEEE CL、 2 IEEE IoTJ、1 IEEE Sen. J.、1 IEEE OJCSYS
+一作：1 IEEE TMC、2 IEEE TVT、1 IEEE CL、 2 IEEE IoTJ、1 IEEE Sen. J.、1 IEEE OJCSYS
 
-* **Liangshun Wu**, Wen Chen, Shunqing Zhang, Yajun Wang, Kunlun Wang. Green Emergency Communications in RIS- and MA-Assisted Multi-UAV SAGINs: A Partially Observable Reinforcement Learning Approach [J]. IEEE Transactions on Green Communications and Networking. 2025.（IEEE TGCN：智能反射面和可移动天线辅助空天地一体化网络应急通信；中科院2区，IF：6.7）
-* **Liangshun Wu**,  Wen Chen, Qingqing Wu. Channel Ordering for Fairness in Elastic Optical Networks via a LLM-Guided Bottleneck TSP Solver[J]_IEEE Communications Letters_,  2025. （IEEE CL：光纤信道排序；中科院3区，IF：4.3）
+
+* **Liangshun Wu**,  Wen Chen, Qingqing Wu. Channel Ordering for Fairness in Elastic Optical Networks via a LLM-Guided Bottleneck TSP Solver[J]_IEEE Communications Letters_,  2025. （IEEE CL：信道排序；中科院3区，IF：4.3）
 * **Liangshun Wu**,  Wen Chen, Qingqing Wu, Xudong Bai, Kunlun Wang. RIS Codebook Index Assignment under Imperfect Control Links Using TSP-Inspired Optimization[J]_IEEE Transactions on Vehicular Technology_,  2025. （IEEE TVT：智能反射面码本分配；中科院2区，IF：6.8）
 * **Liangshun Wu**,  Tao Tao, Bin Zhang, Kezhi Wang, Jianbo Du, Junsuo Qu. Model-Based Decentralized Policy Joint Optimization of Resource Allocation, Phase Shift, and UAV Trajectory for Energy-Efficient RIS Assisted UAV-MEC Systems[J]_IEEE Transactions on Vehicular Technology_,  2025. （IEEE TVT：智能反射面辅助无人机移动边缘计算；中科院2区，IF：6.8）
 * **Liangshun Wu**,  Jianbo Du, Junsuo Qu. Joint Trajectory, RIS, and Computation Offloading Optimization via Decentralized Model-Based PPO in Urban Multi-UAV Mobile Edge Computing[J]_IEEE Transactions on Mobile Computing_,  2025. （IEEE TMC：智能反射面辅助无人机移动边缘计算；CCF A类，中科院1区，IF：9.2） 
-* **Liangshun Wu**,  Jianbo Du, Junsuo Qu. RIS-Aided Terahertz VR Streaming in Mobile Edge Computing via Improved DDPG with Action-Aware OU Noise Injection[J]_IEEE Transactions on Mobile Computing_,  2025. （IEEE TMC：智能反射面辅助太赫兹VR传输移动边缘计算；CCF A类，中科院1区，IF：9.2） 
 * **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ：智能反射面辅助无人机移动边缘计算；中科院1区，IF：8.2）
-* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ：非正交多址接入车联网移动边缘计算；中科院1区，IF：8.2）
+* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ：NOMA车联网移动边缘计算；中科院1区，IF：8.2）
 * **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （IEEE OJCSYS：强化学习+MPC工业控制）
 * **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （IEEE Sens. J.：无线传感网调度优化；中科院2区，IF：4.2）
 * **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（移动网络流加密；CCF C类期刊，中科院4区，IF：2.0）
