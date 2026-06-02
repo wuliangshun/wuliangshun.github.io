@@ -1,4 +1,4 @@
-<!-- ---
+
 layout: archive
 title: ""
 permalink: /cv/
@@ -11,18 +11,21 @@ redirect_from:
 
 [中文简历](/cv/) | [English CV](/cv-en/)
 
+吴良顺，日本国立电气通信大学访问学者、上海交通大学电子工程系助理研究员、博士后，武汉大学博士、硕士、中南大学学士。中国通信工业协会会员、中国人工智能协会会员。主持省部级、校级课题7项。以第一作者在IEEE TMC、IEEE TVT、IEEE Comm. L.、IEEE IoTJ、IEEE Sen. J.、IEEE OJCSYS等期刊发表论文10余篇，合计40余篇，授权专利30余项。研究方向包括移动边缘计算/智能超表面通信/空间探测与信号处理/软件定义无线电/车联网/物联网等。
 
+
+ 
+<!-- ---
 工作经历
 ======
 * 2022.01-2027.05，上海交通大学，电子工程系，博士后（合作导师：陈文、刘佩林）
-* 2026.05-2026.08，英国伦敦布鲁内尔大学，访问学者（合作导师：王可之）
 * 2024.10-2025.01，日本国立电气通信大学，访问学者（合作导师：策力木格）
 
 教育背景
 ======
-* 武汉大学，软件工程，工学博士（导师：蔡恒进、陈曦）
-* 中南大学，计算机科学与技术，工学学士  
- 
+* 武汉大学，博士
+* 武汉大学，硕士
+* 中南大学，学士  
 研究方向
 ======
 **智能网络与通信**：移动边缘计算/智能超表面通信/安全通信等
@@ -44,6 +47,7 @@ redirect_from:
 学术成果
 ======
 一作：1 IEEE TGCN、2 IEEE TMC、2 IEEE TVT、1 IEEE CL、 2 IEEE IoTJ、1 IEEE Sen. J.、1 IEEE OJCSYS
+
 
 * **Liangshun Wu**, Wen Chen, Shunqing Zhang, Yajun Wang, Kunlun Wang. Green Emergency Communications in RIS- and MA-Assisted Multi-UAV SAGINs: A Partially Observable Reinforcement Learning Approach [J]. IEEE Transactions on Green Communications and Networking. 2025.（IEEE TGCN：智能反射面和可移动天线辅助空天地一体化网络应急通信；中科院2区，IF：6.7）
 * **Liangshun Wu**,  Wen Chen, Qingqing Wu. Channel Ordering for Fairness in Elastic Optical Networks via a LLM-Guided Bottleneck TSP Solver[J]_IEEE Communications Letters_,  2025. （IEEE CL：光纤信道排序；中科院3区，IF：4.3）

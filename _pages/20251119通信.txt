@@ -1,0 +1,84 @@
+---
+layout: archive
+title: ""
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+[中文简历](/cv/) | [English CV](/cv-en/)
+
+
+工作经历
+======
+* 2022.01-2027.05，上海交通大学，电子工程系，博士后（合作导师：陈文、刘佩林）
+* 2026.05-2026.08，英国伦敦布鲁内尔大学，访问学者（合作导师：王可之）
+* 2024.10-2025.01，日本国立电气通信大学，访问学者（合作导师：策力木格）
+
+教育背景
+======
+武汉大学，软件无线电工程，工学博士（导师：蔡恒进、陈曦）
+西安电子科技大学，电气工程及其自动化，工学学士
+ 
+研究方向
+======
+智能网络与通信：移动边缘计算/电磁超表面/软件无线电/空间探测与信号处理/卫星通信/空天地一体网络
+
+人才计划
+======
+上海市超级博士后计划，香港太平青年学者计划
+
+科研项目
+======
+* 主持，中国高校产学研创新基金，10万元，2025.10-2026.10。
+* 主持，中国科学技术协会战略发展部2024 年度第二批决策咨询专家团队项目，5万元，2025.1-2025.3
+* 主持，上海交通大学集成电路学院（信息与电子工程学院）-预研基金（纵），JG0340001，1万元
+* 主持，重点实验室开放课题，ESSCKF2024-10，4万元，2024.9~2026.8。
+* 主持，重点实验室开放课题，24Z670103399，2万元，2024.8-2025.8。
+* 主持，重点实验室开放课题，25Z67010205，2万元，2025.5.1-2027.4.30。
+* 主持，重点实验室开放课题，2万元，2025.5-2026.5。
+
+学术服务
+======
+* IEEE会员
+* 中国通信工业协会（CCIA）会员
+* 中国人工智能学会（CAAI）会员
+* 香港技术研究院，学术委员会副主席
+
+学术成果
+======
+英文期刊
+一作：1 IEEE TGCN、2 IEEE TMC、2 IEEE TVT、1 IEEE CL、 2 IEEE IoTJ、1 IEEE Sen. J.、1 IEEE OJCSYS
+* **Liangshun Wu**, Wen Chen, Shunqing Zhang, Yajun Wang, Kunlun Wang. Green Emergency Communications in RIS- and MA-Assisted Multi-UAV SAGINs: A Partially Observable Reinforcement Learning Approach [J]. IEEE Transactions on Green Communications and Networking. 2025.（IEEE TGCN：智能反射面和可移动天线辅助空天地一体化网络应急通信；中科院2区，IF：6.7）
+* **Liangshun Wu**,  Wen Chen, Qingqing Wu. Channel Ordering for Fairness in Elastic Optical Networks via a LLM-Guided Bottleneck TSP Solver[J]_IEEE Communications Letters_,  2025. （IEEE CL：光纤信道排序；中科院3区，IF：4.3）
+* **Liangshun Wu**,  Wen Chen, Qingqing Wu, Xudong Bai, Kunlun Wang. RIS Codebook Index Assignment under Imperfect Control Links Using TSP-Inspired Optimization[J]_IEEE Transactions on Vehicular Technology_,  2025. （IEEE TVT：智能反射面码本分配；中科院2区，IF：6.8）
+* **Liangshun Wu**,  Tao Tao, Bin Zhang, Kezhi Wang, Jianbo Du, Junsuo Qu. Model-Based Decentralized Policy Joint Optimization of Resource Allocation, Phase Shift, and UAV Trajectory for Energy-Efficient RIS Assisted UAV-MEC Systems[J]_IEEE Transactions on Vehicular Technology_,  2025. （IEEE TVT：智能反射面辅助无人机移动边缘计算；中科院2区，IF：6.8）
+* **Liangshun Wu**,  Jianbo Du, Junsuo Qu. Joint Trajectory, RIS, and Computation Offloading Optimization via Decentralized Model-Based PPO in Urban Multi-UAV Mobile Edge Computing[J]_IEEE Transactions on Mobile Computing_,  2025. （IEEE TMC：智能反射面辅助无人机移动边缘计算；CCF A类，中科院1区，IF：9.2） 
+* **Liangshun Wu**,  Jianbo Du, Junsuo Qu. RIS-Aided Terahertz VR Streaming in Mobile Edge Computing via Improved DDPG with Action-Aware OU Noise Injection[J]_IEEE Transactions on Mobile Computing_,  2025. （IEEE TMC：智能反射面辅助太赫兹VR传输移动边缘计算；CCF A类，中科院1区，IF：9.2） 
+* **Liangshun Wu**,  Cong Zhang, Bin Zhang,  Jianbo Du, Junsuo Qu*.  Towards Energy-Efficiency: Integrating MATD3 Reinforcement Learning Method for Computational Offloading in RIS-Aided UAV-MEC Environments [J]. _IEEE Internet of Things Journal_,  2025. （IEEE IoTJ：智能反射面辅助无人机移动边缘计算；中科院1区，IF：8.2）
+* **Liangshun Wu**,  Junsuo Qu*,  Shilin Li,  Cong Zhang,  Jianbo Du,  Xiang Sun,  Jiehan Zhou. Attention-Augmented MADDPG in NOMA-Based Vehicular Mobile Edge Computational Offloading [J]. _IEEE Internet of Things Journal_,  2024. （IEEE IoTJ：非正交多址接入车联网移动边缘计算；中科院1区，IF：8.2）
+* **Liangshun Wu**,  Junsuo Qu*. Precision Cylinder Gluing with Uncertainty-Aware MPC-Enhanced DDPG[J] _IEEE Open Journal of Control Systems_,  2025.  （IEEE OJCSYS：强化学习+MPC工业控制）
+* **Liangshun Wu**,  Junsuo Qu*. AIMD Rule-Based Duty Cycle Scheduling in Wireless Sensor Networks Using an Improved Adaptive Genetic Algorithm[J]. _IEEE Sensors Journal_,  2023. （IEEE Sens. J.：无线传感网调度优化；中科院2区，IF：4.2）
+* **Liangshun Wu**,  H. J. Cai*. Novel Stream Ciphering Algorithm for Big Data Images using Zeckendorf Representation[J]. _Wireless Communications & Mobile Computing_,  2021.（移动网络流加密；CCF C类期刊，中科院4区，IF：2.0）
+* **Liangshun Wu** *,  H. J. Cai,  Han Li. Achieving Reconciliation Between Privacy Preservation and Auditability in Zero-Trust Cloud Storage Using Intel SGX[J]. _International Journal of Information Security and Privacy_,  2022,  16(1): 1-20. （可信执行环境；CCF C类期刊）
+* **Liangshun Wu** *, Tao Tao. Dynamic Spectrum Handoff in Cognitive Radio Networks via Improved TSP Modeling[J]. _ICCK Transactions on Green Communications and Networking_, 2025. (认知无线电频谱切换优化)
+中文期刊
+* **吴良顺**, 张斌*. 基于软件无线电的低轨星间太赫兹通信宽带正交调制技术[J] _软件导刊_. 2025.（中文科技核心）
+* **吴良顺**, 张斌*. 基于软件无线电的太赫兹低轨星间链路高速LDPC编码与时序优化设计[J] _通信技术_. 2025.（北大核心、中文科技核心）
+* **吴良顺**, 张斌*. 面向6G通信定位一体化的MIMO-OTFS系统联合优化[J] _通信技术_. 2025.（北大核心、中文科技核心）
+* **吴良顺**, 张斌*. 基于RISC-V的脉冲神经网络专用指令集处理器设计[J]_集成电路与嵌入式系统_. 2025.（中文科技核心）
+* **吴良顺**, 陶涛*. 异构神经网络芯片片上网络的行为级仿真器设计[J]_集成电路与嵌入式系统_. 2025.（中文科技核心）
+* **吴良顺**, 应忍冬*, 刘佩林, 张斌.嵌入式软件故障自动安全升级技术研究[J]_集成电路与嵌入式系统_. 2022.（中文科技核心）
+* **吴良顺**, 张斌*, 应忍冬.实时响应的嵌入式系统虚拟化微内核架构[J]_自动化与仪器仪表_. 2023. （中文科技核心）
+授权专利
+* **吴良顺**. 信号放大电路及电子装置:ZL201920821881.1[P].2019-12-24.
+* **吴良顺**. 芯片激活装置、方法及计算机可读存储介质:ZL201910776735.6[P].2020-10-30.
+* **吴良顺**. 基于斐波那契进制的逻辑运算电路:ZL202011640617.1[P].2022-12-13.
+* **吴良顺**. 可见光通信系统及光传感设备:ZL202020373317.0[P].2020-09-18.
+* **吴良顺**. 通信数据校验方法、装置、计算机设备和存储介质:ZL202010357173.4[P].2021-06-15.
+
+
+
