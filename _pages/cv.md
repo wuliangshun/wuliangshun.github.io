@@ -51,9 +51,9 @@ redirect_from:
 ======
 * **Liangshun Wu**, Lisheng Xie, Jianwei Xue, Faquan Chen, Qingyang Tian, Yifan Zhou, Ziren Wu, Rendong Ying, Peilin Liu*. SPRCPl: An Efficient Tool for SNN Models Deployment on Multi-Core Neuromorphic Chips via Pilot Running[C]//2024 IEEE International Symposium on Circuits and Systems (ISCAS). Singapore, 2024: 1-5. （ISCAS，CCF C类会议）
 * **Liangshun Wu**, Jianwei Xue, Peilin Liu*. ASIP Acceleration for SNN Computation Based on RISC-V[C]//IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), Tangier, Morocco, Oct 6-9, 2024. （VLSI-SoC会议论文）
-Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, * **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 5.3 pJ/SOP Event-Driven Parallel Neuromorphic Hardware With Neuromodulation-Based Online Learning[J]. IEEE Transactions on Biomedical Circuits and Systems, 2025, 19(3): 629-644. （IEEE TBioCAS，中科院2区，IF：4.9）
-Qingyang Tian, Faquan Chen, Lisheng Xie, Yifan Zhou, Ziren Wu, * **Liangshun Wu**, Rendong Ying, Peilin Liu*. Low-cost Deployment and Acceleration of Event-based Spiking Convolutional Neural Networks[C]//2025 IEEE International Symposium on Circuits and Systems (ISCAS). London, United Kingdom, 2025: 1-5. （ISCAS，CCF C类会议）
-Lisheng Xie, Jianwei Xue, * **Liangshun Wu**, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu*. SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware[C]//2023 IEEE 30th International Conference on High Performance Computing, Data, and Analytics (HiPC). Goa, India, 2023: 357-366. （HiPC，CCF C类会议）
+* Faquan Chen, Qingyang Tian, Lisheng Xie, Yifan Zhou, Ziren Wu, **Liangshun Wu**, Rendong Ying, Fei Wen, Peilin Liu*. EPOC: A 28-nm 5.3 pJ/SOP Event-Driven Parallel Neuromorphic Hardware With Neuromodulation-Based Online Learning[J]. IEEE Transactions on Biomedical Circuits and Systems, 2025, 19(3): 629-644. （IEEE TBioCAS，中科院2区，IF：4.9）
+* Qingyang Tian, Faquan Chen, Lisheng Xie, Yifan Zhou, Ziren Wu,  **Liangshun Wu**, Rendong Ying, Peilin Liu*. Low-cost Deployment and Acceleration of Event-based Spiking Convolutional Neural Networks[C]//2025 IEEE International Symposium on Circuits and Systems (ISCAS). London, United Kingdom, 2025: 1-5. （ISCAS，CCF C类会议）
+* Lisheng Xie, Jianwei Xue,  **Liangshun Wu**, Faquan Chen, Qingyang Tian, Yifan Zhou, Rendong Ying, Peilin Liu*. SpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware[C]//2023 IEEE 30th International Conference on High Performance Computing, Data, and Analytics (HiPC). Goa, India, 2023: 357-366. （HiPC，CCF C类会议）
 * **Liangshun Wu**, Wen Chen*, Honghao Wang, Zhendong Li, Ying Wang. THz RHS Transceiver for Low-Latency Multi-User VR Transmission with MEC[J]. IEEE Transactions on Wireless Communications. 2026. （IEEE TWC，中科院1区TOP，IF：10.7）
 * **Liangshun Wu**, Jianbo Du, Junsuo Qu*. Joint Trajectory, RIS, and Computation Offloading Optimization via Decentralized Model-Based PPO in Urban Multi-UAV Mobile Edge Computing[J]. IEEE Transactions on Mobile Computing, 2026, 25(9): 14498-14512. （IEEE TMC，中科院1区TOP，IF：9.2，CCF A类期刊）
 * **Liangshun Wu**, Jianbo Du, Junsuo Qu*. RIS-Aided Terahertz VR Streaming in Mobile Edge Computing via Improved DDPG with Action-Aware OU Noise Injection[J]. IEEE Transactions on Mobile Computing, 2026. （IEEE TMC，中科院1区TOP，IF：9.2，CCF A类期刊）
@@ -143,13 +143,13 @@ Jianwei Xue, Lisheng Xie, Faquan Chen, * **Liangshun Wu**, Qingyang Tian, Yifan 
 * **吴良顺**. 基于斐波那契进制的逻辑运算电路:ZL202011640617.1[P].2022-12-13.
 * **吴良顺**. 可见光通信系统及光传感设备:ZL202020373317.0[P].2020-09-18.
 * **吴良顺**. 通信数据校验方法、装置、计算机设备和存储介质:ZL202010357173.4[P].2021-06-15.
+* **吴良顺**. 数据传输方法、装置、计算机设备和存储介质:ZL202010236912.4[P].2021-03-16.
+* **吴良顺**. 数据处理方法、装置、计算机设备和存储介质:ZL201911418869.7[P].2022-08-02.
 * **吴良顺**. 大规模MIMO基带矩阵存取系统及方法[P]2026-4-16.
 * **吴良顺**. 神经网络分片协同推理方法及系统[P]2026-4-16.
 * **吴良顺**. 近实时无线接入网智能控制器的推理卸载与算子映射方法及系统[P]2026-4-16.
 * **吴良顺**. 集成电路芯片、集成电路及电子装置:201910824470.2[P].2019-09-02.
-* **吴良顺**. 数据传输方法、装置、计算机设备和存储介质:ZL202010236912.4[P].2021-03-16.
-* **吴良顺**. 数据处理方法、装置、计算机设备和存储介质:ZL201911418869.7[P].2022-08-02.
-* **吴良顺**. 缓存侧信道攻击的检测方法、装置和电子设备:ZL202110510694.3[P].2023-03-28.
+<!-- * **吴良顺**. 缓存侧信道攻击的检测方法、装置和电子设备:ZL202110510694.3[P].2023-03-28.
 * **吴良顺**. 热迁移的方法、装置及电子设备:ZL202011185459.5[P].2022-10-25.
 * **吴良顺**. 基于SGX的可信输入输出控制方法、装置、设备和存储介质:ZL202011506823.3[P].2022-08-02.
 * **吴良顺**. 基于SGX的云端飞地资源管理方法、装置、计算机设备和介质:ZL202011518608.5[P].2022-12-09.
@@ -166,7 +166,7 @@ Jianwei Xue, Lisheng Xie, Faquan Chen, * **Liangshun Wu**, Qingyang Tian, Yifan 
 * **吴良顺**, 蔡恒进. 数据加密、解密方法、装置和加解密电路:ZL202011428776.5[P].2021-03-16.
 * **吴良顺**. 主节点的确定方法、装置和存储介质:ZL201910662799.3[P].2022-04-08.
 * **吴良顺**. 交互式登录验证装置、方法及计算机可读存储介质:ZL201910477881.9[P].2020-02-11.
-蔡恒进, * **吴良顺**. 电子邮件签名方法、装置及存储介质:ZL201910498033.6[P].2020-02-11.
+蔡恒进, * **吴良顺**. 电子邮件签名方法、装置及存储介质:ZL201910498033.6[P].2020-02-11. -->
 
 资格证书
 ======
